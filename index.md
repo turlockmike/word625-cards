@@ -13,7 +13,7 @@
 - [ ] `words.json` locked — `[{id, kana, en, audio}]` ~625 rows, committed.
 - [ ] Audio staged — bundled mp3s (v1) and/or VOICEVOX batch (quality pass, correct pitch accent).
 - [ ] Images sourced ~625 in BATCHES. **Source SPLITS by word type (measured 2026-07-23):** Openverse photos for concrete-distinctive nouns ONLY (~24% top-1 kids-OK league-wide, but works for dog/cat/lemon/soup); **emoji/illustration set (OpenMoji CC-BY-SA / Twemoji) for common+abstract nouns** — the Openverse candidate POOL (all 6) is unusable for those (apple/milk/coffee/food return people/landscapes/brand-signs, correct image ABSENT). Optional photorealistic-generation upgrade later (`img` Gemini/OpenRouter, credential-gated). **Never 625 in one window.**
-- [ ] UI: image-front → tap → kana + audio (+ optional English hint), FSRS + offline SW + optional sync wired.
+- [x] **UI SHELL BUILT 2026-07-23** (`887534a`): image-front → tap → kana + audio + English hint, FSRS + offline SW + profile select/create + backup/restore + optional sync all wired. `app.js`+`index.html` forked from kana-flashcards, drops stroke/draw. Renders 44 status=ok cards from `images.json`; kana/audio STUBBED with a clear placeholder until `words.json` (deck) lands — it auto-fills the instant `data/words.json` appears (matched by `en`/slug), no code change. Verified: node --check all JS; merge logic vs real `images.json` (44 cards, all image files present, kana null→populates w/ synthetic deck); localhost static-serve all paths 200. **UNVERIFIED here:** actual browser render (no browser/net) → confirm on Pages deploy.
 - [ ] Deployed to GitHub Pages (turlockmike.github.io pattern), link reported to Mike.
 - [ ] **Kids actually use it** — real usage / Mike's feedback (Tier-3, awaits kids trying it).
 
