@@ -43,6 +43,19 @@ curl -sSL -G "https://ankiweb.net/svc/shared/item-info" --data-urlencode "shared
 4. **UI** — fork kana app.js/index.html shape; card = image front → tap → kana + audio + (optional) English hint. Wire FSRS + offline SW + optional sync.
 5. **Deploy** — GitHub Pages (same pattern as kana-cards → turlockmike.github.io).
 
+## STATUS (2026-07-23 ~12:30 CDT) — ✅ SHIPPED WITH DECK
+**App is LIVE with real content: https://turlockmike.github.io/word625-cards/** (commit `f5a3b89`).
+Deck 1234275230 pulled via the AnkiWeb **account path** (signup→confirm-terms→verify-email, no captcha;
+recipe now in `~/resources/infrastructure/ankiweb-shared-deck-fetch.md`). `notes.json` (595 notes,
+fields Front=kana/Audio=`[sound:<kana>.mp3]`/Back=en) → `words.json` (595) → **44/44 ok-image cards
+merge to image+kana+audio**, verified locally + live (words.json 200, audio mp3 `audio/mp3` 200).
+Transform hardened: strips `(noun)/(food)/(color)` qualifiers, prefers concrete sense on slug collision
+(orange food>color), aliases deck typo `millk→milk`; 7/7 selftest. Audio is **kana-named**, not `N.mp3`
+(BUILD's earlier assumption) — the `[sound:...]` regex handled it. Deck-day bug root-caused + fixed:
+`ankiweb-deck-dl` download_key was over-read by a greedy regex (protobuf LEN prefix ignored) → HTTP 400.
+**Residual (non-blocking):** `oil`, `sugar` = 2/46 images absent in OpenMoji → 44 cards v1; VOICEVOX
+pitch-accent audio = post-ship quality upgrade; photoreal image-gen = Mike-actionable (stale keys).
+
 ## STATUS (2026-07-23 ~03:36 CDT)
 - Plumbing forked. Media branch decided. **AnkiWeb download endpoint CRACKED + tool built (`ankiweb-deck-dl`, validated).** English list staged (`data/ff625-en.json`, 619 words). Only the anon download quota blocks the final apkg pull.
 - **Next chunk:** run `ankiweb-deck-dl 1234275230 --out data/` (it's a ~2s call — succeeds the moment the anon quota resets; if still 429 after ~24h, register an AnkiWeb account via agentmail + `--cookies`). Then transform `notes.json` → `words.json` `[{id,kana,en,audio}]` (Front=kana, Back=en, Audio=mp3 ref), stage `media/` mp3s. THEN start ONE downstream batch (VOICEVOX install OR first image batch). Never 625 in one window.
