@@ -38,7 +38,22 @@ def clean_en(back):
     s = re.sub(r"<[^>]+>", " ", back)          # strip any HTML
     s = re.sub(r"\s+", " ", s).strip()
     s = re.split(r"[;,/]", s)[0].strip()        # first sense only
-    return s.lower()
+    s = re.sub(r"\s*\([^)]*\)\s*$", "", s).strip()  # drop trailing "(noun)/(food)/(color)" qualifier
+    return _ALIAS.get(s.lower(), s.lower())
+
+# Deck-specific gloss fixes (deck 1234275230): typos/variants -> canonical image slug.
+_ALIAS = {"millk": "milk"}
+
+# When two deck senses collapse to the same slug (e.g. "orange (food)" vs "orange (color)"),
+# the app's first-match-wins lookup must prefer the concrete object. Push non-object
+# qualifiers to the back so the image's real sense wins. Lower = preferred.
+_QUAL_PENALTY = {"food":0, "noun":0, "animal":0, "fruit":0,
+                 "color":5, "colour":5, "adjective":4, "adverb":4, "verb":3, "pronoun":4}
+
+def _qual_penalty(back):
+    if not back: return 1
+    m = re.search(r"\(([^)]*)\)\s*$", back.strip())
+    return _QUAL_PENALTY.get(m.group(1).strip().lower(), 1) if m else 0
 
 def transform(notes):
     out = []
@@ -47,7 +62,12 @@ def transform(notes):
         kana = (f.get("Front") or "").strip()
         en = clean_en(f.get("Back"))
         audio = extract_audio(f.get("Audio"))
-        out.append({"id": n.get("id"), "kana": kana, "en": en, "audio": audio})
+        out.append({"id": n.get("id"), "kana": kana, "en": en, "audio": audio,
+                    "_pen": _qual_penalty(f.get("Back"))})
+    # stable-sort so the preferred sense of each colliding slug appears first (lookup table:
+    # global order is irrelevant to card order, which is driven by images.json).
+    out.sort(key=lambda w: w["_pen"])
+    for w in out: del w["_pen"]
     return out
 
 # ------------------------- self-test (no real deck needed) -------------------------
@@ -57,16 +77,25 @@ SYNTH = [
     {"id": 2, "fields": {"Front": "しお", "Audio": "", "Back": "salt"}, "tags": ""},           # silent note
     {"id": 3, "fields": {"Front": "いしゃ", "Audio": "[sound:3.mp3]", "Back": "doctor, physician"}, "tags": ""},
     {"id": 4, "fields": {"Front": "たかい", "Audio": "[sound:4.mp3]", "Back": "<b>expensive</b>"}, "tags": ""},
+    {"id": 5, "fields": {"Front": "さかな", "Audio": "[sound:さかな.mp3]", "Back": "fish (noun)"}, "tags": ""},   # kana-named audio + qualifier
+    {"id": 6, "fields": {"Front": "オレンジいろ", "Audio": "[sound:オレンジいろ.mp3]", "Back": "orange (color)"}, "tags": ""},
+    {"id": 7, "fields": {"Front": "オレンジ", "Audio": "[sound:オレンジ.mp3]", "Back": "orange (food)"}, "tags": ""},
 ]
 
 def selftest():
     w = transform(SYNTH)
-    assert w[0] == {"id": 0, "kana": "いぬ", "en": "dog", "audio": "0.mp3"}, w[0]
-    assert w[1]["audio"] == "1.mp3" and w[1]["en"] == "water", w[1]
-    assert w[2]["audio"] is None and w[2]["en"] == "salt", w[2]        # silent -> null audio
-    assert w[3]["en"] == "doctor", w[3]                                # first sense only
-    assert w[4]["en"] == "expensive", w[4]                             # HTML stripped
-    print("selftest: transform OK (5/5 cases)")
+    byid = {x["id"]: x for x in w}
+    assert byid[0] == {"id": 0, "kana": "いぬ", "en": "dog", "audio": "0.mp3"}, byid[0]
+    assert byid[1]["audio"] == "1.mp3" and byid[1]["en"] == "water", byid[1]
+    assert byid[2]["audio"] is None and byid[2]["en"] == "salt", byid[2]   # silent -> null audio
+    assert byid[3]["en"] == "doctor", byid[3]                              # first sense only
+    assert byid[4]["en"] == "expensive", byid[4]                           # HTML stripped
+    # real-deck shapes: kana-named audio + parenthetical qualifiers (root-caused on deck-day 2026-07-23)
+    assert byid[5]["en"] == "fish" and byid[5]["audio"] == "さかな.mp3", byid[5]   # "(noun)" stripped, kana audio
+    # orange collision: (food) must win the slug over (color) via penalty reorder
+    oranges = [x for x in w if x["en"] == "orange"]
+    assert oranges and oranges[0]["kana"] == "オレンジ", oranges     # food sense first
+    print("selftest: transform OK (7/7 cases)")
     # cross-check against the staged English list: do our cleaned glosses land in FF625?
     here = os.path.dirname(os.path.abspath(__file__))
     ff = os.path.join(here, "ff625-en.json")

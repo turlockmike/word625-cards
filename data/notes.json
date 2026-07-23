@@ -1,0 +1,5357 @@
+[
+ {
+  "id": 1492387750055,
+  "fields": {
+   "Front": "けいようし",
+   "Audio": "[sound:けいようし.mp3]",
+   "Back": "adjective"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387809643,
+  "fields": {
+   "Front": "おとな",
+   "Audio": "[sound:おとな.mp3]",
+   "Back": "adult"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387830676,
+  "fields": {
+   "Front": "ごご",
+   "Audio": "[sound:ごご.mp3]",
+   "Back": "afternoon; pm"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387852178,
+  "fields": {
+   "Front": "くうき",
+   "Audio": "[sound:くうき.mp3]",
+   "Back": "air"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387875590,
+  "fields": {
+   "Front": "くうこう",
+   "Audio": "[sound:くうこう.mp3]",
+   "Back": "airport"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387889441,
+  "fields": {
+   "Front": "せいぜん",
+   "Audio": "[sound:せいぜん.mp3]",
+   "Back": "alive; during one's lifetime"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387937109,
+  "fields": {
+   "Front": "どうぶつ",
+   "Audio": "[sound:どうぶつ.mp3]",
+   "Back": "animal"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387955642,
+  "fields": {
+   "Front": "アパート",
+   "Audio": "[sound:アパート.mp3]",
+   "Back": "apartment"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387971385,
+  "fields": {
+   "Front": "りんご",
+   "Audio": "[sound:りんご.mp3]",
+   "Back": "apple"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492387979678,
+  "fields": {
+   "Front": "しがつ",
+   "Audio": "[sound:しがつ.mp3]",
+   "Back": "April"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388004337,
+  "fields": {
+   "Front": "て",
+   "Audio": "[sound:て.mp3]",
+   "Back": "hand; arm"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388031534,
+  "fields": {
+   "Front": "ぐんたい",
+   "Audio": "[sound:ぐんたい.mp3]",
+   "Back": "army"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388085629,
+  "fields": {
+   "Front": "びじゅつ",
+   "Audio": "[sound:びじゅつ.mp3]",
+   "Back": "art"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388104966,
+  "fields": {
+   "Front": "げいじゅつか",
+   "Audio": "[sound:げいじゅつか.mp3]",
+   "Back": "artist"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388135015,
+  "fields": {
+   "Front": "こうげき",
+   "Audio": "[sound:こうげき.mp3]",
+   "Back": "attack (noun/する verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388174404,
+  "fields": {
+   "Front": "はちがつ",
+   "Audio": "[sound:はちがつ.mp3]",
+   "Back": "August"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388207488,
+  "fields": {
+   "Front": "さっか",
+   "Audio": "[sound:さっか.mp3]",
+   "Back": "author (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388229056,
+  "fields": {
+   "Front": "あかちゃん",
+   "Audio": "[sound:あかちゃん.mp3]",
+   "Back": "baby"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388238059,
+  "fields": {
+   "Front": "せ",
+   "Audio": "[sound:せ.mp3]",
+   "Back": "back; spine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388256200,
+  "fields": {
+   "Front": "うしろ",
+   "Audio": "[sound:うしろ.mp3]",
+   "Back": "back (direction)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388272056,
+  "fields": {
+   "Front": "わるい",
+   "Audio": "[sound:わるい.mp3]",
+   "Back": "bad"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388280624,
+  "fields": {
+   "Front": "かばん",
+   "Audio": "[sound:かばん.mp3]",
+   "Back": "bag"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388298497,
+  "fields": {
+   "Front": "ボール",
+   "Audio": "[sound:ボール.mp3]",
+   "Back": "ball"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388321877,
+  "fields": {
+   "Front": "バナナ",
+   "Audio": "[sound:バナナ.mp3]",
+   "Back": "banana"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388330650,
+  "fields": {
+   "Front": "バンド",
+   "Audio": "[sound:バンド.mp3]",
+   "Back": "band"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388349548,
+  "fields": {
+   "Front": "ぎんこう",
+   "Audio": "",
+   "Back": "bank"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388379811,
+  "fields": {
+   "Front": "さかば",
+   "Audio": "[sound:さかば.mp3]",
+   "Back": "bar (for drinking)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388408655,
+  "fields": {
+   "Front": "おてあらい",
+   "Audio": "[sound:おてあらい.mp3]",
+   "Back": "bathroom"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388423945,
+  "fields": {
+   "Front": "うみべ",
+   "Audio": "[sound:うみべ.mp3]",
+   "Back": "beach"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388466219,
+  "fields": {
+   "Front": "ひげ",
+   "Audio": "[sound:ひげ.mp3]",
+   "Back": "beard"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388497131,
+  "fields": {
+   "Front": "なぐる",
+   "Audio": "[sound:なぐる.mp3]",
+   "Back": "to beat; to strike (う verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388560341,
+  "fields": {
+   "Front": "きれい",
+   "Audio": "[sound:きれい.mp3]",
+   "Back": "beautiful"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388601035,
+  "fields": {
+   "Front": "ベッド",
+   "Audio": "[sound:ベッド.mp3]",
+   "Back": "bed"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388617571,
+  "fields": {
+   "Front": "しんしつ",
+   "Audio": "[sound:しんしつ.mp3]",
+   "Back": "bedroom"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388636921,
+  "fields": {
+   "Front": "ぎゅうにく",
+   "Audio": "[sound:ぎゅうにく.mp3]",
+   "Back": "beef"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388657122,
+  "fields": {
+   "Front": "ビール",
+   "Audio": "[sound:ビール.mp3]",
+   "Back": "beer"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388672507,
+  "fields": {
+   "Front": "まがる",
+   "Audio": "[sound:まがる.mp3]",
+   "Back": "to bend (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388704791,
+  "fields": {
+   "Front": "のみもの",
+   "Audio": "[sound:のみもの.mp3]",
+   "Back": "beverage"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388730798,
+  "fields": {
+   "Front": "じてんしゃ",
+   "Audio": "[sound:じてんしゃ.mp3]",
+   "Back": "bicycle"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388743216,
+  "fields": {
+   "Front": "おおきい",
+   "Audio": "[sound:おおきい.mp3]",
+   "Back": "big"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388755979,
+  "fields": {
+   "Front": "つけ",
+   "Audio": "[sound:つけ.mp3]",
+   "Back": "bill; tab (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388793432,
+  "fields": {
+   "Front": "じゅうおく",
+   "Audio": "[sound:じゅうおく.mp3]",
+   "Back": "billion"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388814700,
+  "fields": {
+   "Front": "とり",
+   "Audio": "[sound:とり.mp3]",
+   "Back": "bird"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388833030,
+  "fields": {
+   "Front": "くろい",
+   "Audio": "[sound:くろい.mp3]",
+   "Back": "black"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388841983,
+  "fields": {
+   "Front": "めのふじゆ（な）",
+   "Audio": "[sound:めのふじゆ.mp3]",
+   "Back": "blindess"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388939250,
+  "fields": {
+   "Front": "けつえき",
+   "Audio": "[sound:けつえき.mp3]",
+   "Back": "blood"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388968798,
+  "fields": {
+   "Front": "あおい",
+   "Audio": "[sound:あおい.mp3]",
+   "Back": "blue"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492388984520,
+  "fields": {
+   "Front": "ボート",
+   "Audio": "[sound:ボート.mp3]",
+   "Back": "boat"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389009116,
+  "fields": {
+   "Front": "からだ",
+   "Audio": "[sound:からだ.mp3]",
+   "Back": "body"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389018792,
+  "fields": {
+   "Front": "ほね",
+   "Audio": "[sound:ほね.mp3]",
+   "Back": "bone"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389033604,
+  "fields": {
+   "Front": "ほん",
+   "Audio": "[sound:ほん.mp3]",
+   "Back": "book"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389055115,
+  "fields": {
+   "Front": "びん",
+   "Audio": "[sound:びん.mp3]",
+   "Back": "bottle"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389073503,
+  "fields": {
+   "Front": "うら",
+   "Audio": "[sound:うら.mp3]",
+   "Back": "bottom"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389104338,
+  "fields": {
+   "Front": "はこ",
+   "Audio": "[sound:はこ.mp3]",
+   "Back": "box"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389123612,
+  "fields": {
+   "Front": "おとこのこ",
+   "Audio": "[sound:おとこのこ.mp3]",
+   "Back": "boy"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389144386,
+  "fields": {
+   "Front": "のう",
+   "Audio": "[sound:のう.mp3]",
+   "Back": "brain"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389159814,
+  "fields": {
+   "Front": "おる",
+   "Audio": "[sound:おる.mp3]",
+   "Back": "to break (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389217474,
+  "fields": {
+   "Front": "パン",
+   "Audio": "[sound:パン.mp3]",
+   "Back": "bread"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389233413,
+  "fields": {
+   "Front": "あさごはん",
+   "Audio": "[sound:あさごはん.mp3]",
+   "Back": "breakfast"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389243858,
+  "fields": {
+   "Front": "はし (not chopsticks)",
+   "Audio": "",
+   "Back": "bridge"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389253008,
+  "fields": {
+   "Front": "おにいさん",
+   "Audio": "[sound:おにいさん.mp3]",
+   "Back": "(older) brother"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389267014,
+  "fields": {
+   "Front": "おとうと",
+   "Audio": "[sound:おとうと.mp3]",
+   "Back": "(little) brother"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389289909,
+  "fields": {
+   "Front": "ちゃいろ",
+   "Audio": "[sound:ちゃいろ.mp3]",
+   "Back": "brown"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389314157,
+  "fields": {
+   "Front": "たてる",
+   "Audio": "[sound:たてる.mp3]",
+   "Back": "to build (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389352087,
+  "fields": {
+   "Front": "ビル",
+   "Audio": "[sound:ビル.mp3]",
+   "Back": "building"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389370682,
+  "fields": {
+   "Front": "やく",
+   "Audio": "[sound:やく.mp3]",
+   "Back": "burn (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389403114,
+  "fields": {
+   "Front": "バス",
+   "Audio": "[sound:バス.mp3]",
+   "Back": "bus"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389418886,
+  "fields": {
+   "Front": "買う",
+   "Audio": "[sound:買う.mp3]",
+   "Back": "to buy (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389436649,
+  "fields": {
+   "Front": "ケーキ",
+   "Audio": "[sound:ケーキ.mp3]",
+   "Back": "cake"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389444619,
+  "fields": {
+   "Front": "電話",
+   "Audio": "[sound:電話する.mp3]",
+   "Back": "to call (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389462948,
+  "fields": {
+   "Front": "カメラ",
+   "Audio": "[sound:カメラ.mp3]",
+   "Back": "camera"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389472815,
+  "fields": {
+   "Front": "キャンプ",
+   "Audio": "[sound:キャンプ.mp3]",
+   "Back": "camp (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389488743,
+  "fields": {
+   "Front": "くるま",
+   "Audio": "[sound:くるま.mp3]",
+   "Back": "car"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389499635,
+  "fields": {
+   "Front": "カード",
+   "Audio": "[sound:カード.mp3]",
+   "Back": "card"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389511901,
+  "fields": {
+   "Front": "もつ",
+   "Audio": "[sound:もつ.mp3]",
+   "Back": "to carry (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389539655,
+  "fields": {
+   "Front": "ねこ",
+   "Audio": "[sound:ねこ.mp3]",
+   "Back": "cat"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389548786,
+  "fields": {
+   "Front": "キャチ",
+   "Audio": "[sound:キャチ.mp3]",
+   "Back": "to catch (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389579143,
+  "fields": {
+   "Front": "でんじょう",
+   "Audio": "[sound:でんじょう.mp3]",
+   "Back": "ceiling"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389619975,
+  "fields": {
+   "Front": "けいたいでんわ",
+   "Audio": "[sound:けいたいでんわ.mp3]",
+   "Back": "cell phone"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389636873,
+  "fields": {
+   "Front": "センチ",
+   "Audio": "[sound:センチ.mp3]",
+   "Back": "centimeter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389655788,
+  "fields": {
+   "Front": "<!--anki-->いす",
+   "Audio": "[sound:いす.mp3]",
+   "Back": "chair (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389667633,
+  "fields": {
+   "Front": "やすい",
+   "Audio": "[sound:やすい.mp3]",
+   "Back": "cheap"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389679994,
+  "fields": {
+   "Front": "チーズ",
+   "Audio": "[sound:チーズ.mp3]",
+   "Back": "cheese"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389685555,
+  "fields": {
+   "Front": "にわとり",
+   "Audio": "[sound:にわとり.mp3]",
+   "Back": "chicken"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389710805,
+  "fields": {
+   "Front": "こども",
+   "Audio": "[sound:こども.mp3]",
+   "Back": "child"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389721570,
+  "fields": {
+   "Front": "きょうかい",
+   "Audio": "[sound:きょうかい.mp3]",
+   "Back": "church"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389741781,
+  "fields": {
+   "Front": "まる",
+   "Audio": "[sound:まる.mp3]",
+   "Back": "circle (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389757842,
+  "fields": {
+   "Front": "し",
+   "Audio": "[sound:し.mp3]",
+   "Back": "city"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389775851,
+  "fields": {
+   "Front": "ねんど",
+   "Audio": "[sound:ねんど.mp3]",
+   "Back": "clay"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389797097,
+  "fields": {
+   "Front": "せいけつ",
+   "Audio": "[sound:せいけつ.mp3]",
+   "Back": "clean (adjective)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389836263,
+  "fields": {
+   "Front": "そうじ",
+   "Audio": "[sound:そうじ.mp3]",
+   "Back": "to clean (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389875147,
+  "fields": {
+   "Front": "とけい",
+   "Audio": "[sound:とけい.mp3]",
+   "Back": "clock"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389905608,
+  "fields": {
+   "Front": "しめる",
+   "Audio": "[sound:しめる.mp3]",
+   "Back": "to close (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389937440,
+  "fields": {
+   "Front": "ふく",
+   "Audio": "[sound:ふく.mp3]",
+   "Back": "clothes"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389960088,
+  "fields": {
+   "Front": "クラブ",
+   "Audio": "[sound:クラブ.mp3]",
+   "Back": "club; nightclub"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492389984153,
+  "fields": {
+   "Front": "コート",
+   "Audio": "[sound:コート.mp3]",
+   "Back": "coat (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390034963,
+  "fields": {
+   "Front": "コーヒー",
+   "Audio": "[sound:コーヒー.mp3]",
+   "Back": "coffee"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390045103,
+  "fields": {
+   "Front": "さむい",
+   "Audio": "[sound:さむい.mp3]",
+   "Back": "cold"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390054102,
+  "fields": {
+   "Front": "いろ",
+   "Audio": "[sound:いろ.mp3]",
+   "Back": "color (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390067193,
+  "fields": {
+   "Front": "りょうり",
+   "Audio": "[sound:りょうり.mp3]",
+   "Back": "to cook (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390081903,
+  "fields": {
+   "Front": "コンピューター",
+   "Audio": "[sound:コンピューター.mp3]",
+   "Back": "computer"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390098873,
+  "fields": {
+   "Front": "しいん",
+   "Audio": "[sound:しいん.mp3]",
+   "Back": "consonant"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390131196,
+  "fields": {
+   "Front": "けいやく",
+   "Audio": "[sound:けいやく.mp3]",
+   "Back": "contract; agreement"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390152993,
+  "fields": {
+   "Front": "かっこいい",
+   "Audio": "[sound:かっこいい.mp3]",
+   "Back": "cool (stylish)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390188173,
+  "fields": {
+   "Front": "どう",
+   "Audio": "[sound:どう.mp3]",
+   "Back": "copper"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390203984,
+  "fields": {
+   "Front": "こうか",
+   "Audio": "[sound:こうか.mp3]",
+   "Back": "coin"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390218169,
+  "fields": {
+   "Front": "とうもろこし",
+   "Audio": "[sound:とうもろこし.mp3]",
+   "Back": "corn"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390273721,
+  "fields": {
+   "Front": "すみ",
+   "Audio": "[sound:すみ.mp3]",
+   "Back": "corner"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390296236,
+  "fields": {
+   "Front": "かぞえる",
+   "Audio": "[sound:かぞえる.mp3]",
+   "Back": "to count (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390338404,
+  "fields": {
+   "Front": "こく",
+   "Audio": "[sound:こく.mp3]",
+   "Back": "country"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390357962,
+  "fields": {
+   "Front": "さいばんしょ",
+   "Audio": "[sound:さいばんしょ.mp3]",
+   "Back": "court"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390376147,
+  "fields": {
+   "Front": "うし",
+   "Audio": "[sound:うし.mp3]",
+   "Back": "cow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390388347,
+  "fields": {
+   "Front": "おおぜい",
+   "Audio": "[sound:おおぜい.mp3]",
+   "Back": "crowd (large number of people)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390427221,
+  "fields": {
+   "Front": "なく",
+   "Audio": "[sound:なく.mp3]",
+   "Back": "to cry (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390459694,
+  "fields": {
+   "Front": "カップ",
+   "Audio": "[sound:カップ.mp3]",
+   "Back": "cup"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390470117,
+  "fields": {
+   "Front": "やまなり（な）",
+   "Audio": "[sound:やまなり.mp3]",
+   "Back": "curved"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390497740,
+  "fields": {
+   "Front": "きる",
+   "Audio": "[sound:きる.mp3]",
+   "Back": "to cut (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390543259,
+  "fields": {
+   "Front": "おどる",
+   "Audio": "[sound:おどる.mp3]",
+   "Back": "to dance (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390557026,
+  "fields": {
+   "Front": "くらい",
+   "Audio": "[sound:くらい.mp3]",
+   "Back": "dark"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390575611,
+  "fields": {
+   "Front": "ひづけ",
+   "Audio": "[sound:ひづけ.mp3]",
+   "Back": "date (calendar)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390648052,
+  "fields": {
+   "Front": "おじょうさん",
+   "Audio": "[sound:おじょうさん.mp3]",
+   "Back": "daughter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390670684,
+  "fields": {
+   "Front": "ひ",
+   "Audio": "[sound:ひ.mp3]",
+   "Back": "day"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390685325,
+  "fields": {
+   "Front": "しぬ",
+   "Audio": "[sound:しぬ.mp3]",
+   "Back": "to die (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390760547,
+  "fields": {
+   "Front": "ろうしゃ",
+   "Audio": "[sound:ろうしゃ.mp3]",
+   "Back": "deaf person"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390794140,
+  "fields": {
+   "Front": "じゅうにがつ",
+   "Audio": "[sound:じゅうにがつ.mp3]",
+   "Back": "December"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390826272,
+  "fields": {
+   "Front": "ふかい",
+   "Audio": "[sound:ふかい.mp3]",
+   "Back": "deep (e.g. a hole)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390918966,
+  "fields": {
+   "Front": "ダイヤモンド",
+   "Audio": "[sound:ダイヤモンド.mp3]",
+   "Back": "diamond"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492390946301,
+  "fields": {
+   "Front": "ほる",
+   "Audio": "[sound:ほる.mp3]",
+   "Back": "to dig (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391018157,
+  "fields": {
+   "Front": "ばんごはん",
+   "Audio": "[sound:ばんごはん.mp3]",
+   "Back": "dinner"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391036525,
+  "fields": {
+   "Front": "ほう",
+   "Audio": "[sound:ほう.mp3]",
+   "Back": "direction"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391060921,
+  "fields": {
+   "Front": "きたない",
+   "Audio": "[sound:きたない.mp3]",
+   "Back": "dirty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391089158,
+  "fields": {
+   "Front": "びょうき",
+   "Audio": "[sound:びょうき.mp3]",
+   "Back": "disease"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391107372,
+  "fields": {
+   "Front": "いしゃ",
+   "Audio": "[sound:いしゃ.mp3]",
+   "Back": "doctor"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391123581,
+  "fields": {
+   "Front": "いぬ",
+   "Audio": "[sound:いぬ.mp3]",
+   "Back": "dog"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391129195,
+  "fields": {
+   "Front": "ドル",
+   "Audio": "[sound:ドル.mp3]",
+   "Back": "dollar"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391142219,
+  "fields": {
+   "Front": "とびら",
+   "Audio": "[sound:とびら.mp3]",
+   "Back": "door"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391167609,
+  "fields": {
+   "Front": "てん",
+   "Audio": "[sound:てん.mp3]",
+   "Back": "dot"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391185011,
+  "fields": {
+   "Front": "ダウン",
+   "Audio": "[sound:ダウン.mp3]",
+   "Back": "down"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391208832,
+  "fields": {
+   "Front": "かく",
+   "Audio": "[sound:かく.mp3]",
+   "Back": "to draw (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391245989,
+  "fields": {
+   "Front": "ゆめ",
+   "Audio": "[sound:ゆめ.mp3]",
+   "Back": "dream (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391272372,
+  "fields": {
+   "Front": "ドレス",
+   "Audio": "[sound:ドレス.mp3]",
+   "Back": "dress"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391297384,
+  "fields": {
+   "Front": "のむ",
+   "Audio": "[sound:のむ.mp3]",
+   "Back": "to drink (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391310046,
+  "fields": {
+   "Front": "うんてん",
+   "Audio": "",
+   "Back": "to drive (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391324412,
+  "fields": {
+   "Front": "やくざい",
+   "Audio": "[sound:やくざい.mp3]",
+   "Back": "drug"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391353616,
+  "fields": {
+   "Front": "ドライ",
+   "Audio": "[sound:ドライ.mp3]",
+   "Back": "dry"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391422403,
+  "fields": {
+   "Front": "ほこり",
+   "Audio": "[sound:ほこり.mp3]",
+   "Back": "dust (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391448440,
+  "fields": {
+   "Front": "みみ",
+   "Audio": "[sound:みみ.mp3]",
+   "Back": "ear"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391460030,
+  "fields": {
+   "Front": "ちきゅう",
+   "Audio": "[sound:ちきゅう.mp3]",
+   "Back": "earth (as a planet)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391717277,
+  "fields": {
+   "Front": "ひがし",
+   "Audio": "[sound:ひがし.mp3]",
+   "Back": "east"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391750459,
+  "fields": {
+   "Front": "たべる",
+   "Audio": "[sound:たべる.mp3]",
+   "Back": "to eat (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391777383,
+  "fields": {
+   "Front": "ふち",
+   "Audio": "[sound:ふち.mp3]",
+   "Back": "edge"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391838206,
+  "fields": {
+   "Front": "たまご",
+   "Audio": "[sound:たまご.mp3]",
+   "Back": "egg"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391846335,
+  "fields": {
+   "Front": "はち",
+   "Audio": "",
+   "Back": "eight"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391856331,
+  "fields": {
+   "Front": "じゅうはち",
+   "Audio": "[sound:じゅうはち.mp3]",
+   "Back": "eighteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391872548,
+  "fields": {
+   "Front": "はちじゅう",
+   "Audio": "",
+   "Back": "eighty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391887852,
+  "fields": {
+   "Front": "でんしきき",
+   "Audio": "[sound:でんしきき.mp3]",
+   "Back": "electronic device"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391934038,
+  "fields": {
+   "Front": "じゅういち",
+   "Audio": "[sound:じゅういち.mp3]",
+   "Back": "eleven"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492391947231,
+  "fields": {
+   "Front": "エネルギー",
+   "Audio": "[sound:エネルギー.mp3]",
+   "Back": "energy (in physics)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392010890,
+  "fields": {
+   "Front": "エンジン",
+   "Audio": "[sound:エンジン.mp3]",
+   "Back": "engine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392032459,
+  "fields": {
+   "Front": "よる",
+   "Audio": "[sound:よる.mp3]",
+   "Back": "evening"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392060289,
+  "fields": {
+   "Front": "うんどう",
+   "Audio": "",
+   "Back": "to exercise (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392116454,
+  "fields": {
+   "Front": "たかい",
+   "Audio": "[sound:たかい.mp3]",
+   "Back": "expensive"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392132583,
+  "fields": {
+   "Front": "ばくはつ",
+   "Audio": "[sound:ばくはつ.mp3]",
+   "Back": "to explode (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392202402,
+  "fields": {
+   "Front": "目",
+   "Audio": "[sound:目.mp3]",
+   "Back": "eye (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392219618,
+  "fields": {
+   "Front": "かお",
+   "Audio": "[sound:かお.mp3]",
+   "Back": "face (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392227903,
+  "fields": {
+   "Front": "あき",
+   "Audio": "[sound:あき.mp3]",
+   "Back": "fall (season)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392249238,
+  "fields": {
+   "Front": "てんらく",
+   "Audio": "[sound:てんらく.mp3]",
+   "Back": "to fall (tumble) (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392302657,
+  "fields": {
+   "Front": "かぞく",
+   "Audio": "[sound:かぞく.mp3]",
+   "Back": "family"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392315941,
+  "fields": {
+   "Front": "ゆうめい（な）",
+   "Audio": "[sound:ゆうめい.mp3]",
+   "Back": "famous"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392328360,
+  "fields": {
+   "Front": "せんぷうき",
+   "Audio": "[sound:せんぷうき.mp3]",
+   "Back": "electric fan"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392374519,
+  "fields": {
+   "Front": "ファン",
+   "Audio": "[sound:ファン.mp3]",
+   "Back": "fan (sports)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392390012,
+  "fields": {
+   "Front": "ぼくじょう",
+   "Audio": "[sound:ぼくじょう.mp3]",
+   "Back": "farm (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392423295,
+  "fields": {
+   "Front": "はやい",
+   "Audio": "[sound:はやい.mp3]",
+   "Back": "fast"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392444524,
+  "fields": {
+   "Front": "おとうさん",
+   "Audio": "[sound:おとうさん.mp3]",
+   "Back": "father"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392455887,
+  "fields": {
+   "Front": "にがつ",
+   "Audio": "[sound:にがつ.mp3]",
+   "Back": "February"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392488596,
+  "fields": {
+   "Front": "きゅうじ",
+   "Audio": "[sound:きゅうじ.mp3]",
+   "Back": "to feed (an animal) (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392565690,
+  "fields": {
+   "Front": "おんあ",
+   "Audio": "[sound:おんあ.mp3]",
+   "Back": "female"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392582947,
+  "fields": {
+   "Front": "じゅうご",
+   "Audio": "[sound:じゅうご.mp3]",
+   "Back": "fifteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392594238,
+  "fields": {
+   "Front": "いつか",
+   "Audio": "[sound:いつか.mp3]",
+   "Back": "fifth (of the month)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392614549,
+  "fields": {
+   "Front": "ごじゅう",
+   "Audio": "[sound:ごじゅう.mp3]",
+   "Back": "fifty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392625589,
+  "fields": {
+   "Front": "せんとう",
+   "Audio": "[sound:せんとう.mp3]",
+   "Back": "to fight/battle (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392657269,
+  "fields": {
+   "Front": "みつける",
+   "Audio": "[sound:みつける.mp3]",
+   "Back": "to find (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392696770,
+  "fields": {
+   "Front": "ゆび",
+   "Audio": "[sound:ゆび.mp3]",
+   "Back": "finger"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392729412,
+  "fields": {
+   "Front": "ひ",
+   "Audio": "[sound:ひ.mp3]",
+   "Back": "fire (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392750887,
+  "fields": {
+   "Front": "ついたち",
+   "Audio": "[sound:ついたち.mp3]",
+   "Back": "1st (of the month)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392782206,
+  "fields": {
+   "Front": "さかな",
+   "Audio": "[sound:さかな.mp3]",
+   "Back": "fish (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392799299,
+  "fields": {
+   "Front": "ゆか",
+   "Audio": "[sound:ゆか.mp3]",
+   "Back": "floor"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392825158,
+  "fields": {
+   "Front": "はな",
+   "Audio": "[sound:はな.mp3]",
+   "Back": "flower"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392840676,
+  "fields": {
+   "Front": "とぶ",
+   "Audio": "[sound:とぶ.mp3]",
+   "Back": "to fly (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392874810,
+  "fields": {
+   "Front": "したがう",
+   "Audio": "[sound:したがう.mp3]",
+   "Back": "to follow (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392979497,
+  "fields": {
+   "Front": "たべもの",
+   "Audio": "[sound:たべもの.mp3]",
+   "Back": "food"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492392995413,
+  "fields": {
+   "Front": "あし",
+   "Audio": "[sound:あし.mp3]",
+   "Back": "foot (body part)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393010768,
+  "fields": {
+   "Front": "フィート",
+   "Audio": "[sound:フィート.mp3]",
+   "Back": "feet/foot (measurement)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393041183,
+  "fields": {
+   "Front": "もり",
+   "Audio": "[sound:もり.mp3]",
+   "Back": "forest"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393062105,
+  "fields": {
+   "Front": "フォーク",
+   "Audio": "[sound:フォーク.mp3]",
+   "Back": "fork"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393068938,
+  "fields": {
+   "Front": "よんじゅう",
+   "Audio": "[sound:よんじゅう.mp3]",
+   "Back": "fourty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393081303,
+  "fields": {
+   "Front": "よん/し",
+   "Audio": "[sound:よん%2Fし.mp3]",
+   "Back": "four"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393131339,
+  "fields": {
+   "Front": "じゅうよん",
+   "Audio": "[sound:じゅうよん.mp3]",
+   "Back": "fourteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393149360,
+  "fields": {
+   "Front": "よっか",
+   "Audio": "[sound:よっか.mp3]",
+   "Back": "fourth (of the month)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393168280,
+  "fields": {
+   "Front": "きにょうび",
+   "Audio": "[sound:きにょうび.mp3]",
+   "Back": "Friday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393182758,
+  "fields": {
+   "Front": "ともだち",
+   "Audio": "[sound:ともだち.mp3]",
+   "Back": "friend"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393192757,
+  "fields": {
+   "Front": "ぜんぶ",
+   "Audio": "[sound:ぜんぶ.mp3]",
+   "Back": "front"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393255480,
+  "fields": {
+   "Front": "ゲーム",
+   "Audio": "[sound:ゲーム.mp3]",
+   "Back": "game"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393288075,
+  "fields": {
+   "Front": "にわ",
+   "Audio": "[sound:にわ.mp3]",
+   "Back": "garden"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393305060,
+  "fields": {
+   "Front": "ガソリン",
+   "Audio": "[sound:ガソリン.mp3]",
+   "Back": "gasoline"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393328398,
+  "fields": {
+   "Front": "おくりもの",
+   "Audio": "[sound:おくりもの.mp3]",
+   "Back": "gift"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393365325,
+  "fields": {
+   "Front": "おんなのこ",
+   "Audio": "[sound:おんなのこ.mp3]",
+   "Back": "girl"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393376651,
+  "fields": {
+   "Front": "&nbsp;ガラス",
+   "Audio": "[sound:ガラス.mp3]",
+   "Back": "glass (pane)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393407349,
+  "fields": {
+   "Front": "いく",
+   "Audio": "[sound:いく.mp3]",
+   "Back": "to go (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393430965,
+  "fields": {
+   "Front": "かみ",
+   "Audio": "[sound:かみ.mp3]",
+   "Back": "paper"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393449611,
+  "fields": {
+   "Front": "おうごん",
+   "Audio": "[sound:おうごん.mp3]",
+   "Back": "gold"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393473181,
+  "fields": {
+   "Front": "いい",
+   "Audio": "[sound:いい.mp3]",
+   "Back": "good"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393482460,
+  "fields": {
+   "Front": "おじいさん",
+   "Audio": "[sound:おじいさん.mp3]",
+   "Back": "grandfather"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393515179,
+  "fields": {
+   "Front": "おばあさん",
+   "Audio": "[sound:おばあさん.mp3]",
+   "Back": "grandmother"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393529972,
+  "fields": {
+   "Front": "くさ",
+   "Audio": "[sound:くさ.mp3]",
+   "Back": "grass"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393545801,
+  "fields": {
+   "Front": "はいいろ",
+   "Audio": "[sound:はいいろ.mp3]",
+   "Back": "gray"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393567053,
+  "fields": {
+   "Front": "みどり",
+   "Audio": "[sound:みどり.mp3]",
+   "Back": "green"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393593020,
+  "fields": {
+   "Front": "ち",
+   "Audio": "[sound:ち.mp3]",
+   "Back": "ground"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393629436,
+  "fields": {
+   "Front": "はやす",
+   "Audio": "[sound:はやす.mp3]",
+   "Back": "to grow (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393733022,
+  "fields": {
+   "Front": "じゅう",
+   "Audio": "[sound:じゅう.mp3]",
+   "Back": "gun"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393792756,
+  "fields": {
+   "Front": "かみ",
+   "Audio": "[sound:かみ.mp3]",
+   "Back": "hair"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393805727,
+  "fields": {
+   "Front": "はん",
+   "Audio": "[sound:はん.mp3]",
+   "Back": "half"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393811914,
+  "fields": {
+   "Front": "て",
+   "Audio": "[sound:て.mp3]",
+   "Back": "hand"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393828026,
+  "fields": {
+   "Front": "つるす",
+   "Audio": "[sound:つるす.mp3]",
+   "Back": "to hang up (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393861121,
+  "fields": {
+   "Front": "うれしい",
+   "Audio": "[sound:うれしい.mp3]",
+   "Back": "happy; glad"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393886488,
+  "fields": {
+   "Front": "むずかしい",
+   "Audio": "[sound:むずかしい.mp3]",
+   "Back": "hard"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393896315,
+  "fields": {
+   "Front": "ぼうし",
+   "Audio": "[sound:ぼうし.mp3]",
+   "Back": "hat"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393911330,
+  "fields": {
+   "Front": "かれ",
+   "Audio": "[sound:かれ.mp3]",
+   "Back": "he (rare)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393923438,
+  "fields": {
+   "Front": "あたま",
+   "Audio": "[sound:あたま.mp3]",
+   "Back": "head"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393930670,
+  "fields": {
+   "Front": "たっしゃ（な）",
+   "Audio": "[sound:たっしゃ.mp3]",
+   "Back": "healthy"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492393973846,
+  "fields": {
+   "Front": "きく",
+   "Audio": "[sound:きく.mp3]",
+   "Back": "to hear (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394028269,
+  "fields": {
+   "Front": "しんぞう",
+   "Audio": "[sound:しんぞう.mp3]",
+   "Back": "heart"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394057661,
+  "fields": {
+   "Front": "ねつ",
+   "Audio": "[sound:ねつ.mp3]",
+   "Back": "heart (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394107870,
+  "fields": {
+   "Front": "てんごく",
+   "Audio": "[sound:てんごく.mp3]",
+   "Back": "heaven"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394131746,
+  "fields": {
+   "Front": "おもい",
+   "Audio": "[sound:おもい.mp3]",
+   "Back": "heavy"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394153164,
+  "fields": {
+   "Front": "じごく",
+   "Audio": "[sound:じごく.mp3]",
+   "Back": "hell"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394184411,
+  "fields": {
+   "Front": "たかい",
+   "Audio": "[sound:たかい.mp3]",
+   "Back": "high (also expensive)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394290092,
+  "fields": {
+   "Front": "おか",
+   "Audio": "[sound:おか.mp3]",
+   "Back": "hill"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394322287,
+  "fields": {
+   "Front": "あな",
+   "Audio": "[sound:あな.mp3]",
+   "Back": "hole"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394347166,
+  "fields": {
+   "Front": "うま",
+   "Audio": "[sound:うま.mp3]",
+   "Back": "horse"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394360400,
+  "fields": {
+   "Front": "びょういん",
+   "Audio": "[sound:びょういん.mp3]",
+   "Back": "hospital"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394372132,
+  "fields": {
+   "Front": "あつい",
+   "Audio": "[sound:あつい.mp3]",
+   "Back": "hot"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394379621,
+  "fields": {
+   "Front": "ホテル",
+   "Audio": "[sound:ホテル.mp3]",
+   "Back": "hotel"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394392384,
+  "fields": {
+   "Front": "じかん",
+   "Audio": "[sound:じかん.mp3]",
+   "Back": "hour"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394402684,
+  "fields": {
+   "Front": "いえ",
+   "Audio": "[sound:いえ.mp3]",
+   "Back": "house"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394409677,
+  "fields": {
+   "Front": "にんげん",
+   "Audio": "[sound:にんげん.mp3]",
+   "Back": "human"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394425148,
+  "fields": {
+   "Front": "ひゃく",
+   "Audio": "[sound:ひゃく.mp3]",
+   "Back": "hundred"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394440201,
+  "fields": {
+   "Front": "ごしゅじん",
+   "Audio": "[sound:ごしゅじん.mp3]",
+   "Back": "husband"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394494121,
+  "fields": {
+   "Front": "私",
+   "Audio": "[sound:私.mp3]",
+   "Back": "I (formal/feminine)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394518397,
+  "fields": {
+   "Front": "こおり",
+   "Audio": "[sound:こおり (1).mp3]",
+   "Back": "ice"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394535068,
+  "fields": {
+   "Front": "ぞう",
+   "Audio": "[sound:ぞう.mp3]",
+   "Back": "image"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394558497,
+  "fields": {
+   "Front": "インチ",
+   "Audio": "[sound:インチ.mp3]",
+   "Back": "inch"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394587958,
+  "fields": {
+   "Front": "ふしょう",
+   "Audio": "[sound:ふしょう.mp3]",
+   "Back": "injury"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394613117,
+  "fields": {
+   "Front": "なか",
+   "Audio": "[sound:なか.mp3]",
+   "Back": "inside"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394630125,
+  "fields": {
+   "Front": "がっき",
+   "Audio": "[sound:がっき.mp3]",
+   "Back": "instrument (musical)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394644347,
+  "fields": {
+   "Front": "しま",
+   "Audio": "[sound:しま.mp3]",
+   "Back": "island"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394655724,
+  "fields": {
+   "Front": "いちがつ",
+   "Audio": "[sound:いちがつ.mp3]",
+   "Back": "January"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394682128,
+  "fields": {
+   "Front": "しごと",
+   "Audio": "[sound:しごと.mp3]",
+   "Back": "job"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394691495,
+  "fields": {
+   "Front": "ジュース",
+   "Audio": "[sound:ジュース.mp3]",
+   "Back": "juice"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394699317,
+  "fields": {
+   "Front": "しちがつ",
+   "Audio": "[sound:しちがつ.mp3]",
+   "Back": "July"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394740031,
+  "fields": {
+   "Front": "ちょうやく",
+   "Audio": "[sound:ちょうやく.mp3]",
+   "Back": "to jump (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394776653,
+  "fields": {
+   "Front": "ろくがつ",
+   "Audio": "[sound:ろくがつ.mp3]",
+   "Back": "June"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394797066,
+  "fields": {
+   "Front": "かぎ",
+   "Audio": "[sound:かぎ.mp3]",
+   "Back": "key"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394816840,
+  "fields": {
+   "Front": "ころす",
+   "Audio": "[sound:ころす.mp3]",
+   "Back": "to kill (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394858219,
+  "fields": {
+   "Front": "キログラム",
+   "Audio": "[sound:キログラム.mp3]",
+   "Back": "kilogram"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394895854,
+  "fields": {
+   "Front": "おう",
+   "Audio": "[sound:おう.mp3]",
+   "Back": "king"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394914974,
+  "fields": {
+   "Front": "キス",
+   "Audio": "[sound:キス.mp3]",
+   "Back": "to kiss (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394954712,
+  "fields": {
+   "Front": "だいところ",
+   "Audio": "[sound:だいところ.mp3]",
+   "Back": "kitchen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394982643,
+  "fields": {
+   "Front": "ひざ",
+   "Audio": "[sound:ひざ.mp3]",
+   "Back": "knee"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492394999015,
+  "fields": {
+   "Front": "ナイフ",
+   "Audio": "[sound:ナイフ.mp3]",
+   "Back": "knife"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395015589,
+  "fields": {
+   "Front": "みずうみ",
+   "Audio": "[sound:みずうみ.mp3]",
+   "Back": "lake"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395037505,
+  "fields": {
+   "Front": "ランプ",
+   "Audio": "[sound:ランプ.mp3]",
+   "Back": "lamp"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395067494,
+  "fields": {
+   "Front": "ノートパソコン",
+   "Audio": "[sound:ノートパソコン.mp3]",
+   "Back": "laptop"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395092096,
+  "fields": {
+   "Front": "わらう",
+   "Audio": "[sound:わらう.mp3]",
+   "Back": "to laugh (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395114352,
+  "fields": {
+   "Front": "べんごし",
+   "Audio": "[sound:べんごし.mp3]",
+   "Back": "lawyer"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395129758,
+  "fields": {
+   "Front": "は",
+   "Audio": "[sound:は.mp3]",
+   "Back": "leaf"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395142430,
+  "fields": {
+   "Front": "ならう",
+   "Audio": "[sound:ならう.mp3]",
+   "Back": "to learn (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395168394,
+  "fields": {
+   "Front": "ひだり",
+   "Audio": "[sound:ひだり.mp3]",
+   "Back": "left (direction)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395186196,
+  "fields": {
+   "Front": "あし",
+   "Audio": "[sound:あし.mp3]",
+   "Back": "leg (also foot)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395205017,
+  "fields": {
+   "Front": "レモン",
+   "Audio": "[sound:レモン.mp3]",
+   "Back": "lemon"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395217767,
+  "fields": {
+   "Front": "てがみ",
+   "Audio": "[sound:てがみ.mp3]",
+   "Back": "letter (that you send)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395260581,
+  "fields": {
+   "Front": "としょかん",
+   "Audio": "[sound:としょかん.mp3]",
+   "Back": "library"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395269322,
+  "fields": {
+   "Front": "よこになる",
+   "Audio": "[sound:よこになる.mp3]",
+   "Back": "to lie down (and rest) (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395327093,
+  "fields": {
+   "Front": "もちあげる",
+   "Audio": "[sound:もちあげる.mp3]",
+   "Back": "to lift up (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395376537,
+  "fields": {
+   "Front": "あかるい",
+   "Audio": "[sound:あかるい.mp3]",
+   "Back": "light (opposite of dark)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395409566,
+  "fields": {
+   "Front": "かるい",
+   "Audio": "[sound:かるい.mp3]",
+   "Back": "light (not heavy)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395439439,
+  "fields": {
+   "Front": "ひかり",
+   "Audio": "[sound:ひかり.mp3]",
+   "Back": "light (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395486230,
+  "fields": {
+   "Front": "くちびる",
+   "Audio": "[sound:くちびる.mp3]",
+   "Back": "lips"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395560702,
+  "fields": {
+   "Front": "ばしょ",
+   "Audio": "[sound:ばしょ.mp3]",
+   "Back": "location"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395589686,
+  "fields": {
+   "Front": "ロック",
+   "Audio": "[sound:ロック.mp3]",
+   "Back": "to lock (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395628536,
+  "fields": {
+   "Front": "ながい",
+   "Audio": "[sound:ながい.mp3]",
+   "Back": "long (distance/time)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395669102,
+  "fields": {
+   "Front": "ゆるい",
+   "Audio": "[sound:ゆるい.mp3]",
+   "Back": "loose"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395704633,
+  "fields": {
+   "Front": "なくす",
+   "Audio": "[sound:なくす.mp3]",
+   "Back": "to lose (someone or something) (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395738657,
+  "fields": {
+   "Front": "うるさい",
+   "Audio": "[sound:うるさい.mp3]",
+   "Back": "loud"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395759227,
+  "fields": {
+   "Front": "あいす",
+   "Audio": "[sound:あいす.mp3]",
+   "Back": "to love (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395782265,
+  "fields": {
+   "Front": "ひくい",
+   "Audio": "[sound:ひくい.mp3]",
+   "Back": "low (close to the ground)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395828174,
+  "fields": {
+   "Front": "ひるごはん",
+   "Audio": "[sound:ひるごはん.mp3]",
+   "Back": "lunch"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395942182,
+  "fields": {
+   "Front": "ざっし",
+   "Audio": "[sound:ざっし.mp3]",
+   "Back": "magazine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395955375,
+  "fields": {
+   "Front": "おとこ",
+   "Audio": "[sound:おとこ.mp3]",
+   "Back": "male"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395962541,
+  "fields": {
+   "Front": "おとこのひと",
+   "Audio": "[sound:おとこのひと.mp3]",
+   "Back": "man"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492395976015,
+  "fields": {
+   "Front": "しはいにん",
+   "Audio": "[sound:しはいにん.mp3]",
+   "Back": "manager"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396009489,
+  "fields": {
+   "Front": "ちず",
+   "Audio": "[sound:ちず.mp3]",
+   "Back": "map"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396021380,
+  "fields": {
+   "Front": "さんがつ",
+   "Audio": "[sound:さんがつ.mp3]",
+   "Back": "March"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396032614,
+  "fields": {
+   "Front": "いちば",
+   "Audio": "[sound:いちば.mp3]",
+   "Back": "(town) market"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396075477,
+  "fields": {
+   "Front": "けっこんしき",
+   "Audio": "[sound:けっこんしき.mp3]",
+   "Back": "marriage (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396099060,
+  "fields": {
+   "Front": "けっこん",
+   "Audio": "[sound:けっこん.mp3]",
+   "Back": "to marry (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396175217,
+  "fields": {
+   "Front": "ざいりょう",
+   "Audio": "[sound:ざいりょう.mp3]",
+   "Back": "material"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396218003,
+  "fields": {
+   "Front": "ごがつ",
+   "Audio": "[sound:ごがつ.mp3]",
+   "Back": "May"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396236531,
+  "fields": {
+   "Front": "いじわる（な）",
+   "Audio": "[sound:いじわる.mp3]",
+   "Back": "mean spirited"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396324413,
+  "fields": {
+   "Front": "くすり",
+   "Audio": "[sound:くすり.mp3]",
+   "Back": "medicine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396331823,
+  "fields": {
+   "Front": "とかす",
+   "Audio": "[sound:とかす.mp3]",
+   "Back": "to melt (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396392520,
+  "fields": {
+   "Front": "きんぞく",
+   "Audio": "[sound:きんぞく.mp3]",
+   "Back": "metal"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396409467,
+  "fields": {
+   "Front": "メートル",
+   "Audio": "[sound:メートル.mp3]",
+   "Back": "meter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396440988,
+  "fields": {
+   "Front": "ミルク",
+   "Audio": "[sound:ミルク.mp3]",
+   "Back": "millk"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396455451,
+  "fields": {
+   "Front": "ひゃくまん",
+   "Audio": "[sound:ひゃくまん.mp3]",
+   "Back": "one million"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396482801,
+  "fields": {
+   "Front": "ふん",
+   "Audio": "[sound:ふん.mp3]",
+   "Back": "minute"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396497999,
+  "fields": {
+   "Front": "まぜる",
+   "Audio": "[sound:まぜる.mp3]",
+   "Back": "to mix/stir (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396528777,
+  "fields": {
+   "Front": "げつようび",
+   "Audio": "[sound:げつようび.mp3]",
+   "Back": "Monday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396541785,
+  "fields": {
+   "Front": "おかね",
+   "Audio": "[sound:おかね.mp3]",
+   "Back": "money"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396547702,
+  "fields": {
+   "Front": "げっかん",
+   "Audio": "[sound:げっかん.mp3]",
+   "Back": "month-long period (of time)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396608458,
+  "fields": {
+   "Front": "つき",
+   "Audio": "[sound:つき.mp3]",
+   "Back": "moon"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396633098,
+  "fields": {
+   "Front": "あさ",
+   "Audio": "[sound:あさ.mp3]",
+   "Back": "morning"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396641818,
+  "fields": {
+   "Front": "おかあさん",
+   "Audio": "[sound:おかあさん.mp3]",
+   "Back": "mother"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396653212,
+  "fields": {
+   "Front": "やま",
+   "Audio": "[sound:やま.mp3]",
+   "Back": "mountain"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396659713,
+  "fields": {
+   "Front": "ねずみ",
+   "Audio": "[sound:ねずみ.mp3]",
+   "Back": "mouse"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396684978,
+  "fields": {
+   "Front": "くち",
+   "Audio": "[sound:くち.mp3]",
+   "Back": "mouth"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396701978,
+  "fields": {
+   "Front": "えいが",
+   "Audio": "[sound:えいが.mp3]",
+   "Back": "movie"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396715939,
+  "fields": {
+   "Front": "さつじん",
+   "Audio": "[sound:さつじん.mp3]",
+   "Back": "murder (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396738219,
+  "fields": {
+   "Front": "おんがく",
+   "Audio": "[sound:おんがく.mp3]",
+   "Back": "music"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396816619,
+  "fields": {
+   "Front": "せまい",
+   "Audio": "[sound:せまい.mp3]",
+   "Back": "narrow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396826243,
+  "fields": {
+   "Front": "しぜん",
+   "Audio": "[sound:しぜん.mp3]",
+   "Back": "nature"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396845551,
+  "fields": {
+   "Front": "くび",
+   "Audio": "[sound:くび.mp3]",
+   "Back": "neck"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396874303,
+  "fields": {
+   "Front": "はり",
+   "Audio": "[sound:はり.mp3]",
+   "Back": "needle"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396896890,
+  "fields": {
+   "Front": "りんじん",
+   "Audio": "[sound:りんじん.mp3]",
+   "Back": "neighbor"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396940455,
+  "fields": {
+   "Front": "ネットワーク",
+   "Audio": "[sound:ネットワーク.mp3]",
+   "Back": "network"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396961243,
+  "fields": {
+   "Front": "あたらしい",
+   "Audio": "[sound:あたらしい.mp3]",
+   "Back": "new"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492396976059,
+  "fields": {
+   "Front": "しんぶん",
+   "Audio": "[sound:しんぶん.mp3]",
+   "Back": "newspaper"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397044798,
+  "fields": {
+   "Front": "しんせつ（な）",
+   "Audio": "[sound:しんせつな.mp3]",
+   "Back": "nice, kind&nbsp;"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397075204,
+  "fields": {
+   "Front": "よる",
+   "Audio": "[sound:よる.mp3]",
+   "Back": "night (also evening)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397090405,
+  "fields": {
+   "Front": "きゅう/く",
+   "Audio": "[sound:きゅう%2Fく.mp3]",
+   "Back": "nine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397111480,
+  "fields": {
+   "Front": "じゅうきゅう",
+   "Audio": "[sound:じゅうきゅう.mp3]",
+   "Back": "nineteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397124398,
+  "fields": {
+   "Front": "きゅうじゅう",
+   "Audio": "[sound:きゅうじゅう.mp3]",
+   "Back": "ninety"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397136520,
+  "fields": {
+   "Front": "いいえ",
+   "Audio": "[sound:いいえ.mp3]",
+   "Back": "no"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397140803,
+  "fields": {
+   "Front": "きた",
+   "Audio": "[sound:きた.mp3]",
+   "Back": "north"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397150542,
+  "fields": {
+   "Front": "はな",
+   "Audio": "[sound:はな.mp3]",
+   "Back": "nose"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397158477,
+  "fields": {
+   "Front": "ノート",
+   "Audio": "[sound:ノート.mp3]",
+   "Back": "note (on paper)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397193305,
+  "fields": {
+   "Front": "じゅういちがつ",
+   "Audio": "[sound:じゅういちがつ.mp3]",
+   "Back": "November"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397214888,
+  "fields": {
+   "Front": "かく（な）",
+   "Audio": "[sound:かく.mp3]",
+   "Back": "nuclear"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397251261,
+  "fields": {
+   "Front": "ばんごう",
+   "Audio": "[sound:ばんごう.mp3]",
+   "Back": "number"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397273810,
+  "fields": {
+   "Front": "かいよう",
+   "Audio": "[sound:かいよう.mp3]",
+   "Back": "ocean"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397293023,
+  "fields": {
+   "Front": "じゅうがつ",
+   "Audio": "[sound:じゅうがつ.mp3]",
+   "Back": "October"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397319951,
+  "fields": {
+   "Front": "じむしょ",
+   "Audio": "[sound:じむしょ.mp3]",
+   "Back": "office"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397340675,
+  "fields": {
+   "Front": "せきゆ",
+   "Audio": "[sound:せきゆ.mp3]",
+   "Back": "oil (petroleum)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397372794,
+  "fields": {
+   "Front": "ふるい",
+   "Audio": "[sound:ふるい.mp3]",
+   "Back": "old (thing) (opposite of new)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397412421,
+  "fields": {
+   "Front": "おい",
+   "Audio": "[sound:おい.mp3]",
+   "Back": "old (person)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397423050,
+  "fields": {
+   "Front": "いち",
+   "Audio": "[sound:いち.mp3]",
+   "Back": "one"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397452964,
+  "fields": {
+   "Front": "あける",
+   "Audio": "[sound:あける.mp3]",
+   "Back": "to open (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397482056,
+  "fields": {
+   "Front": "オレンジいろ",
+   "Audio": "[sound:オレンジいろ.mp3]",
+   "Back": "orange (color)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397535748,
+  "fields": {
+   "Front": "オレンジ",
+   "Audio": "[sound:オレンジ.mp3]",
+   "Back": "orange (food)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397551516,
+  "fields": {
+   "Front": "やがい",
+   "Audio": "[sound:やがい.mp3]",
+   "Back": "outside, outdoors"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397593435,
+  "fields": {
+   "Front": "ページ",
+   "Audio": "[sound:ページ.mp3]",
+   "Back": "page"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397612529,
+  "fields": {
+   "Front": "いたみ",
+   "Audio": "[sound:いたみ.mp3]",
+   "Back": "pain; ache (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397649462,
+  "fields": {
+   "Front": "えがく",
+   "Audio": "[sound:えがく.mp3]",
+   "Back": "to paint (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397776798,
+  "fields": {
+   "Front": "えのぐ",
+   "Audio": "[sound:えのぐ.mp3]",
+   "Back": "paint; coloring materials (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397813413,
+  "fields": {
+   "Front": "おや",
+   "Audio": "[sound:おや.mp3]",
+   "Back": "parent"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397828144,
+  "fields": {
+   "Front": "こうえん",
+   "Audio": "[sound:こうえん.mp3]",
+   "Back": "park (location)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397843035,
+  "fields": {
+   "Front": "うかる",
+   "Audio": "[sound:うかる.mp3]",
+   "Back": "to pass (examination)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397889622,
+  "fields": {
+   "Front": "かんじゃ",
+   "Audio": "[sound:かんじゃ.mp3]",
+   "Back": "patient (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492397929676,
+  "fields": {
+   "Front": "パターン",
+   "Audio": "[sound:パターン.mp3]",
+   "Back": "pattern"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398023585,
+  "fields": {
+   "Front": "しはらう",
+   "Audio": "[sound:しはらう.mp3]",
+   "Back": "to pay (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398038683,
+  "fields": {
+   "Front": "へいわ（な）",
+   "Audio": "[sound:へいわ.mp3]",
+   "Back": "peace"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398074846,
+  "fields": {
+   "Front": "ペン",
+   "Audio": "[sound:ペン.mp3]",
+   "Back": "pen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398156532,
+  "fields": {
+   "Front": "えんぴつ",
+   "Audio": "[sound:えんぴつ.mp3]",
+   "Back": "pencil"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398165027,
+  "fields": {
+   "Front": "ひと",
+   "Audio": "[sound:ひと.mp3]",
+   "Back": "person"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398180000,
+  "fields": {
+   "Front": "しゃしん",
+   "Audio": "[sound:しゃしん.mp3]",
+   "Back": "photograph"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398189903,
+  "fields": {
+   "Front": "いっこ",
+   "Audio": "[sound:いっこ.mp3]",
+   "Back": "piece (one object)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398236331,
+  "fields": {
+   "Front": "ぶた",
+   "Audio": "[sound:ぶた.mp3]",
+   "Back": "pig"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398264811,
+  "fields": {
+   "Front": "ピンク",
+   "Audio": "[sound:ピンク.mp3]",
+   "Back": "pink"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398296342,
+  "fields": {
+   "Front": "ひこうき",
+   "Audio": "[sound:ひこうき.mp3]",
+   "Back": "plane"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398310765,
+  "fields": {
+   "Front": "しょくぶつ",
+   "Audio": "[sound:しょくぶつ.mp3]",
+   "Back": "plant (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398340147,
+  "fields": {
+   "Front": "プラスチック",
+   "Audio": "[sound:プラスチック.mp3]",
+   "Back": "plastic"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398495103,
+  "fields": {
+   "Front": "さら",
+   "Audio": "[sound:さら.mp3]",
+   "Back": "plate"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398509686,
+  "fields": {
+   "Front": "あそぶ",
+   "Audio": "[sound:あそぶ.mp3]",
+   "Back": "to play; to enjoy onself (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398607983,
+  "fields": {
+   "Front": "せんしゅ",
+   "Audio": "[sound:せんしゅ.mp3]",
+   "Back": "player (in game)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398633803,
+  "fields": {
+   "Front": "ポケット",
+   "Audio": "[sound:ポケット.mp3]",
+   "Back": "pocket"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398647914,
+  "fields": {
+   "Front": "どく",
+   "Audio": "[sound:どく.mp3]",
+   "Back": "poison"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398666213,
+  "fields": {
+   "Front": "けいさつかん",
+   "Audio": "[sound:けいさつかん.mp3]",
+   "Back": "police"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398685786,
+  "fields": {
+   "Front": "プール",
+   "Audio": "[sound:プール.mp3]",
+   "Back": "pool"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398690977,
+  "fields": {
+   "Front": "ひんこん（な）",
+   "Audio": "[sound:ひんこん.mp3]",
+   "Back": "poor"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398736428,
+  "fields": {
+   "Front": "ぶたにく",
+   "Audio": "[sound:ぶたにく.mp3]",
+   "Back": "pork"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398758805,
+  "fields": {
+   "Front": "ポンド",
+   "Audio": "[sound:ポンド.mp3]",
+   "Back": "pound (unit of weight)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398777792,
+  "fields": {
+   "Front": "いのる",
+   "Audio": "[sound:いのる.mp3]",
+   "Back": "to pray (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398828882,
+  "fields": {
+   "Front": "だいとうりょう",
+   "Audio": "[sound:だいとうりょう.mp3]",
+   "Back": "president"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398863851,
+  "fields": {
+   "Front": "かかく",
+   "Audio": "[sound:かかく.mp3]",
+   "Back": "price"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398895467,
+  "fields": {
+   "Front": "そう",
+   "Audio": "[sound:そう.mp3]",
+   "Back": "priest"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398911205,
+  "fields": {
+   "Front": "けいむしょ",
+   "Audio": "[sound:けいむしょ.mp3]",
+   "Back": "prison"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398932551,
+  "fields": {
+   "Front": "プロクラム",
+   "Audio": "[sound:プロクラム.mp3]",
+   "Back": "program (computer)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398965170,
+  "fields": {
+   "Front": "ひく",
+   "Audio": "[sound:ひく.mp3]",
+   "Back": "to pull (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492398991232,
+  "fields": {
+   "Front": "おす",
+   "Audio": "[sound:おす.mp3]",
+   "Back": "to push (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399018306,
+  "fields": {
+   "Front": "じょおう",
+   "Audio": "[sound:じょおう.mp3]",
+   "Back": "queen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399063181,
+  "fields": {
+   "Front": "しずか（な）",
+   "Audio": "[sound:しずかな.mp3]",
+   "Back": "quiet"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399082224,
+  "fields": {
+   "Front": "みんぞく",
+   "Audio": "[sound:みんぞく.mp3]",
+   "Back": "race (of people)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399104341,
+  "fields": {
+   "Front": "きょうそう",
+   "Audio": "[sound:きょうそう.mp3]",
+   "Back": "to race (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399134831,
+  "fields": {
+   "Front": "ラジオ",
+   "Audio": "[sound:ラジオ.mp3]",
+   "Back": "radio"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399150108,
+  "fields": {
+   "Front": "あめ",
+   "Audio": "[sound:あめ.mp3]",
+   "Back": "rain (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399157742,
+  "fields": {
+   "Front": "あかい",
+   "Audio": "[sound:あかい (1).mp3]",
+   "Back": "red"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399168104,
+  "fields": {
+   "Front": "しゅうきょう",
+   "Audio": "[sound:しゅうきょう.mp3]",
+   "Back": "religion"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399197075,
+  "fields": {
+   "Front": "きしゃ",
+   "Audio": "[sound:きしゃ.mp3]",
+   "Back": "reporter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399227331,
+  "fields": {
+   "Front": "レストラン",
+   "Audio": "[sound:レストラン.mp3]",
+   "Back": "restaurant"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399241478,
+  "fields": {
+   "Front": "こめ",
+   "Audio": "[sound:こめ.mp3]",
+   "Back": "rice"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399253754,
+  "fields": {
+   "Front": "ゆたか（な）",
+   "Audio": "[sound:ゆたか.mp3]",
+   "Back": "rich"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399329441,
+  "fields": {
+   "Front": "みぎ",
+   "Audio": "[sound:みぎ.mp3]",
+   "Back": "right (direction)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399345378,
+  "fields": {
+   "Front": "ゆびわ",
+   "Audio": "[sound:ゆびわ.mp3]",
+   "Back": "ring"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399353687,
+  "fields": {
+   "Front": "かわ",
+   "Audio": "[sound:かわ.mp3]",
+   "Back": "river"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399361634,
+  "fields": {
+   "Front": "やね",
+   "Audio": "[sound:やね.mp3]",
+   "Back": "roof"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399378107,
+  "fields": {
+   "Front": "へや",
+   "Audio": "[sound:へや.mp3]",
+   "Back": "room (in a house)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399396319,
+  "fields": {
+   "Front": "こんげん",
+   "Audio": "[sound:こんげん.mp3]",
+   "Back": "root; source"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399419033,
+  "fields": {
+   "Front": "はしる",
+   "Audio": "[sound:はしる.mp3]",
+   "Back": "to run (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399439777,
+  "fields": {
+   "Front": "かなしい",
+   "Audio": "[sound:かなしい.mp3]",
+   "Back": "sad"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399454550,
+  "fields": {
+   "Front": "しお",
+   "Audio": "[sound:しお.mp3]",
+   "Back": "salt"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399474909,
+  "fields": {
+   "Front": "すな",
+   "Audio": "[sound:すな.mp3]",
+   "Back": "sand"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399495540,
+  "fields": {
+   "Front": "どようび",
+   "Audio": "[sound:どようび.mp3]",
+   "Back": "Saturday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399508572,
+  "fields": {
+   "Front": "がっこう",
+   "Audio": "[sound:がっこう.mp3]",
+   "Back": "school"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399516777,
+  "fields": {
+   "Front": "かがく",
+   "Audio": "[sound:かがく.mp3]",
+   "Back": "science"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399525855,
+  "fields": {
+   "Front": "スクリーン",
+   "Audio": "[sound:スクリーン.mp3]",
+   "Back": "screen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399541537,
+  "fields": {
+   "Front": "うみ",
+   "Audio": "[sound:うみ.mp3]",
+   "Back": "sea"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399689930,
+  "fields": {
+   "Front": "きせつ",
+   "Audio": "[sound:きせつ.mp3]",
+   "Back": "season"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399705602,
+  "fields": {
+   "Front": "ふつか",
+   "Audio": "[sound:ふつか.mp3]",
+   "Back": "second (of the month)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399791496,
+  "fields": {
+   "Front": "にかいめ",
+   "Audio": "[sound:にかいめ.mp3]",
+   "Back": "second (time)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399849904,
+  "fields": {
+   "Front": "ひしょ",
+   "Audio": "",
+   "Back": "secretary"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399892723,
+  "fields": {
+   "Front": "みる",
+   "Audio": "[sound:みる.mp3]",
+   "Back": "to see (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399920053,
+  "fields": {
+   "Front": "しゅし",
+   "Audio": "[sound:しゅし.mp3]",
+   "Back": "seed"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399948972,
+  "fields": {
+   "Front": "うる",
+   "Audio": "[sound:うる.mp3]",
+   "Back": "to sell (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399962989,
+  "fields": {
+   "Front": "くがつ",
+   "Audio": "[sound:くがつ.mp3]",
+   "Back": "September"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492399993511,
+  "fields": {
+   "Front": "しち/なな",
+   "Audio": "[sound:しち%2Fなな.mp3]",
+   "Back": "seven"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400038744,
+  "fields": {
+   "Front": "じゅうなな",
+   "Audio": "[sound:じゅうなな.mp3]",
+   "Back": "seventeen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400049807,
+  "fields": {
+   "Front": "ななじゅう",
+   "Audio": "[sound:ななじゅう.mp3]",
+   "Back": "seventy"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400062052,
+  "fields": {
+   "Front": "せいべつ",
+   "Audio": "[sound:せいべつ.mp3]",
+   "Back": "sex (gender)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400081366,
+  "fields": {
+   "Front": "セックス",
+   "Audio": "[sound:セックス.mp3]",
+   "Back": "to have sex (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400126964,
+  "fields": {
+   "Front": "ゆれる",
+   "Audio": "[sound:ゆれる.mp3]",
+   "Back": "to shake (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400164752,
+  "fields": {
+   "Front": "あさい",
+   "Audio": "[sound:あさい.mp3]",
+   "Back": "shallow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400209609,
+  "fields": {
+   "Front": "かのじょ",
+   "Audio": "[sound:かのじょ.mp3]",
+   "Back": "she (rare)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400228584,
+  "fields": {
+   "Front": "ふね",
+   "Audio": "[sound:ふね.mp3]",
+   "Back": "ship"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400234288,
+  "fields": {
+   "Front": "シャツ",
+   "Audio": "[sound:シャツ.mp3]",
+   "Back": "shirt"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400246022,
+  "fields": {
+   "Front": "くつ",
+   "Audio": "[sound:くつ.mp3]",
+   "Back": "shoes"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400252995,
+  "fields": {
+   "Front": "うつ",
+   "Audio": "[sound:うつ.mp3]",
+   "Back": "to shoot (at) (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400306485,
+  "fields": {
+   "Front": "みじかい",
+   "Audio": "[sound:みじかい.mp3]",
+   "Back": "short (period of time)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400344284,
+  "fields": {
+   "Front": "せがひくい",
+   "Audio": "[sound:せがひくい.mp3]",
+   "Back": "short (height)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400362168,
+  "fields": {
+   "Front": "かた",
+   "Audio": "[sound:かた.mp3]",
+   "Back": "shoulder"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400387342,
+  "fields": {
+   "Front": "かたわら",
+   "Audio": "[sound:かたわら.mp3]",
+   "Back": "side"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400505943,
+  "fields": {
+   "Front": "あいず",
+   "Audio": "[sound:あいず.mp3]",
+   "Back": "sign (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400525915,
+  "fields": {
+   "Front": "サイン",
+   "Audio": "[sound:サイン.mp3]",
+   "Back": "autograph; signature (する-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400596024,
+  "fields": {
+   "Front": "ぎん",
+   "Audio": "[sound:ぎん.mp3]",
+   "Back": "silver"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400619546,
+  "fields": {
+   "Front": "うたう",
+   "Audio": "[sound:うたう.mp3]",
+   "Back": "to sing (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400635809,
+  "fields": {
+   "Front": "おねえさん",
+   "Audio": "[sound:おねえさん.mp3]",
+   "Back": "(older) sister"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400651730,
+  "fields": {
+   "Front": "いもうと",
+   "Audio": "[sound:いもうと.mp3]",
+   "Back": "(little) sister"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400678911,
+  "fields": {
+   "Front": "すわる",
+   "Audio": "[sound:すわる.mp3]",
+   "Back": "to sit (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400700719,
+  "fields": {
+   "Front": "ろく",
+   "Audio": "[sound:ろく.mp3]",
+   "Back": "six"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400747322,
+  "fields": {
+   "Front": "じゅうろく",
+   "Audio": "[sound:じゅうろく.mp3]",
+   "Back": "sixteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400756313,
+  "fields": {
+   "Front": "ろくじゅう",
+   "Audio": "[sound:ろくじゅう.mp3]",
+   "Back": "sixty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400765187,
+  "fields": {
+   "Front": "ひふ",
+   "Audio": "[sound:ひふ.mp3]",
+   "Back": "skin"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400792803,
+  "fields": {
+   "Front": "スカート",
+   "Audio": "[sound:スカート.mp3]",
+   "Back": "skirt"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400813264,
+  "fields": {
+   "Front": "そら",
+   "Audio": "[sound:そら.mp3]",
+   "Back": "sky"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400833803,
+  "fields": {
+   "Front": "ねる",
+   "Audio": "[sound:ねる.mp3]",
+   "Back": "to sleep (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400842994,
+  "fields": {
+   "Front": "おそい",
+   "Audio": "[sound:おそい.mp3]",
+   "Back": "slow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400879463,
+  "fields": {
+   "Front": "ちいさい",
+   "Audio": "[sound:ちいさい.mp3]",
+   "Back": "small/little"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492400909664,
+  "fields": {
+   "Front": "かぐ",
+   "Audio": "[sound:かぐ.mp3]",
+   "Back": "to smell (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401053198,
+  "fields": {
+   "Front": "わらう",
+   "Audio": "[sound:わらう.mp3]",
+   "Back": "to smile (also laugh) (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401103207,
+  "fields": {
+   "Front": "ゆき",
+   "Audio": "[sound:ゆき.mp3]",
+   "Back": "snow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401111505,
+  "fields": {
+   "Front": "せっけん",
+   "Audio": "[sound:せっけん.mp3]",
+   "Back": "soap"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401141748,
+  "fields": {
+   "Front": "やらかい",
+   "Audio": "[sound:やらかい.mp3]",
+   "Back": "soft"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401219737,
+  "fields": {
+   "Front": "どじょう",
+   "Audio": "[sound:どじょう.mp3]",
+   "Back": "soil"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401257768,
+  "fields": {
+   "Front": "へいし",
+   "Audio": "[sound:へいし.mp3]",
+   "Back": "soldier"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401318174,
+  "fields": {
+   "Front": "むすこ",
+   "Audio": "[sound:むすこ.mp3]",
+   "Back": "son"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401360880,
+  "fields": {
+   "Front": "うた",
+   "Audio": "[sound:うた.mp3]",
+   "Back": "song"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401381073,
+  "fields": {
+   "Front": "おと",
+   "Audio": "[sound:おと.mp3]",
+   "Back": "sound"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401419230,
+  "fields": {
+   "Front": "スープ",
+   "Audio": "[sound:スープ.mp3]",
+   "Back": "soup"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401443192,
+  "fields": {
+   "Front": "みなみ",
+   "Audio": "[sound:みなみ.mp3]",
+   "Back": "south"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401459818,
+  "fields": {
+   "Front": "うちゅう",
+   "Audio": "[sound:うちゅう.mp3]",
+   "Back": "outerspace"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401503306,
+  "fields": {
+   "Front": "はなす",
+   "Audio": "[sound:はなす.mp3]",
+   "Back": "to speak (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401540200,
+  "fields": {
+   "Front": "いう",
+   "Audio": "[sound:いう.mp3]",
+   "Back": "to say (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401550034,
+  "fields": {
+   "Front": "スプーン",
+   "Audio": "[sound:スプーン.mp3]",
+   "Back": "spoon"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401571653,
+  "fields": {
+   "Front": "スポーツ",
+   "Audio": "[sound:スポーツ.mp3]",
+   "Back": "sport"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401604964,
+  "fields": {
+   "Front": "はる",
+   "Audio": "[sound:はる.mp3]",
+   "Back": "spring (season)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401620107,
+  "fields": {
+   "Front": "しかく",
+   "Audio": "[sound:しかく.mp3]",
+   "Back": "square (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401681553,
+  "fields": {
+   "Front": "しみ",
+   "Audio": "[sound:しみ.mp3]",
+   "Back": "stain"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401702806,
+  "fields": {
+   "Front": "たつ",
+   "Audio": "[sound:たつ.mp3]",
+   "Back": "to stand (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401718037,
+  "fields": {
+   "Front": "ほし",
+   "Audio": "[sound:ほし.mp3]",
+   "Back": "star"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401734846,
+  "fields": {
+   "Front": "いし",
+   "Audio": "[sound:いし.mp3]",
+   "Back": "stone"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401754476,
+  "fields": {
+   "Front": "とまる",
+   "Audio": "[sound:とまる.mp3]",
+   "Back": "to stop (moving) (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401782602,
+  "fields": {
+   "Front": "みせ",
+   "Audio": "[sound:みせ.mp3]",
+   "Back": "shop"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401800590,
+  "fields": {
+   "Front": "まっすぐ",
+   "Audio": "[sound:まっすぐ.mp3]",
+   "Back": "straight (ahead)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401877616,
+  "fields": {
+   "Front": "みち",
+   "Audio": "[sound:みち.mp3]",
+   "Back": "street/road"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401912168,
+  "fields": {
+   "Front": "つよい",
+   "Audio": "[sound:つよい.mp3]",
+   "Back": "strong"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401969834,
+  "fields": {
+   "Front": "がくせい",
+   "Audio": "[sound:がくせい.mp3]",
+   "Back": "student"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492401988198,
+  "fields": {
+   "Front": "さとう",
+   "Audio": "[sound:さとう.mp3]",
+   "Back": "sugar"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402004235,
+  "fields": {
+   "Front": "スーツ",
+   "Audio": "[sound:スーツ.mp3]",
+   "Back": "suit (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402016793,
+  "fields": {
+   "Front": "なつ",
+   "Audio": "[sound:なつ.mp3]",
+   "Back": "summer"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402029851,
+  "fields": {
+   "Front": "たいよう",
+   "Audio": "[sound:たいよう.mp3]",
+   "Back": "sun"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402062975,
+  "fields": {
+   "Front": "にちようび",
+   "Audio": "[sound:にちようび.mp3]",
+   "Back": "Sunday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402076841,
+  "fields": {
+   "Front": "あせ",
+   "Audio": "[sound:あせ.mp3]",
+   "Back": "sweat (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402095934,
+  "fields": {
+   "Front": "およぐ",
+   "Audio": "[sound:およぐ.mp3]",
+   "Back": "to swim (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402117603,
+  "fields": {
+   "Front": "ティーシャツ",
+   "Audio": "[sound:ティーシャツ.mp3]",
+   "Back": "T-shirt"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402176388,
+  "fields": {
+   "Front": "テーブル",
+   "Audio": "[sound:テーブル.mp3]",
+   "Back": "table"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402197337,
+  "fields": {
+   "Front": "せがたかい",
+   "Audio": "[sound:せがたかい.mp3]",
+   "Back": "tall"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402227409,
+  "fields": {
+   "Front": "あじわう",
+   "Audio": "[sound:あじわう.mp3]",
+   "Back": "to taste (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402269107,
+  "fields": {
+   "Front": "おちゃ",
+   "Audio": "[sound:おちゃ.mp3]",
+   "Back": "tea"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402298786,
+  "fields": {
+   "Front": "おしえる",
+   "Audio": "[sound:おしえる.mp3]",
+   "Back": "to teach (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402323145,
+  "fields": {
+   "Front": "せんせい",
+   "Audio": "[sound:せんせい.mp3]",
+   "Back": "teacher"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402338313,
+  "fields": {
+   "Front": "チーム",
+   "Audio": "[sound:チーム.mp3]",
+   "Back": "team"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402356490,
+  "fields": {
+   "Front": "なみだ",
+   "Audio": "[sound:なみだ.mp3]",
+   "Back": "teardrop"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402406312,
+  "fields": {
+   "Front": "ぎじゅつ",
+   "Audio": "[sound:ぎじゅつ.mp3]",
+   "Back": "technology"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402458789,
+  "fields": {
+   "Front": "でんわ",
+   "Audio": "[sound:でんわ.mp3]",
+   "Back": "telephone"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402474084,
+  "fields": {
+   "Front": "テレビ",
+   "Audio": "[sound:テレビ.mp3]",
+   "Back": "television"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402491993,
+  "fields": {
+   "Front": "きおん",
+   "Audio": "[sound:きおん.mp3]",
+   "Back": "temperature (weather)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402515019,
+  "fields": {
+   "Front": "じゅう",
+   "Audio": "[sound:じゅう.mp3]",
+   "Back": "ten"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402531841,
+  "fields": {
+   "Front": "えいがかん",
+   "Audio": "[sound:えいがかん.mp3]",
+   "Back": "(movie) theater"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402564427,
+  "fields": {
+   "Front": "あの人たち",
+   "Audio": "[sound:あの人たち.mp3]",
+   "Back": "they"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402625198,
+  "fields": {
+   "Front": "あつい",
+   "Audio": "[sound:あつい.mp3]",
+   "Back": "thick"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402674650,
+  "fields": {
+   "Front": "うすい",
+   "Audio": "[sound:うすい.mp3]",
+   "Back": "thin (i.e. fabric)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402721874,
+  "fields": {
+   "Front": "やせている",
+   "Audio": "[sound:やせている.mp3]",
+   "Back": "thin; skinny (stems from やせる)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402757828,
+  "fields": {
+   "Front": "思う",
+   "Audio": "[sound:思う.mp3]",
+   "Back": "to think (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402775638,
+  "fields": {
+   "Front": "みっか",
+   "Audio": "[sound:みっか.mp3]",
+   "Back": "third (of the month)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402796119,
+  "fields": {
+   "Front": "じゅうさん",
+   "Audio": "[sound:じゅうさん.mp3]",
+   "Back": "thirteen"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402806073,
+  "fields": {
+   "Front": "さんじゅう",
+   "Audio": "[sound:さんじゅう.mp3]",
+   "Back": "thirty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402821729,
+  "fields": {
+   "Front": "せん",
+   "Audio": "[sound:せん.mp3]",
+   "Back": "thousand"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402829846,
+  "fields": {
+   "Front": "さん",
+   "Audio": "[sound:さん.mp3]",
+   "Back": "three"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402834665,
+  "fields": {
+   "Front": "なげる",
+   "Audio": "[sound:なげる.mp3]",
+   "Back": "to throw (e.g. a ball) (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402895491,
+  "fields": {
+   "Front": "もくようび",
+   "Audio": "[sound:もくようび.mp3]",
+   "Back": "Thursday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402918250,
+  "fields": {
+   "Front": "きっぷ",
+   "Audio": "[sound:きっぷ.mp3]",
+   "Back": "ticket (train)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492402959853,
+  "fields": {
+   "Front": "きゅうくつ（な）",
+   "Audio": "[sound:きゅうくつ.mp3]",
+   "Back": "tight"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403025380,
+  "fields": {
+   "Front": "じかん",
+   "Audio": "[sound:じかん.mp3]",
+   "Back": "time (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403037765,
+  "fields": {
+   "Front": "タイヤ",
+   "Audio": "[sound:タイヤ.mp3]",
+   "Back": "tire (of a car)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403056525,
+  "fields": {
+   "Front": "ゆび",
+   "Audio": "[sound:ゆび.mp3]",
+   "Back": "toe (also finger)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403080909,
+  "fields": {
+   "Front": "した",
+   "Audio": "[sound:した.mp3]",
+   "Back": "tongue"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403098601,
+  "fields": {
+   "Front": "どうぐ",
+   "Audio": "[sound:どうぐ.mp3]",
+   "Back": "tool"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403146711,
+  "fields": {
+   "Front": "は",
+   "Audio": "[sound:は.mp3]",
+   "Back": "tooth"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403161004,
+  "fields": {
+   "Front": "ちょうじょう",
+   "Audio": "[sound:ちょうじょう.mp3]",
+   "Back": "top; summit"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403214896,
+  "fields": {
+   "Front": "さわる",
+   "Audio": "[sound:さわる.mp3]",
+   "Back": "to touch (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403350212,
+  "fields": {
+   "Front": "まち",
+   "Audio": "[sound:まち.mp3]",
+   "Back": "town"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403377118,
+  "fields": {
+   "Front": "でんしゃ",
+   "Audio": "[sound:でんしゃ.mp3]",
+   "Back": "train (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403387819,
+  "fields": {
+   "Front": "えき",
+   "Audio": "[sound:えき.mp3]",
+   "Back": "train station"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403396539,
+  "fields": {
+   "Front": "うにゅ",
+   "Audio": "",
+   "Back": "transportation"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403432534,
+  "fields": {
+   "Front": "き",
+   "Audio": "[sound:き.mp3]",
+   "Back": "tree"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403501981,
+  "fields": {
+   "Front": "トラック",
+   "Audio": "[sound:トラック.mp3]",
+   "Back": "truck"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403521190,
+  "fields": {
+   "Front": "かようび",
+   "Audio": "[sound:かようび.mp3]",
+   "Back": "Tuesday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403533223,
+  "fields": {
+   "Front": "まわす",
+   "Audio": "[sound:まわす.mp3]",
+   "Back": "to turn (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403587925,
+  "fields": {
+   "Front": "じゅうに",
+   "Audio": "[sound:じゅうに.mp3]",
+   "Back": "twelve"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403608494,
+  "fields": {
+   "Front": "にじゅう",
+   "Audio": "[sound:にじゅう.mp3]",
+   "Back": "twenty"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403624317,
+  "fields": {
+   "Front": "に",
+   "Audio": "[sound:に.mp3]",
+   "Back": "two"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403631878,
+  "fields": {
+   "Front": "だいがく",
+   "Audio": "[sound:だいがく.mp3]",
+   "Back": "university"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403647766,
+  "fields": {
+   "Front": "うえ",
+   "Audio": "[sound:うえ.mp3]",
+   "Back": "up"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403664693,
+  "fields": {
+   "Front": "たに",
+   "Audio": "[sound:たに.mp3]",
+   "Back": "valley"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403690954,
+  "fields": {
+   "Front": "どうし",
+   "Audio": "[sound:どうし.mp3]",
+   "Back": "verb"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403724902,
+  "fields": {
+   "Front": "ぎせいしゃ",
+   "Audio": "[sound:ぎせいしゃ.mp3]",
+   "Back": "victim"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403761437,
+  "fields": {
+   "Front": "こえ",
+   "Audio": "[sound:こえ.mp3]",
+   "Back": "voice"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403785556,
+  "fields": {
+   "Front": "ぼいん",
+   "Audio": "[sound:ぼいん.mp3]",
+   "Back": "vowel"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403812021,
+  "fields": {
+   "Front": "ウェイター",
+   "Audio": "[sound:ウェイター.mp3]",
+   "Back": "waiter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403837886,
+  "fields": {
+   "Front": "おきる",
+   "Audio": "[sound:おきる.mp3]",
+   "Back": "to get up; to wake up (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403870707,
+  "fields": {
+   "Front": "あるく",
+   "Audio": "[sound:あるく.mp3]",
+   "Back": "to walk (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403894297,
+  "fields": {
+   "Front": "かべ",
+   "Audio": "[sound:かべ.mp3]",
+   "Back": "wall"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403914619,
+  "fields": {
+   "Front": "せんそう",
+   "Audio": "[sound:せんそう.mp3]",
+   "Back": "war"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403933731,
+  "fields": {
+   "Front": "あたたかい",
+   "Audio": "[sound:あたたかい.mp3]",
+   "Back": "warm"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403953711,
+  "fields": {
+   "Front": "あらう",
+   "Audio": "[sound:あらう.mp3]",
+   "Back": "to wash (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403970090,
+  "fields": {
+   "Front": "みず",
+   "Audio": "[sound:みず.mp3]",
+   "Back": "water (noun)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492403993608,
+  "fields": {
+   "Front": "なみ",
+   "Audio": "[sound:なみ.mp3]",
+   "Back": "wave"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404014541,
+  "fields": {
+   "Front": "私たち",
+   "Audio": "[sound:私たち.mp3]",
+   "Back": "we"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404030057,
+  "fields": {
+   "Front": "よわい",
+   "Audio": "[sound:よわい.mp3]",
+   "Back": "weak"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404054573,
+  "fields": {
+   "Front": "きる",
+   "Audio": "[sound:きる.mp3]",
+   "Back": "to wear (from the shoulders down) (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404089132,
+  "fields": {
+   "Front": "すいようび",
+   "Audio": "[sound:すいようび.mp3]",
+   "Back": "Wednesday"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404115333,
+  "fields": {
+   "Front": "しゅう",
+   "Audio": "[sound:しゅう.mp3]",
+   "Back": "week"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404132093,
+  "fields": {
+   "Front": "じゅうりょう",
+   "Audio": "[sound:じゅうりょう.mp3]",
+   "Back": "weight"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404164370,
+  "fields": {
+   "Front": "にし",
+   "Audio": "[sound:にし.mp3]",
+   "Back": "west"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404183781,
+  "fields": {
+   "Front": "ぬれる",
+   "Audio": "[sound:ぬれる.mp3]",
+   "Back": "to get wet (る-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404294153,
+  "fields": {
+   "Front": "白い",
+   "Audio": "[sound:白い.mp3]",
+   "Back": "white"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404318854,
+  "fields": {
+   "Front": "ひろい",
+   "Audio": "[sound:ひろい.mp3]",
+   "Back": "wide"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404333937,
+  "fields": {
+   "Front": "おくさん",
+   "Audio": "[sound:おくさん.mp3]",
+   "Back": "wife"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404345064,
+  "fields": {
+   "Front": "かつ",
+   "Audio": "[sound:かつ.mp3]",
+   "Back": "to win; to gain victory (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404412744,
+  "fields": {
+   "Front": "かぜ",
+   "Audio": "[sound:かぜ.mp3]",
+   "Back": "wind"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404432925,
+  "fields": {
+   "Front": "まど",
+   "Audio": "[sound:まど.mp3]",
+   "Back": "window"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404440642,
+  "fields": {
+   "Front": "ワイン",
+   "Audio": "[sound:ワイン.mp3]",
+   "Back": "wine"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404446109,
+  "fields": {
+   "Front": "つばさ",
+   "Audio": "[sound:つばさ.mp3]",
+   "Back": "wing"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404465323,
+  "fields": {
+   "Front": "ふゆ",
+   "Audio": "[sound:ふゆ.mp3]",
+   "Back": "winter"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404476515,
+  "fields": {
+   "Front": "じょせい",
+   "Audio": "[sound:じょせい.mp3]",
+   "Back": "woman"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404495901,
+  "fields": {
+   "Front": "もくざい",
+   "Audio": "[sound:もくざい.mp3]",
+   "Back": "wood"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404533587,
+  "fields": {
+   "Front": "はたらく",
+   "Audio": "[sound:はたらく.mp3]",
+   "Back": "to work (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404571020,
+  "fields": {
+   "Front": "せかい",
+   "Audio": "[sound:せかい.mp3]",
+   "Back": "world"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404583914,
+  "fields": {
+   "Front": "かく",
+   "Audio": "[sound:かく.mp3]",
+   "Back": "to write (う-verb)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404594977,
+  "fields": {
+   "Front": "にわ",
+   "Audio": "[sound:にわ.mp3]",
+   "Back": "yard (also garden)"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404637246,
+  "fields": {
+   "Front": "ねん",
+   "Audio": "[sound:ねん.mp3]",
+   "Back": "year"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404665984,
+  "fields": {
+   "Front": "きいいろい",
+   "Audio": "[sound:きいいろい.mp3]",
+   "Back": "yellow"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404710587,
+  "fields": {
+   "Front": "はい",
+   "Audio": "[sound:はい.mp3]",
+   "Back": "yes"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404715198,
+  "fields": {
+   "Front": "あなた",
+   "Audio": "[sound:あなた.mp3]",
+   "Back": "you"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404734287,
+  "fields": {
+   "Front": "わかい",
+   "Audio": "[sound:わかい.mp3]",
+   "Back": "young"
+  },
+  "tags": ""
+ },
+ {
+  "id": 1492404744421,
+  "fields": {
+   "Front": "ぜろ",
+   "Audio": "[sound:ぜろ.mp3]",
+   "Back": "zero"
+  },
+  "tags": ""
+ }
+]
