@@ -3,6 +3,7 @@
 
 ## Subfolders
 - **data/**
+- **media/**
 - **worker/**
 
 ## Files
@@ -13,4 +14,4 @@
 - `sw.js`
 - `sync.js`
 
-_2 subfolders, 6 files._
+_3 subfolders, 6 files._

@@ -54,7 +54,9 @@
     "creator": "Hilton Head Island Fire Rescue",
     "landing": "https://www.flickr.com/photos/184033946@N07/48682537046"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "cat",
@@ -111,7 +113,9 @@
     "creator": "Isaszas",
     "landing": "https://www.flickr.com/photos/87805257@N00/33536740745"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "fish",
@@ -168,7 +172,9 @@
     "creator": "Bonnie Moreland (free images)",
     "landing": "https://www.flickr.com/photos/66741228@N05/51621542849"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "bird",
@@ -225,7 +231,9 @@
     "creator": "brenkee",
     "landing": "https://www.flickr.com/photos/55128416@N05/25906175732"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "cow",
@@ -282,7 +290,9 @@
     "creator": "YellowstoneNPS",
     "landing": "https://www.flickr.com/photos/80223459@N05/51439938997"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "pig",
@@ -339,7 +349,9 @@
     "creator": "JOHN K THORNE",
     "landing": "https://www.flickr.com/photos/89918055@N05/51577687069"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "mouse",
@@ -396,7 +408,9 @@
     "creator": "Damian Dulisz",
     "landing": "https://stocksnap.io/photo/mouse-computer-T4ON307LSL"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "horse",
@@ -453,7 +467,9 @@
     "creator": "Carlo Raso",
     "landing": "https://www.flickr.com/photos/70125105@N06/31706655076"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "wing",
@@ -510,7 +526,9 @@
     "creator": "USFWS Mountain Prairie",
     "landing": "https://www.flickr.com/photos/51986662@N05/16766964037"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "animal",
@@ -567,7 +585,9 @@
     "creator": "Forest Service Pacific Northwest Region",
     "landing": "https://www.flickr.com/photos/135886671@N08/52065421802"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "coffee",
@@ -624,7 +644,9 @@
     "creator": "lyndawaybi3",
     "landing": "https://www.flickr.com/photos/151325871@N07/51966725739"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "tea",
@@ -681,7 +703,9 @@
     "creator": "JOHN K THORNE",
     "landing": "https://www.flickr.com/photos/89918055@N05/51771674387"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "wine",
@@ -738,7 +762,9 @@
     "creator": "lyndawaybi3",
     "landing": "https://www.flickr.com/photos/151325871@N07/51815174725"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "beer",
@@ -795,7 +821,9 @@
     "creator": "lyndawaybi3",
     "landing": "https://www.flickr.com/photos/151325871@N07/51807614566"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "juice",
@@ -852,20 +880,22 @@
     "creator": "Nutrition, Food Safety & Health",
     "landing": "https://www.flickr.com/photos/93936679@N05/51388427536"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "water",
   "slug": "water",
   "file": "water.jpg",
   "category": "Beverages",
-  "title": "Golden Water - IMG_4239 canon EOS 700D",
-  "src_url": "https://live.staticflickr.com/65535/52206222908_43d9065791_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52206222908_43d9065791_b.jpg",
-  "license": "cc0",
-  "creator": "iezalel7williams",
-  "foreign_landing": "https://www.flickr.com/photos/181765699@N08/52206222908",
-  "chosen": 0,
+  "title": "By the Waters of Babylon",
+  "src_url": "https://live.staticflickr.com/65535/53117328823_61d0895caf_b.jpg",
+  "image_url": "https://live.staticflickr.com/65535/53117328823_61d0895caf_b.jpg",
+  "license": "pdm",
+  "creator": "jazzmoon12",
+  "foreign_landing": "https://www.flickr.com/photos/49793991@N04/53117328823",
+  "chosen": 5,
   "candidates": [
    {
     "url": "https://live.staticflickr.com/65535/52206222908_43d9065791_b.jpg",
@@ -909,7 +939,9 @@
     "creator": "jazzmoon12",
     "landing": "https://www.flickr.com/photos/49793991@N04/53117328823"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "milk",
@@ -966,7 +998,9 @@
     "creator": "Signal Corps Archive",
     "landing": "https://www.flickr.com/photos/186360156@N02/52260866850"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "beverage",
@@ -1023,7 +1057,9 @@
     "creator": "Aydin Aksakal",
     "landing": "https://stocksnap.io/photo/beverages-wine-JQM7CGSVBT"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "egg",
@@ -1080,7 +1116,9 @@
     "creator": "CapeHatterasNPS",
     "landing": "https://www.flickr.com/photos/106602675@N05/52085234629"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "cheese",
@@ -1137,7 +1175,9 @@
     "creator": "Krzysztof%20Puszczy%u0144ski",
     "landing": "https://stocksnap.io/photo/pizza-cheese-9IKVHJPX82"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "bread",
@@ -1194,7 +1234,9 @@
     "creator": "yanayrosen",
     "landing": "https://www.flickr.com/photos/187878392@N04/52432089637"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "soup",
@@ -1251,7 +1293,9 @@
     "creator": "JOHN K THORNE",
     "landing": "https://www.flickr.com/photos/89918055@N05/52143856618"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "cake",
@@ -1308,7 +1352,9 @@
     "creator": "YellowstoneNPS",
     "landing": "https://www.flickr.com/photos/80223459@N05/52060935167"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "chicken",
@@ -1365,7 +1411,9 @@
     "creator": "roland",
     "landing": "https://www.flickr.com/photos/35034347371@N01/29725201221"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "pork",
@@ -1422,7 +1470,9 @@
     "creator": "sarahstierch",
     "landing": "https://www.flickr.com/photos/7633518@N08/54131806670"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "beef",
@@ -1479,7 +1529,9 @@
     "creator": "Alabama Extension",
     "landing": "https://www.flickr.com/photos/184594136@N08/51405131375"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "apple",
@@ -1536,7 +1588,9 @@
     "creator": "GeorgeTan#3 - OFF permanently",
     "landing": "https://www.flickr.com/photos/190270151@N02/51478609056"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "banana",
@@ -1593,7 +1647,9 @@
     "creator": "Axel Bührmann",
     "landing": "https://www.flickr.com/photos/9852972@N03/51973230417"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "orange",
@@ -1650,7 +1706,9 @@
     "creator": "Mustang Joe",
     "landing": "https://www.flickr.com/photos/63234672@N04/16359616704"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "lemon",
@@ -1707,7 +1765,9 @@
     "creator": "Jay Mantri",
     "landing": "https://stocksnap.io/photo/lemon-lime-980D1D74E1"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "corn",
@@ -1764,7 +1824,9 @@
     "creator": "JOHN K THORNE",
     "landing": "https://www.flickr.com/photos/89918055@N05/51598026337"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "rice",
@@ -1821,7 +1883,9 @@
     "creator": "JFGryphon",
     "landing": "https://www.flickr.com/photos/30484128@N03/51303873860"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "oil",
@@ -1878,7 +1942,9 @@
     "creator": "walmarc04",
     "landing": "https://www.flickr.com/photos/30924550@N04/14561626144"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "seed",
@@ -1935,7 +2001,9 @@
     "creator": "USDAgov",
     "landing": "https://www.flickr.com/photos/41284017@N08/52491363103"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "knife",
@@ -1992,7 +2060,9 @@
     "creator": "Krzysztof%20Puszczy%u0144ski",
     "landing": "https://stocksnap.io/photo/cuttingboard-knife-LCJJH18ZNI"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "spoon",
@@ -2049,7 +2119,9 @@
     "creator": "Toa Heftiba",
     "landing": "https://stocksnap.io/photo/spoon-cup-VI0RJQ3IMH"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "fork",
@@ -2106,7 +2178,9 @@
     "creator": "₡ґǘșϯγ Ɗᶏ Ⱪᶅṏⱳդ",
     "landing": "https://www.flickr.com/photos/148598741@N02/51395102668"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "plate",
@@ -2163,7 +2237,9 @@
     "creator": "Queensland State Archives",
     "landing": "https://www.flickr.com/photos/60455048@N02/51294294815"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "cup",
@@ -2220,7 +2296,9 @@
     "creator": "Shi Devotion",
     "landing": "https://www.flickr.com/photos/102705402@N02/19222278076"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "breakfast",
@@ -2277,7 +2355,9 @@
     "creator": "wynbergmedia",
     "landing": "https://www.flickr.com/photos/156338908@N08/52312106861"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "lunch",
@@ -2334,7 +2414,9 @@
     "creator": "The Trump White House Archived",
     "landing": "https://www.flickr.com/photos/148748355@N05/49170180186"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "dinner",
@@ -2391,7 +2473,9 @@
     "creator": "wynbergmedia",
     "landing": "https://www.flickr.com/photos/156338908@N08/52317990709"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "sugar",
@@ -2448,7 +2532,9 @@
     "creator": "Signal Corps Archive",
     "landing": "https://www.flickr.com/photos/186360156@N02/52234242013"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "salt",
@@ -2505,7 +2591,9 @@
     "creator": "Michael Tieso",
     "landing": "https://www.flickr.com/photos/135601827@N02/21730947965"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "bottle",
@@ -2562,7 +2650,9 @@
     "creator": "saudekjan",
     "landing": "https://www.flickr.com/photos/156515782@N02/52015488930"
    }
-  ]
+  ],
+  "status": "ok",
+  "curated": "2026-07-23-vision"
  },
  {
   "en": "food",
@@ -2619,6 +2709,8 @@
     "creator": "GeorgeTan#3 - OFF permanently",
     "landing": "https://www.flickr.com/photos/190270151@N02/51433307694"
    }
-  ]
+  ],
+  "status": "needs-alt",
+  "curated": "2026-07-23-vision"
  }
 ]
