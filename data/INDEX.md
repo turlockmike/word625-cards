@@ -4,5 +4,6 @@
 ## Files
 - `deck.apkg`
 - `ff625-en.json`
+- `notes-to-words.py`
 
-_0 subfolders, 2 files._
+_0 subfolders, 3 files._
