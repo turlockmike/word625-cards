@@ -2,106 +2,32 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-<meta name="theme-color" content="#e8734a">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>Picture Words</title>
-<link rel="manifest" href="manifest.json">
-<link rel="icon" href="icon.svg">
-<link rel="apple-touch-icon" href="icon.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Picture Words has moved → Japanese Cards</title>
+<!-- Consolidated 2026-07-23: word625 picture-cards now live inside the Kana app as the
+     "Words" mode. This page redirects old bookmarks straight into Words mode. -->
+<meta http-equiv="refresh" content="0; url=https://turlockmike.github.io/kana-cards/#words">
+<link rel="canonical" href="https://turlockmike.github.io/kana-cards/#words">
 <style>
-  :root{ --bg:#f6f3ee; --card:#ffffff; --ink:#242021; --accent:#e8734a;
-         --good:#3aab5c; --okay:#e0a200; --bad:#d9534f; --muted:#8a8580; }
-  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
-  html,body{margin:0;height:100%;}
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-       background:var(--bg); color:var(--ink); display:flex; flex-direction:column;
-       height:100dvh; overflow:hidden; user-select:none;}
-  header{display:flex; align-items:center; justify-content:space-between;
-         padding:10px 14px; font-size:13px; color:var(--muted);}
-  header b{color:var(--ink);}
-  .gear{background:none;border:none;font-size:20px;color:var(--muted);padding:4px;}
-  .profile{background:#f6e9e2;border:none;color:var(--accent);font-size:13px;font-weight:600;border-radius:14px;padding:6px 10px;}
-  .stats{flex:1;text-align:center;}
-  main{flex:1; display:flex; flex-direction:column; padding:0 14px 12px; min-height:0;}
-  .card{flex:1; background:var(--card); border-radius:20px; box-shadow:0 4px 20px rgba(60,40,20,.09);
-        display:flex; flex-direction:column; overflow:hidden; min-height:0;}
-  /* image front — fills the card, contain so nothing is cropped away */
-  .imgwrap{flex:1; display:flex; align-items:center; justify-content:center; min-height:0; padding:18px; background:#fbfaf8;}
-  .cardimg{max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;}
-  /* answer area (revealed on flip) */
-  #answer{display:none; padding:14px 14px 16px; text-align:center; border-top:1px solid #f0ece6;}
-  #answer.show{display:block;}
-  #answer .kana{font-size:46px; font-weight:700; line-height:1.15; margin-bottom:6px; letter-spacing:.02em;}
-  #answer .kana.stub{font-size:20px; font-weight:600; color:var(--muted); line-height:1.4;}
-  .audiobtn{background:#f6e9e2;border:none;color:var(--accent);font-weight:700;
-            border-radius:22px;padding:12px 22px;font-size:16px;margin-top:4px;}
-  .audiobtn:disabled{opacity:.4;}
-  /* action buttons */
-  .actions{padding:12px 14px calc(12px + env(safe-area-inset-bottom));}
-  .flipbtn{width:100%; background:var(--accent); color:#fff; border:none; border-radius:16px;
-           padding:18px; font-size:19px; font-weight:700;}
-  .grade{display:none; gap:10px;}
-  .grade.show{display:flex;}
-  .grade button{flex:1; border:none; border-radius:16px; padding:16px 6px; font-size:16px; font-weight:700; color:#fff;}
-  .grade .sub{display:block;font-size:11px;font-weight:500;opacity:.85;margin-top:2px;}
-  .b-bad{background:var(--bad);} .b-okay{background:var(--okay);} .b-good{background:var(--good);}
-  /* empty / done */
-  .center{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:16px;padding:20px;}
-  .center h2{margin:0;font-size:22px;}
-  .center p{margin:0;color:var(--muted);max-width:280px;}
-  .bigbtn{background:var(--accent);color:#fff;border:none;border-radius:16px;padding:16px 26px;font-size:17px;font-weight:700;}
-  .ghost{background:#f6e9e2;color:var(--accent);}
-  .plist{display:flex;flex-direction:column;gap:10px;width:100%;max-width:300px;}
-  .pcard{display:flex;align-items:center;justify-content:space-between;background:#fff;
-         border:2px solid #ece6df;border-radius:16px;padding:16px 18px;font-size:18px;font-weight:700;color:var(--ink);}
-  .pcard .av{width:34px;height:34px;border-radius:50%;background:var(--accent);color:#fff;
-         display:flex;align-items:center;justify-content:center;font-size:16px;margin-right:10px;}
-  .pcard .del{background:none;border:none;color:var(--muted);font-size:18px;padding:4px 8px;}
-  .pcard.active{border-color:var(--accent);}
-  /* settings sheet */
-  .sheet{position:fixed;inset:0;background:rgba(40,32,24,.45);display:none;align-items:flex-end;z-index:20;}
-  .sheet.show{display:flex;}
-  .sheetinner{background:#fff;width:100%;border-radius:20px 20px 0 0;padding:20px 18px calc(24px + env(safe-area-inset-bottom));max-height:85vh;overflow:auto;}
-  .sheetinner h3{margin:0 0 10px;}
-  .row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid #f0ece6;font-size:15px;}
-  .sheetinner button{border:none;border-radius:12px;padding:12px 14px;font-size:14px;font-weight:600;}
-  textarea{width:100%;height:70px;font-size:12px;border:1px solid #e6ded4;border-radius:10px;padding:8px;font-family:monospace;}
-  .tiny{font-size:11px;color:var(--muted);margin-top:14px;line-height:1.5;}
-  .close{background:#f6e9e2;color:var(--accent);width:100%;margin-top:14px;}
+       background:#f6f3ee;color:#242021;display:flex;min-height:100vh;margin:0;
+       align-items:center;justify-content:center;text-align:center;padding:24px;}
+  a{color:#e8734a;font-weight:700;}
 </style>
 </head>
 <body>
-<header>
-  <button class="profile" id="profileBtn">👤 <b id="profileName">—</b> ▾</button>
-  <span class="stats">Due: <b id="dueCount">0</b> · Learned: <b id="learnedCount">0</b>/<b id="totalCount">0</b></span>
-  <button class="gear" id="gearBtn" aria-label="settings">⚙</button>
-</header>
-
-<main id="main"></main>
-
-<div class="sheet" id="sheet">
-  <div class="sheetinner">
-    <h3>Settings</h3>
-    <div class="row"><span>Learned so far</span><b id="s_learned">0</b></div>
-    <div class="row"><span>Cards reviewed (total)</span><b id="s_reviews">0</b></div>
-    <p class="tiny" style="margin-top:14px">Move progress to another phone: copy this code on the old phone, paste it into <b>Restore</b> on the new one.</p>
-    <button class="ghost" id="backupBtn" style="width:100%;margin-bottom:8px">Copy backup code</button>
-    <textarea id="backupArea" placeholder="Backup code appears here / paste a code to restore"></textarea>
-    <button class="ghost" id="restoreBtn" style="width:100%;margin-top:8px">Restore from pasted code</button>
-    <div class="row" style="margin-top:14px"><span style="color:var(--bad)">Reset all progress</span>
-      <button style="background:#fdecec;color:var(--bad)" id="resetBtn">Reset</button></div>
-    <p class="tiny">Pictures: OpenMoji (CC BY-SA 4.0) &amp; Openverse (CC). Scheduling: FSRS. See NOTICE. Made for you 💙</p>
-    <button class="close" id="closeSheet">Done</button>
+  <div>
+    <h2>Picture Words moved 🖼️→✍️</h2>
+    <p>It's now the <b>Words</b> mode inside <b>Japanese Cards</b>.</p>
+    <p><a id="go" href="https://turlockmike.github.io/kana-cards/#words">Open Japanese Cards →</a></p>
   </div>
-</div>
-
-<script src="fsrs.js"></script>
-<script src="sync.js"></script>
-<script src="app.js"></script>
-<script>
-if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js').catch(()=>{}); }
-</script>
+  <script>
+    // Belt-and-suspenders: unregister the old service worker so this redirect isn't
+    // served stale from cache, then hard-navigate to the Words mode.
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.getRegistrations().then(rs=>rs.forEach(r=>r.unregister())).catch(()=>{});
+    }
+    location.replace('https://turlockmike.github.io/kana-cards/#words');
+  </script>
 </body>
 </html>
