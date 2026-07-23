@@ -60,3 +60,19 @@
 
 ## Loop discipline
 Active build lane — heartbeats/workshop MAY advance it (one well-scoped chunk per window). Method + gate detail: `BUILD.md` + `~/resources/infrastructure/ankiweb-shared-deck-fetch.md`. Reusable AnkiWeb-fetch capability = `ankiweb-deck-dl`. Same `offline-first-pwa-sync.md` footguns apply as kana-cards.
+
+## Deck-day runbook (staged 2026-07-23; fires AFTER 19:00 CDT / 00:00 UTC quota reset)
+**Everything else is DONE — this is the whole remaining critical path, in order. Deck download MUST be the FIRST net call of the fresh quota-day; do NOT probe/list first (a probe re-exhausts the anon per-IP daily quota → another full day's wait). `data/deck.apkg` is currently a 37-byte stub: `Please log in to download more decks` = quota exhausted, confirming the gate.**
+
+1. **DECK (first net call, no probe):** `ankiweb-deck-dl 1234275230 --out data/` → writes `data/notes.json` (+ media mp3s). If it still returns the login-stub, quota has NOT reset yet — STOP, retry after the next 00:00 UTC; do not loop-hammer it.
+2. **TRANSFORM (no net):** `python3 data/notes-to-words.py data/notes.json -o data/words.json` (transform `--selftest` already PASS, `0b691d7`). App auto-fills kana/audio the instant `words.json` exists (matched by `en`/slug) — ZERO code change to `app.js`.
+3. **STAGE AUDIO (no net):** copy the deck's `[sound:N.mp3]` media into `media/audio/` (notes-to-words maps `audio` → filename; confirm the paths `app.js` expects match).
+4. **LOCAL VERIFY (no net):** static-serve (`python3 -m http.server` in the project dir), load `index.html`, confirm cards now show **kana + 🔊 audio** (not the stub placeholder) on the answer side, English hint present, front is image-only. This is the browser-render check that was UNVERIFIED at UI-ship time (`887534a`).
+5. **DEPLOY — GitHub Pages (needs net + gh auth; ONE-TIME repo setup, then push):**
+   ⚠️ **No git remote is configured yet** (`git remote -v` empty as of 7/23) — deck-day's first deploy must create it:
+   - one-time: `gh repo create word625-cards --public --source=. --remote=origin --push` (or Mike's `turlockmike.github.io` account pattern per L17), then enable **Settings → Pages → Deploy from branch: master /(root)** (or `gh api` equivalent).
+   - thereafter each deploy = `git add -A && git commit && git push` (Pages auto-redeploys).
+   - The Cloudflare **sync Worker in `DEPLOY.md` is OPTIONAL** (sync OFF by default) — NOT required for the v1 link; skip it for first ship.
+6. **REPORT link to Mike** — THIS is the Mike-actionable shippable moment (`tg` then, with the live Pages URL, not before). Closes index.md checklist L17 + promise-worthy.
+
+**Residuals that do NOT block v1:** `oil`+`sugar` images (2/625, photoreal-gen blocked on Gemini key/OpenRouter credits = Mike-actionable); Cloudflare cross-device sync (optional). Offer the uniform-art OpenRouter upgrade (~$5-10) AFTER v1 ships.
