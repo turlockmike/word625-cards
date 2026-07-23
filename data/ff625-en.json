@@ -1,0 +1,3097 @@
+[
+ {
+  "en": "dog",
+  "category": "Animal",
+  "raw": "dog"
+ },
+ {
+  "en": "cat",
+  "category": "Animal",
+  "raw": "cat"
+ },
+ {
+  "en": "fish",
+  "category": "Animal",
+  "raw": "fish"
+ },
+ {
+  "en": "bird",
+  "category": "Animal",
+  "raw": "bird"
+ },
+ {
+  "en": "cow",
+  "category": "Animal",
+  "raw": "cow"
+ },
+ {
+  "en": "pig",
+  "category": "Animal",
+  "raw": "pig"
+ },
+ {
+  "en": "mouse",
+  "category": "Animal",
+  "raw": "mouse"
+ },
+ {
+  "en": "horse",
+  "category": "Animal",
+  "raw": "horse"
+ },
+ {
+  "en": "wing",
+  "category": "Animal",
+  "raw": "wing"
+ },
+ {
+  "en": "animal",
+  "category": "Animal",
+  "raw": "animal(c)"
+ },
+ {
+  "en": "train",
+  "category": "Transportation",
+  "raw": "train"
+ },
+ {
+  "en": "plane",
+  "category": "Transportation",
+  "raw": "plane"
+ },
+ {
+  "en": "car",
+  "category": "Transportation",
+  "raw": "car"
+ },
+ {
+  "en": "truck",
+  "category": "Transportation",
+  "raw": "truck"
+ },
+ {
+  "en": "bicycle",
+  "category": "Transportation",
+  "raw": "bicycle"
+ },
+ {
+  "en": "bus",
+  "category": "Transportation",
+  "raw": "bus"
+ },
+ {
+  "en": "boat",
+  "category": "Transportation",
+  "raw": "boat"
+ },
+ {
+  "en": "ship",
+  "category": "Transportation",
+  "raw": "ship"
+ },
+ {
+  "en": "tire",
+  "category": "Transportation",
+  "raw": "tire"
+ },
+ {
+  "en": "gasoline",
+  "category": "Transportation",
+  "raw": "gasoline"
+ },
+ {
+  "en": "engine",
+  "category": "Transportation",
+  "raw": "engine"
+ },
+ {
+  "en": "(train) ticket",
+  "category": "Transportation",
+  "raw": "(train) ticket"
+ },
+ {
+  "en": "transportation",
+  "category": "Transportation",
+  "raw": "transportation(c)"
+ },
+ {
+  "en": "city",
+  "category": "Location",
+  "raw": "city"
+ },
+ {
+  "en": "house",
+  "category": "Location",
+  "raw": "house"
+ },
+ {
+  "en": "apartment",
+  "category": "Location",
+  "raw": "apartment"
+ },
+ {
+  "en": "street/road",
+  "category": "Location",
+  "raw": "street/road"
+ },
+ {
+  "en": "airport",
+  "category": "Location",
+  "raw": "airport"
+ },
+ {
+  "en": "train station",
+  "category": "Location",
+  "raw": "train station"
+ },
+ {
+  "en": "bridge",
+  "category": "Location",
+  "raw": "bridge"
+ },
+ {
+  "en": "hotel",
+  "category": "Location",
+  "raw": "hotel"
+ },
+ {
+  "en": "restaurant",
+  "category": "Location",
+  "raw": "restaurant"
+ },
+ {
+  "en": "farm",
+  "category": "Location",
+  "raw": "farm"
+ },
+ {
+  "en": "court",
+  "category": "Location",
+  "raw": "court"
+ },
+ {
+  "en": "school",
+  "category": "Location",
+  "raw": "school"
+ },
+ {
+  "en": "office",
+  "category": "Location",
+  "raw": "office"
+ },
+ {
+  "en": "room",
+  "category": "Location",
+  "raw": "room"
+ },
+ {
+  "en": "town",
+  "category": "Location",
+  "raw": "town"
+ },
+ {
+  "en": "university",
+  "category": "Location",
+  "raw": "university"
+ },
+ {
+  "en": "club",
+  "category": "Location",
+  "raw": "club"
+ },
+ {
+  "en": "bar",
+  "category": "Location",
+  "raw": "bar"
+ },
+ {
+  "en": "park",
+  "category": "Location",
+  "raw": "park"
+ },
+ {
+  "en": "camp",
+  "category": "Location",
+  "raw": "camp"
+ },
+ {
+  "en": "store/shop",
+  "category": "Location",
+  "raw": "store/shop"
+ },
+ {
+  "en": "theater",
+  "category": "Location",
+  "raw": "theater"
+ },
+ {
+  "en": "library",
+  "category": "Location",
+  "raw": "library"
+ },
+ {
+  "en": "hospital",
+  "category": "Location",
+  "raw": "hospital"
+ },
+ {
+  "en": "church",
+  "category": "Location",
+  "raw": "church"
+ },
+ {
+  "en": "market",
+  "category": "Location",
+  "raw": "market"
+ },
+ {
+  "en": "country (USA, France, etc.)",
+  "category": "Location",
+  "raw": "country (USA, France, etc.)"
+ },
+ {
+  "en": "building",
+  "category": "Location",
+  "raw": "building"
+ },
+ {
+  "en": "ground",
+  "category": "Location",
+  "raw": "ground"
+ },
+ {
+  "en": "space (outer space)",
+  "category": "Location",
+  "raw": "space (outer space)"
+ },
+ {
+  "en": "bank",
+  "category": "Location",
+  "raw": "bank"
+ },
+ {
+  "en": "location",
+  "category": "Location",
+  "raw": "location(c)"
+ },
+ {
+  "en": "hat",
+  "category": "Clothing",
+  "raw": "hat"
+ },
+ {
+  "en": "dress",
+  "category": "Clothing",
+  "raw": "dress"
+ },
+ {
+  "en": "suit",
+  "category": "Clothing",
+  "raw": "suit"
+ },
+ {
+  "en": "skirt",
+  "category": "Clothing",
+  "raw": "skirt"
+ },
+ {
+  "en": "shirt",
+  "category": "Clothing",
+  "raw": "shirt"
+ },
+ {
+  "en": "T-shirt",
+  "category": "Clothing",
+  "raw": "T-shirt"
+ },
+ {
+  "en": "pants",
+  "category": "Clothing",
+  "raw": "pants"
+ },
+ {
+  "en": "shoes",
+  "category": "Clothing",
+  "raw": "shoes"
+ },
+ {
+  "en": "pocket",
+  "category": "Clothing",
+  "raw": "pocket"
+ },
+ {
+  "en": "coat",
+  "category": "Clothing",
+  "raw": "coat"
+ },
+ {
+  "en": "stain",
+  "category": "Clothing",
+  "raw": "stain"
+ },
+ {
+  "en": "clothing",
+  "category": "Clothing",
+  "raw": "clothing(c)"
+ },
+ {
+  "en": "red",
+  "category": "Color",
+  "raw": "red"
+ },
+ {
+  "en": "green",
+  "category": "Color",
+  "raw": "green"
+ },
+ {
+  "en": "blue (light/dark)",
+  "category": "Color",
+  "raw": "blue (light/dark)"
+ },
+ {
+  "en": "yellow",
+  "category": "Color",
+  "raw": "yellow"
+ },
+ {
+  "en": "brown",
+  "category": "Color",
+  "raw": "brown"
+ },
+ {
+  "en": "pink",
+  "category": "Color",
+  "raw": "pink"
+ },
+ {
+  "en": "orange",
+  "category": "Color",
+  "raw": "orange"
+ },
+ {
+  "en": "black",
+  "category": "Color",
+  "raw": "black"
+ },
+ {
+  "en": "white",
+  "category": "Color",
+  "raw": "white"
+ },
+ {
+  "en": "gray",
+  "category": "Color",
+  "raw": "gray"
+ },
+ {
+  "en": "color",
+  "category": "Color",
+  "raw": "color(c)"
+ },
+ {
+  "en": "son*",
+  "category": "People",
+  "raw": "son*"
+ },
+ {
+  "en": "daughter*",
+  "category": "People",
+  "raw": "daughter*"
+ },
+ {
+  "en": "mother",
+  "category": "People",
+  "raw": "mother"
+ },
+ {
+  "en": "father",
+  "category": "People",
+  "raw": "father"
+ },
+ {
+  "en": "parent (= mother/father)",
+  "category": "People",
+  "raw": "parent (= mother/father)"
+ },
+ {
+  "en": "baby",
+  "category": "People",
+  "raw": "baby"
+ },
+ {
+  "en": "man",
+  "category": "People",
+  "raw": "man"
+ },
+ {
+  "en": "woman",
+  "category": "People",
+  "raw": "woman"
+ },
+ {
+  "en": "brother*",
+  "category": "People",
+  "raw": "brother*"
+ },
+ {
+  "en": "sister*",
+  "category": "People",
+  "raw": "sister*"
+ },
+ {
+  "en": "family",
+  "category": "People",
+  "raw": "family"
+ },
+ {
+  "en": "grandfather",
+  "category": "People",
+  "raw": "grandfather"
+ },
+ {
+  "en": "grandmother",
+  "category": "People",
+  "raw": "grandmother"
+ },
+ {
+  "en": "husband*",
+  "category": "People",
+  "raw": "husband*"
+ },
+ {
+  "en": "wife*",
+  "category": "People",
+  "raw": "wife*"
+ },
+ {
+  "en": "king",
+  "category": "People",
+  "raw": "king"
+ },
+ {
+  "en": "queen",
+  "category": "People",
+  "raw": "queen"
+ },
+ {
+  "en": "president",
+  "category": "People",
+  "raw": "president"
+ },
+ {
+  "en": "neighbor",
+  "category": "People",
+  "raw": "neighbor"
+ },
+ {
+  "en": "boy",
+  "category": "People",
+  "raw": "boy"
+ },
+ {
+  "en": "girl",
+  "category": "People",
+  "raw": "girl"
+ },
+ {
+  "en": "child (= boy/girl)",
+  "category": "People",
+  "raw": "child (= boy/girl)"
+ },
+ {
+  "en": "adult (= man/woman)",
+  "category": "People",
+  "raw": "adult (= man/woman)"
+ },
+ {
+  "en": "human (≠ animal)",
+  "category": "People",
+  "raw": "human (≠ animal)"
+ },
+ {
+  "en": "friend (Add a friend’s name)",
+  "category": "People",
+  "raw": "friend (Add a friend’s name)"
+ },
+ {
+  "en": "victim",
+  "category": "People",
+  "raw": "victim"
+ },
+ {
+  "en": "player",
+  "category": "People",
+  "raw": "player"
+ },
+ {
+  "en": "fan",
+  "category": "People",
+  "raw": "fan"
+ },
+ {
+  "en": "crowd",
+  "category": "People",
+  "raw": "crowd"
+ },
+ {
+  "en": "person",
+  "category": "People",
+  "raw": "person(c)"
+ },
+ {
+  "en": "Teacher",
+  "category": "Job",
+  "raw": "Teacher"
+ },
+ {
+  "en": "student",
+  "category": "Job",
+  "raw": "student"
+ },
+ {
+  "en": "lawyer",
+  "category": "Job",
+  "raw": "lawyer"
+ },
+ {
+  "en": "doctor",
+  "category": "Job",
+  "raw": "doctor"
+ },
+ {
+  "en": "patient",
+  "category": "Job",
+  "raw": "patient"
+ },
+ {
+  "en": "waiter",
+  "category": "Job",
+  "raw": "waiter"
+ },
+ {
+  "en": "secretary",
+  "category": "Job",
+  "raw": "secretary"
+ },
+ {
+  "en": "priest",
+  "category": "Job",
+  "raw": "priest"
+ },
+ {
+  "en": "police",
+  "category": "Job",
+  "raw": "police"
+ },
+ {
+  "en": "army",
+  "category": "Job",
+  "raw": "army"
+ },
+ {
+  "en": "soldier",
+  "category": "Job",
+  "raw": "soldier"
+ },
+ {
+  "en": "artist",
+  "category": "Job",
+  "raw": "artist"
+ },
+ {
+  "en": "author",
+  "category": "Job",
+  "raw": "author"
+ },
+ {
+  "en": "manager",
+  "category": "Job",
+  "raw": "manager"
+ },
+ {
+  "en": "reporter",
+  "category": "Job",
+  "raw": "reporter"
+ },
+ {
+  "en": "actor",
+  "category": "Job",
+  "raw": "actor"
+ },
+ {
+  "en": "job",
+  "category": "Job",
+  "raw": "job(c)"
+ },
+ {
+  "en": "religion",
+  "category": "Society",
+  "raw": "religion"
+ },
+ {
+  "en": "heaven",
+  "category": "Society",
+  "raw": "heaven"
+ },
+ {
+  "en": "hell",
+  "category": "Society",
+  "raw": "hell"
+ },
+ {
+  "en": "death",
+  "category": "Society",
+  "raw": "death"
+ },
+ {
+  "en": "medicine",
+  "category": "Society",
+  "raw": "medicine"
+ },
+ {
+  "en": "money",
+  "category": "Society",
+  "raw": "money"
+ },
+ {
+  "en": "dollar",
+  "category": "Society",
+  "raw": "dollar"
+ },
+ {
+  "en": "bill",
+  "category": "Society",
+  "raw": "bill"
+ },
+ {
+  "en": "marriage*",
+  "category": "Society",
+  "raw": "marriage*"
+ },
+ {
+  "en": "wedding*",
+  "category": "Society",
+  "raw": "wedding*"
+ },
+ {
+  "en": "team",
+  "category": "Society",
+  "raw": "team"
+ },
+ {
+  "en": "race (ethnicity)",
+  "category": "Society",
+  "raw": "race (ethnicity)"
+ },
+ {
+  "en": "sex (the act)",
+  "category": "Society",
+  "raw": "sex (the act)"
+ },
+ {
+  "en": "sex (gender)",
+  "category": "Society",
+  "raw": "sex (gender)"
+ },
+ {
+  "en": "murder",
+  "category": "Society",
+  "raw": "murder"
+ },
+ {
+  "en": "prison",
+  "category": "Society",
+  "raw": "prison"
+ },
+ {
+  "en": "technology",
+  "category": "Society",
+  "raw": "technology"
+ },
+ {
+  "en": "energy",
+  "category": "Society",
+  "raw": "energy"
+ },
+ {
+  "en": "war",
+  "category": "Society",
+  "raw": "war"
+ },
+ {
+  "en": "peace",
+  "category": "Society",
+  "raw": "peace"
+ },
+ {
+  "en": "attack",
+  "category": "Society",
+  "raw": "attack"
+ },
+ {
+  "en": "election",
+  "category": "Society",
+  "raw": "election"
+ },
+ {
+  "en": "magazine",
+  "category": "Society",
+  "raw": "magazine"
+ },
+ {
+  "en": "newspaper",
+  "category": "Society",
+  "raw": "newspaper"
+ },
+ {
+  "en": "poison",
+  "category": "Society",
+  "raw": "poison"
+ },
+ {
+  "en": "gun",
+  "category": "Society",
+  "raw": "gun"
+ },
+ {
+  "en": "sport",
+  "category": "Society",
+  "raw": "sport"
+ },
+ {
+  "en": "race (sport)",
+  "category": "Society",
+  "raw": "race (sport)"
+ },
+ {
+  "en": "exercise",
+  "category": "Society",
+  "raw": "exercise"
+ },
+ {
+  "en": "ball",
+  "category": "Society",
+  "raw": "ball"
+ },
+ {
+  "en": "game",
+  "category": "Society",
+  "raw": "game"
+ },
+ {
+  "en": "price",
+  "category": "Society",
+  "raw": "price"
+ },
+ {
+  "en": "contract",
+  "category": "Society",
+  "raw": "contract"
+ },
+ {
+  "en": "drug",
+  "category": "Society",
+  "raw": "drug"
+ },
+ {
+  "en": "sign",
+  "category": "Society",
+  "raw": "sign"
+ },
+ {
+  "en": "science",
+  "category": "Society",
+  "raw": "science"
+ },
+ {
+  "en": "God",
+  "category": "Society",
+  "raw": "God"
+ },
+ {
+  "en": "band",
+  "category": "Art",
+  "raw": "band"
+ },
+ {
+  "en": "song",
+  "category": "Art",
+  "raw": "song"
+ },
+ {
+  "en": "instrument (musical)",
+  "category": "Art",
+  "raw": "instrument (musical)"
+ },
+ {
+  "en": "music",
+  "category": "Art",
+  "raw": "music"
+ },
+ {
+  "en": "movie",
+  "category": "Art",
+  "raw": "movie"
+ },
+ {
+  "en": "art",
+  "category": "Art",
+  "raw": "art"
+ },
+ {
+  "en": "coffee",
+  "category": "Beverages",
+  "raw": "coffee"
+ },
+ {
+  "en": "tea",
+  "category": "Beverages",
+  "raw": "tea"
+ },
+ {
+  "en": "wine",
+  "category": "Beverages",
+  "raw": "wine"
+ },
+ {
+  "en": "beer",
+  "category": "Beverages",
+  "raw": "beer"
+ },
+ {
+  "en": "juice",
+  "category": "Beverages",
+  "raw": "juice"
+ },
+ {
+  "en": "water",
+  "category": "Beverages",
+  "raw": "water"
+ },
+ {
+  "en": "milk",
+  "category": "Beverages",
+  "raw": "milk"
+ },
+ {
+  "en": "beverage",
+  "category": "Beverages",
+  "raw": "beverage(c)"
+ },
+ {
+  "en": "egg",
+  "category": "Food",
+  "raw": "egg"
+ },
+ {
+  "en": "cheese",
+  "category": "Food",
+  "raw": "cheese"
+ },
+ {
+  "en": "bread",
+  "category": "Food",
+  "raw": "bread"
+ },
+ {
+  "en": "soup",
+  "category": "Food",
+  "raw": "soup"
+ },
+ {
+  "en": "cake",
+  "category": "Food",
+  "raw": "cake"
+ },
+ {
+  "en": "chicken",
+  "category": "Food",
+  "raw": "chicken"
+ },
+ {
+  "en": "pork",
+  "category": "Food",
+  "raw": "pork"
+ },
+ {
+  "en": "beef",
+  "category": "Food",
+  "raw": "beef"
+ },
+ {
+  "en": "apple",
+  "category": "Food",
+  "raw": "apple"
+ },
+ {
+  "en": "banana",
+  "category": "Food",
+  "raw": "banana"
+ },
+ {
+  "en": "orange",
+  "category": "Food",
+  "raw": "orange"
+ },
+ {
+  "en": "lemon",
+  "category": "Food",
+  "raw": "lemon"
+ },
+ {
+  "en": "corn",
+  "category": "Food",
+  "raw": "corn"
+ },
+ {
+  "en": "rice",
+  "category": "Food",
+  "raw": "rice"
+ },
+ {
+  "en": "oil",
+  "category": "Food",
+  "raw": "oil"
+ },
+ {
+  "en": "seed",
+  "category": "Food",
+  "raw": "seed"
+ },
+ {
+  "en": "knife",
+  "category": "Food",
+  "raw": "knife"
+ },
+ {
+  "en": "spoon",
+  "category": "Food",
+  "raw": "spoon"
+ },
+ {
+  "en": "fork",
+  "category": "Food",
+  "raw": "fork"
+ },
+ {
+  "en": "plate",
+  "category": "Food",
+  "raw": "plate"
+ },
+ {
+  "en": "cup",
+  "category": "Food",
+  "raw": "cup"
+ },
+ {
+  "en": "breakfast",
+  "category": "Food",
+  "raw": "breakfast"
+ },
+ {
+  "en": "lunch",
+  "category": "Food",
+  "raw": "lunch"
+ },
+ {
+  "en": "dinner",
+  "category": "Food",
+  "raw": "dinner"
+ },
+ {
+  "en": "sugar",
+  "category": "Food",
+  "raw": "sugar"
+ },
+ {
+  "en": "salt",
+  "category": "Food",
+  "raw": "salt"
+ },
+ {
+  "en": "bottle",
+  "category": "Food",
+  "raw": "bottle"
+ },
+ {
+  "en": "food",
+  "category": "Food",
+  "raw": "food(c)"
+ },
+ {
+  "en": "table",
+  "category": "Home",
+  "raw": "table"
+ },
+ {
+  "en": "chair",
+  "category": "Home",
+  "raw": "chair"
+ },
+ {
+  "en": "bed",
+  "category": "Home",
+  "raw": "bed"
+ },
+ {
+  "en": "dream",
+  "category": "Home",
+  "raw": "dream"
+ },
+ {
+  "en": "window",
+  "category": "Home",
+  "raw": "window"
+ },
+ {
+  "en": "door",
+  "category": "Home",
+  "raw": "door"
+ },
+ {
+  "en": "bedroom",
+  "category": "Home",
+  "raw": "bedroom"
+ },
+ {
+  "en": "kitchen",
+  "category": "Home",
+  "raw": "kitchen"
+ },
+ {
+  "en": "bathroom",
+  "category": "Home",
+  "raw": "bathroom"
+ },
+ {
+  "en": "pencil",
+  "category": "Home",
+  "raw": "pencil"
+ },
+ {
+  "en": "pen",
+  "category": "Home",
+  "raw": "pen"
+ },
+ {
+  "en": "photograph",
+  "category": "Home",
+  "raw": "photograph"
+ },
+ {
+  "en": "soap",
+  "category": "Home",
+  "raw": "soap"
+ },
+ {
+  "en": "book",
+  "category": "Home",
+  "raw": "book"
+ },
+ {
+  "en": "page",
+  "category": "Home",
+  "raw": "page"
+ },
+ {
+  "en": "key",
+  "category": "Home",
+  "raw": "key"
+ },
+ {
+  "en": "paint",
+  "category": "Home",
+  "raw": "paint"
+ },
+ {
+  "en": "letter",
+  "category": "Home",
+  "raw": "letter"
+ },
+ {
+  "en": "note",
+  "category": "Home",
+  "raw": "note"
+ },
+ {
+  "en": "wall",
+  "category": "Home",
+  "raw": "wall"
+ },
+ {
+  "en": "paper",
+  "category": "Home",
+  "raw": "paper"
+ },
+ {
+  "en": "floor",
+  "category": "Home",
+  "raw": "floor"
+ },
+ {
+  "en": "ceiling",
+  "category": "Home",
+  "raw": "ceiling"
+ },
+ {
+  "en": "roof",
+  "category": "Home",
+  "raw": "roof"
+ },
+ {
+  "en": "pool",
+  "category": "Home",
+  "raw": "pool"
+ },
+ {
+  "en": "lock",
+  "category": "Home",
+  "raw": "lock"
+ },
+ {
+  "en": "telephone",
+  "category": "Home",
+  "raw": "telephone"
+ },
+ {
+  "en": "garden",
+  "category": "Home",
+  "raw": "garden"
+ },
+ {
+  "en": "yard",
+  "category": "Home",
+  "raw": "yard"
+ },
+ {
+  "en": "needle",
+  "category": "Home",
+  "raw": "needle"
+ },
+ {
+  "en": "bag",
+  "category": "Home",
+  "raw": "bag"
+ },
+ {
+  "en": "box",
+  "category": "Home",
+  "raw": "box"
+ },
+ {
+  "en": "gift",
+  "category": "Home",
+  "raw": "gift"
+ },
+ {
+  "en": "card",
+  "category": "Home",
+  "raw": "card"
+ },
+ {
+  "en": "ring",
+  "category": "Home",
+  "raw": "ring"
+ },
+ {
+  "en": "tool",
+  "category": "Home",
+  "raw": "tool"
+ },
+ {
+  "en": "clock",
+  "category": "Electronics",
+  "raw": "clock"
+ },
+ {
+  "en": "lamp",
+  "category": "Electronics",
+  "raw": "lamp"
+ },
+ {
+  "en": "fan",
+  "category": "Electronics",
+  "raw": "fan"
+ },
+ {
+  "en": "cell phone",
+  "category": "Electronics",
+  "raw": "cell phone"
+ },
+ {
+  "en": "network",
+  "category": "Electronics",
+  "raw": "network"
+ },
+ {
+  "en": "computer",
+  "category": "Electronics",
+  "raw": "computer"
+ },
+ {
+  "en": "program (computer)",
+  "category": "Electronics",
+  "raw": "program (computer)"
+ },
+ {
+  "en": "laptop",
+  "category": "Electronics",
+  "raw": "laptop"
+ },
+ {
+  "en": "screen",
+  "category": "Electronics",
+  "raw": "screen"
+ },
+ {
+  "en": "camera",
+  "category": "Electronics",
+  "raw": "camera"
+ },
+ {
+  "en": "television",
+  "category": "Electronics",
+  "raw": "television"
+ },
+ {
+  "en": "radio",
+  "category": "Electronics",
+  "raw": "radio"
+ },
+ {
+  "en": "head",
+  "category": "Body",
+  "raw": "head"
+ },
+ {
+  "en": "neck",
+  "category": "Body",
+  "raw": "neck"
+ },
+ {
+  "en": "face",
+  "category": "Body",
+  "raw": "face"
+ },
+ {
+  "en": "beard",
+  "category": "Body",
+  "raw": "beard"
+ },
+ {
+  "en": "hair",
+  "category": "Body",
+  "raw": "hair"
+ },
+ {
+  "en": "eye",
+  "category": "Body",
+  "raw": "eye"
+ },
+ {
+  "en": "mouth*",
+  "category": "Body",
+  "raw": "mouth*"
+ },
+ {
+  "en": "lip*",
+  "category": "Body",
+  "raw": "lip*"
+ },
+ {
+  "en": "nose",
+  "category": "Body",
+  "raw": "nose"
+ },
+ {
+  "en": "tooth",
+  "category": "Body",
+  "raw": "tooth"
+ },
+ {
+  "en": "ear",
+  "category": "Body",
+  "raw": "ear"
+ },
+ {
+  "en": "tear (drop)",
+  "category": "Body",
+  "raw": "tear (drop)"
+ },
+ {
+  "en": "tongue",
+  "category": "Body",
+  "raw": "tongue"
+ },
+ {
+  "en": "back",
+  "category": "Body",
+  "raw": "back"
+ },
+ {
+  "en": "toe",
+  "category": "Body",
+  "raw": "toe"
+ },
+ {
+  "en": "finger",
+  "category": "Body",
+  "raw": "finger"
+ },
+ {
+  "en": "foot",
+  "category": "Body",
+  "raw": "foot"
+ },
+ {
+  "en": "hand",
+  "category": "Body",
+  "raw": "hand"
+ },
+ {
+  "en": "leg",
+  "category": "Body",
+  "raw": "leg"
+ },
+ {
+  "en": "arm",
+  "category": "Body",
+  "raw": "arm"
+ },
+ {
+  "en": "shoulder",
+  "category": "Body",
+  "raw": "shoulder"
+ },
+ {
+  "en": "heart",
+  "category": "Body",
+  "raw": "heart"
+ },
+ {
+  "en": "blood",
+  "category": "Body",
+  "raw": "blood"
+ },
+ {
+  "en": "brain",
+  "category": "Body",
+  "raw": "brain"
+ },
+ {
+  "en": "knee",
+  "category": "Body",
+  "raw": "knee"
+ },
+ {
+  "en": "sweat",
+  "category": "Body",
+  "raw": "sweat"
+ },
+ {
+  "en": "disease",
+  "category": "Body",
+  "raw": "disease"
+ },
+ {
+  "en": "bone",
+  "category": "Body",
+  "raw": "bone"
+ },
+ {
+  "en": "voice",
+  "category": "Body",
+  "raw": "voice"
+ },
+ {
+  "en": "skin",
+  "category": "Body",
+  "raw": "skin"
+ },
+ {
+  "en": "body",
+  "category": "Body",
+  "raw": "body"
+ },
+ {
+  "en": "sea*",
+  "category": "Nature",
+  "raw": "sea*"
+ },
+ {
+  "en": "ocean*",
+  "category": "Nature",
+  "raw": "ocean*"
+ },
+ {
+  "en": "river",
+  "category": "Nature",
+  "raw": "river"
+ },
+ {
+  "en": "mountain",
+  "category": "Nature",
+  "raw": "mountain"
+ },
+ {
+  "en": "rain",
+  "category": "Nature",
+  "raw": "rain"
+ },
+ {
+  "en": "snow",
+  "category": "Nature",
+  "raw": "snow"
+ },
+ {
+  "en": "tree",
+  "category": "Nature",
+  "raw": "tree"
+ },
+ {
+  "en": "sun",
+  "category": "Nature",
+  "raw": "sun"
+ },
+ {
+  "en": "moon",
+  "category": "Nature",
+  "raw": "moon"
+ },
+ {
+  "en": "world",
+  "category": "Nature",
+  "raw": "world"
+ },
+ {
+  "en": "Earth",
+  "category": "Nature",
+  "raw": "Earth"
+ },
+ {
+  "en": "forest",
+  "category": "Nature",
+  "raw": "forest"
+ },
+ {
+  "en": "sky",
+  "category": "Nature",
+  "raw": "sky"
+ },
+ {
+  "en": "plant",
+  "category": "Nature",
+  "raw": "plant"
+ },
+ {
+  "en": "wind",
+  "category": "Nature",
+  "raw": "wind"
+ },
+ {
+  "en": "soil/earth",
+  "category": "Nature",
+  "raw": "soil/earth"
+ },
+ {
+  "en": "flower",
+  "category": "Nature",
+  "raw": "flower"
+ },
+ {
+  "en": "valley",
+  "category": "Nature",
+  "raw": "valley"
+ },
+ {
+  "en": "root",
+  "category": "Nature",
+  "raw": "root"
+ },
+ {
+  "en": "lake",
+  "category": "Nature",
+  "raw": "lake"
+ },
+ {
+  "en": "star",
+  "category": "Nature",
+  "raw": "star"
+ },
+ {
+  "en": "grass",
+  "category": "Nature",
+  "raw": "grass"
+ },
+ {
+  "en": "leaf",
+  "category": "Nature",
+  "raw": "leaf"
+ },
+ {
+  "en": "air",
+  "category": "Nature",
+  "raw": "air"
+ },
+ {
+  "en": "sand",
+  "category": "Nature",
+  "raw": "sand"
+ },
+ {
+  "en": "beach",
+  "category": "Nature",
+  "raw": "beach"
+ },
+ {
+  "en": "wave",
+  "category": "Nature",
+  "raw": "wave"
+ },
+ {
+  "en": "fire",
+  "category": "Nature",
+  "raw": "fire"
+ },
+ {
+  "en": "ice",
+  "category": "Nature",
+  "raw": "ice"
+ },
+ {
+  "en": "island",
+  "category": "Nature",
+  "raw": "island"
+ },
+ {
+  "en": "hill",
+  "category": "Nature",
+  "raw": "hill"
+ },
+ {
+  "en": "heat",
+  "category": "Nature",
+  "raw": "heat"
+ },
+ {
+  "en": "nature",
+  "category": "Nature",
+  "raw": "nature(c)"
+ },
+ {
+  "en": "glass",
+  "category": "Materials",
+  "raw": "glass"
+ },
+ {
+  "en": "metal",
+  "category": "Materials",
+  "raw": "metal"
+ },
+ {
+  "en": "plastic",
+  "category": "Materials",
+  "raw": "plastic"
+ },
+ {
+  "en": "wood",
+  "category": "Materials",
+  "raw": "wood"
+ },
+ {
+  "en": "stone",
+  "category": "Materials",
+  "raw": "stone"
+ },
+ {
+  "en": "diamond",
+  "category": "Materials",
+  "raw": "diamond"
+ },
+ {
+  "en": "clay",
+  "category": "Materials",
+  "raw": "clay"
+ },
+ {
+  "en": "dust",
+  "category": "Materials",
+  "raw": "dust"
+ },
+ {
+  "en": "gold",
+  "category": "Materials",
+  "raw": "gold"
+ },
+ {
+  "en": "copper",
+  "category": "Materials",
+  "raw": "copper"
+ },
+ {
+  "en": "silver",
+  "category": "Materials",
+  "raw": "silver"
+ },
+ {
+  "en": "material",
+  "category": "Materials",
+  "raw": "material(c)"
+ },
+ {
+  "en": "meter",
+  "category": "Math/Measurements",
+  "raw": "meter"
+ },
+ {
+  "en": "centimeter",
+  "category": "Math/Measurements",
+  "raw": "centimeter"
+ },
+ {
+  "en": "kilogram",
+  "category": "Math/Measurements",
+  "raw": "kilogram"
+ },
+ {
+  "en": "inch",
+  "category": "Math/Measurements",
+  "raw": "inch"
+ },
+ {
+  "en": "foot",
+  "category": "Math/Measurements",
+  "raw": "foot"
+ },
+ {
+  "en": "pound",
+  "category": "Math/Measurements",
+  "raw": "pound"
+ },
+ {
+  "en": "half",
+  "category": "Math/Measurements",
+  "raw": "half"
+ },
+ {
+  "en": "circle",
+  "category": "Math/Measurements",
+  "raw": "circle"
+ },
+ {
+  "en": "square",
+  "category": "Math/Measurements",
+  "raw": "square"
+ },
+ {
+  "en": "temperature",
+  "category": "Math/Measurements",
+  "raw": "temperature"
+ },
+ {
+  "en": "date",
+  "category": "Math/Measurements",
+  "raw": "date"
+ },
+ {
+  "en": "weight",
+  "category": "Math/Measurements",
+  "raw": "weight"
+ },
+ {
+  "en": "edge",
+  "category": "Math/Measurements",
+  "raw": "edge"
+ },
+ {
+  "en": "corner",
+  "category": "Math/Measurements",
+  "raw": "corner"
+ },
+ {
+  "en": "map",
+  "category": "Misc Nouns",
+  "raw": "map"
+ },
+ {
+  "en": "dot",
+  "category": "Misc Nouns",
+  "raw": "dot"
+ },
+ {
+  "en": "consonant",
+  "category": "Misc Nouns",
+  "raw": "consonant"
+ },
+ {
+  "en": "vowel",
+  "category": "Misc Nouns",
+  "raw": "vowel"
+ },
+ {
+  "en": "light",
+  "category": "Misc Nouns",
+  "raw": "light"
+ },
+ {
+  "en": "sound",
+  "category": "Misc Nouns",
+  "raw": "sound"
+ },
+ {
+  "en": "yes",
+  "category": "Misc Nouns",
+  "raw": "yes"
+ },
+ {
+  "en": "no",
+  "category": "Misc Nouns",
+  "raw": "no"
+ },
+ {
+  "en": "piece",
+  "category": "Misc Nouns",
+  "raw": "piece"
+ },
+ {
+  "en": "pain",
+  "category": "Misc Nouns",
+  "raw": "pain"
+ },
+ {
+  "en": "injury",
+  "category": "Misc Nouns",
+  "raw": "injury"
+ },
+ {
+  "en": "hole",
+  "category": "Misc Nouns",
+  "raw": "hole"
+ },
+ {
+  "en": "image",
+  "category": "Misc Nouns",
+  "raw": "image"
+ },
+ {
+  "en": "pattern",
+  "category": "Misc Nouns",
+  "raw": "pattern"
+ },
+ {
+  "en": "noun",
+  "category": "Misc Nouns",
+  "raw": "noun(c)"
+ },
+ {
+  "en": "verb",
+  "category": "Misc Nouns",
+  "raw": "verb(c)"
+ },
+ {
+  "en": "adjective",
+  "category": "Misc Nouns",
+  "raw": "adjective(c)"
+ },
+ {
+  "en": "top",
+  "category": "Directions",
+  "raw": "top"
+ },
+ {
+  "en": "bottom",
+  "category": "Directions",
+  "raw": "bottom"
+ },
+ {
+  "en": "side",
+  "category": "Directions",
+  "raw": "side"
+ },
+ {
+  "en": "front",
+  "category": "Directions",
+  "raw": "front"
+ },
+ {
+  "en": "back",
+  "category": "Directions",
+  "raw": "back"
+ },
+ {
+  "en": "outside",
+  "category": "Directions",
+  "raw": "outside"
+ },
+ {
+  "en": "inside",
+  "category": "Directions",
+  "raw": "inside"
+ },
+ {
+  "en": "up",
+  "category": "Directions",
+  "raw": "up"
+ },
+ {
+  "en": "down",
+  "category": "Directions",
+  "raw": "down"
+ },
+ {
+  "en": "left",
+  "category": "Directions",
+  "raw": "left"
+ },
+ {
+  "en": "right",
+  "category": "Directions",
+  "raw": "right"
+ },
+ {
+  "en": "straight",
+  "category": "Directions",
+  "raw": "straight"
+ },
+ {
+  "en": "north",
+  "category": "Directions",
+  "raw": "north"
+ },
+ {
+  "en": "south",
+  "category": "Directions",
+  "raw": "south"
+ },
+ {
+  "en": "east",
+  "category": "Directions",
+  "raw": "east"
+ },
+ {
+  "en": "west",
+  "category": "Directions",
+  "raw": "west"
+ },
+ {
+  "en": "direction",
+  "category": "Directions",
+  "raw": "direction(c)"
+ },
+ {
+  "en": "Summer",
+  "category": "Seasons",
+  "raw": "Summer"
+ },
+ {
+  "en": "Spring",
+  "category": "Seasons",
+  "raw": "Spring"
+ },
+ {
+  "en": "Winter",
+  "category": "Seasons",
+  "raw": "Winter"
+ },
+ {
+  "en": "Fall",
+  "category": "Seasons",
+  "raw": "Fall"
+ },
+ {
+  "en": "season",
+  "category": "Seasons",
+  "raw": "season(c)"
+ },
+ {
+  "en": "0",
+  "category": "Numbers",
+  "raw": "0"
+ },
+ {
+  "en": "1",
+  "category": "Numbers",
+  "raw": "1"
+ },
+ {
+  "en": "2",
+  "category": "Numbers",
+  "raw": "2"
+ },
+ {
+  "en": "3",
+  "category": "Numbers",
+  "raw": "3"
+ },
+ {
+  "en": "4",
+  "category": "Numbers",
+  "raw": "4"
+ },
+ {
+  "en": "5",
+  "category": "Numbers",
+  "raw": "5"
+ },
+ {
+  "en": "6",
+  "category": "Numbers",
+  "raw": "6"
+ },
+ {
+  "en": "7",
+  "category": "Numbers",
+  "raw": "7"
+ },
+ {
+  "en": "8",
+  "category": "Numbers",
+  "raw": "8"
+ },
+ {
+  "en": "9",
+  "category": "Numbers",
+  "raw": "9"
+ },
+ {
+  "en": "10",
+  "category": "Numbers",
+  "raw": "10"
+ },
+ {
+  "en": "11",
+  "category": "Numbers",
+  "raw": "11"
+ },
+ {
+  "en": "12",
+  "category": "Numbers",
+  "raw": "12"
+ },
+ {
+  "en": "13",
+  "category": "Numbers",
+  "raw": "13"
+ },
+ {
+  "en": "14",
+  "category": "Numbers",
+  "raw": "14"
+ },
+ {
+  "en": "15",
+  "category": "Numbers",
+  "raw": "15"
+ },
+ {
+  "en": "16",
+  "category": "Numbers",
+  "raw": "16"
+ },
+ {
+  "en": "17",
+  "category": "Numbers",
+  "raw": "17"
+ },
+ {
+  "en": "18",
+  "category": "Numbers",
+  "raw": "18"
+ },
+ {
+  "en": "19",
+  "category": "Numbers",
+  "raw": "19"
+ },
+ {
+  "en": "20",
+  "category": "Numbers",
+  "raw": "20"
+ },
+ {
+  "en": "21",
+  "category": "Numbers",
+  "raw": "21"
+ },
+ {
+  "en": "22",
+  "category": "Numbers",
+  "raw": "22"
+ },
+ {
+  "en": "30",
+  "category": "Numbers",
+  "raw": "30"
+ },
+ {
+  "en": "31",
+  "category": "Numbers",
+  "raw": "31"
+ },
+ {
+  "en": "32",
+  "category": "Numbers",
+  "raw": "32"
+ },
+ {
+  "en": "40",
+  "category": "Numbers",
+  "raw": "40"
+ },
+ {
+  "en": "41",
+  "category": "Numbers",
+  "raw": "41"
+ },
+ {
+  "en": "42",
+  "category": "Numbers",
+  "raw": "42"
+ },
+ {
+  "en": "50",
+  "category": "Numbers",
+  "raw": "50"
+ },
+ {
+  "en": "51",
+  "category": "Numbers",
+  "raw": "51"
+ },
+ {
+  "en": "52",
+  "category": "Numbers",
+  "raw": "52"
+ },
+ {
+  "en": "60",
+  "category": "Numbers",
+  "raw": "60"
+ },
+ {
+  "en": "61",
+  "category": "Numbers",
+  "raw": "61"
+ },
+ {
+  "en": "62",
+  "category": "Numbers",
+  "raw": "62"
+ },
+ {
+  "en": "70",
+  "category": "Numbers",
+  "raw": "70"
+ },
+ {
+  "en": "71",
+  "category": "Numbers",
+  "raw": "71"
+ },
+ {
+  "en": "72",
+  "category": "Numbers",
+  "raw": "72"
+ },
+ {
+  "en": "80",
+  "category": "Numbers",
+  "raw": "80"
+ },
+ {
+  "en": "81",
+  "category": "Numbers",
+  "raw": "81"
+ },
+ {
+  "en": "82",
+  "category": "Numbers",
+  "raw": "82"
+ },
+ {
+  "en": "90",
+  "category": "Numbers",
+  "raw": "90"
+ },
+ {
+  "en": "91",
+  "category": "Numbers",
+  "raw": "91"
+ },
+ {
+  "en": "92",
+  "category": "Numbers",
+  "raw": "92"
+ },
+ {
+  "en": "100",
+  "category": "Numbers",
+  "raw": "100"
+ },
+ {
+  "en": "101",
+  "category": "Numbers",
+  "raw": "101"
+ },
+ {
+  "en": "102",
+  "category": "Numbers",
+  "raw": "102"
+ },
+ {
+  "en": "110",
+  "category": "Numbers",
+  "raw": "110"
+ },
+ {
+  "en": "111",
+  "category": "Numbers",
+  "raw": "111"
+ },
+ {
+  "en": "1000",
+  "category": "Numbers",
+  "raw": "1000"
+ },
+ {
+  "en": "1001",
+  "category": "Numbers",
+  "raw": "1001"
+ },
+ {
+  "en": "10000",
+  "category": "Numbers",
+  "raw": "10000"
+ },
+ {
+  "en": "100000",
+  "category": "Numbers",
+  "raw": "100000"
+ },
+ {
+  "en": "million",
+  "category": "Numbers",
+  "raw": "million"
+ },
+ {
+  "en": "billion",
+  "category": "Numbers",
+  "raw": "billion"
+ },
+ {
+  "en": "1st",
+  "category": "Numbers",
+  "raw": "1st"
+ },
+ {
+  "en": "2nd",
+  "category": "Numbers",
+  "raw": "2nd"
+ },
+ {
+  "en": "3rd",
+  "category": "Numbers",
+  "raw": "3rd"
+ },
+ {
+  "en": "4th",
+  "category": "Numbers",
+  "raw": "4th"
+ },
+ {
+  "en": "5th",
+  "category": "Numbers",
+  "raw": "5th"
+ },
+ {
+  "en": "number",
+  "category": "Numbers",
+  "raw": "number(c)"
+ },
+ {
+  "en": "January",
+  "category": "Months",
+  "raw": "January"
+ },
+ {
+  "en": "February",
+  "category": "Months",
+  "raw": "February"
+ },
+ {
+  "en": "March",
+  "category": "Months",
+  "raw": "March"
+ },
+ {
+  "en": "April",
+  "category": "Months",
+  "raw": "April"
+ },
+ {
+  "en": "May",
+  "category": "Months",
+  "raw": "May"
+ },
+ {
+  "en": "June",
+  "category": "Months",
+  "raw": "June"
+ },
+ {
+  "en": "July",
+  "category": "Months",
+  "raw": "July"
+ },
+ {
+  "en": "August",
+  "category": "Months",
+  "raw": "August"
+ },
+ {
+  "en": "September",
+  "category": "Months",
+  "raw": "September"
+ },
+ {
+  "en": "October",
+  "category": "Months",
+  "raw": "October"
+ },
+ {
+  "en": "November",
+  "category": "Months",
+  "raw": "November"
+ },
+ {
+  "en": "December",
+  "category": "Months",
+  "raw": "December"
+ },
+ {
+  "en": "Monday",
+  "category": "Days of the week",
+  "raw": "Monday"
+ },
+ {
+  "en": "Tuesday",
+  "category": "Days of the week",
+  "raw": "Tuesday"
+ },
+ {
+  "en": "Wednesday",
+  "category": "Days of the week",
+  "raw": "Wednesday"
+ },
+ {
+  "en": "Thursday",
+  "category": "Days of the week",
+  "raw": "Thursday"
+ },
+ {
+  "en": "Friday",
+  "category": "Days of the week",
+  "raw": "Friday"
+ },
+ {
+  "en": "Saturday",
+  "category": "Days of the week",
+  "raw": "Saturday"
+ },
+ {
+  "en": "Sunday",
+  "category": "Days of the week",
+  "raw": "Sunday"
+ },
+ {
+  "en": "year",
+  "category": "Time",
+  "raw": "year"
+ },
+ {
+  "en": "month",
+  "category": "Time",
+  "raw": "month"
+ },
+ {
+  "en": "week",
+  "category": "Time",
+  "raw": "week"
+ },
+ {
+  "en": "day",
+  "category": "Time",
+  "raw": "day"
+ },
+ {
+  "en": "hour",
+  "category": "Time",
+  "raw": "hour"
+ },
+ {
+  "en": "minute",
+  "category": "Time",
+  "raw": "minute"
+ },
+ {
+  "en": "second",
+  "category": "Time",
+  "raw": "second"
+ },
+ {
+  "en": "morning",
+  "category": "Time",
+  "raw": "morning"
+ },
+ {
+  "en": "afternoon",
+  "category": "Time",
+  "raw": "afternoon"
+ },
+ {
+  "en": "evening",
+  "category": "Time",
+  "raw": "evening"
+ },
+ {
+  "en": "night",
+  "category": "Time",
+  "raw": "night"
+ },
+ {
+  "en": "time",
+  "category": "Time",
+  "raw": "time(c)"
+ },
+ {
+  "en": "work",
+  "category": "Verbs",
+  "raw": "work"
+ },
+ {
+  "en": "play",
+  "category": "Verbs",
+  "raw": "play"
+ },
+ {
+  "en": "walk",
+  "category": "Verbs",
+  "raw": "walk"
+ },
+ {
+  "en": "run",
+  "category": "Verbs",
+  "raw": "run"
+ },
+ {
+  "en": "drive",
+  "category": "Verbs",
+  "raw": "drive"
+ },
+ {
+  "en": "fly",
+  "category": "Verbs",
+  "raw": "fly"
+ },
+ {
+  "en": "swim",
+  "category": "Verbs",
+  "raw": "swim"
+ },
+ {
+  "en": "go",
+  "category": "Verbs",
+  "raw": "go(c)"
+ },
+ {
+  "en": "stop",
+  "category": "Verbs",
+  "raw": "stop"
+ },
+ {
+  "en": "follow",
+  "category": "Verbs",
+  "raw": "follow"
+ },
+ {
+  "en": "think",
+  "category": "Verbs",
+  "raw": "think"
+ },
+ {
+  "en": "speak/say",
+  "category": "Verbs",
+  "raw": "speak/say"
+ },
+ {
+  "en": "eat",
+  "category": "Verbs",
+  "raw": "eat"
+ },
+ {
+  "en": "drink",
+  "category": "Verbs",
+  "raw": "drink"
+ },
+ {
+  "en": "kill",
+  "category": "Verbs",
+  "raw": "kill"
+ },
+ {
+  "en": "die",
+  "category": "Verbs",
+  "raw": "die"
+ },
+ {
+  "en": "smile",
+  "category": "Verbs",
+  "raw": "smile"
+ },
+ {
+  "en": "laugh",
+  "category": "Verbs",
+  "raw": "laugh"
+ },
+ {
+  "en": "cry",
+  "category": "Verbs",
+  "raw": "cry"
+ },
+ {
+  "en": "buy*",
+  "category": "Verbs",
+  "raw": "buy*"
+ },
+ {
+  "en": "pay*",
+  "category": "Verbs",
+  "raw": "pay*"
+ },
+ {
+  "en": "sell*",
+  "category": "Verbs",
+  "raw": "sell*"
+ },
+ {
+  "en": "shoot(a gun)",
+  "category": "Verbs",
+  "raw": "shoot(a gun)"
+ },
+ {
+  "en": "learn",
+  "category": "Verbs",
+  "raw": "learn"
+ },
+ {
+  "en": "jump",
+  "category": "Verbs",
+  "raw": "jump"
+ },
+ {
+  "en": "smell",
+  "category": "Verbs",
+  "raw": "smell"
+ },
+ {
+  "en": "hear* (a sound)",
+  "category": "Verbs",
+  "raw": "hear* (a sound)"
+ },
+ {
+  "en": "listen* (music)",
+  "category": "Verbs",
+  "raw": "listen* (music)"
+ },
+ {
+  "en": "taste",
+  "category": "Verbs",
+  "raw": "taste"
+ },
+ {
+  "en": "touch",
+  "category": "Verbs",
+  "raw": "touch"
+ },
+ {
+  "en": "see (a bird)",
+  "category": "Verbs",
+  "raw": "see (a bird)"
+ },
+ {
+  "en": "watch (TV)",
+  "category": "Verbs",
+  "raw": "watch (TV)"
+ },
+ {
+  "en": "kiss",
+  "category": "Verbs",
+  "raw": "kiss"
+ },
+ {
+  "en": "burn",
+  "category": "Verbs",
+  "raw": "burn"
+ },
+ {
+  "en": "melt",
+  "category": "Verbs",
+  "raw": "melt"
+ },
+ {
+  "en": "dig",
+  "category": "Verbs",
+  "raw": "dig"
+ },
+ {
+  "en": "explode",
+  "category": "Verbs",
+  "raw": "explode"
+ },
+ {
+  "en": "sit",
+  "category": "Verbs",
+  "raw": "sit"
+ },
+ {
+  "en": "stand",
+  "category": "Verbs",
+  "raw": "stand"
+ },
+ {
+  "en": "love",
+  "category": "Verbs",
+  "raw": "love"
+ },
+ {
+  "en": "pass by",
+  "category": "Verbs",
+  "raw": "pass by"
+ },
+ {
+  "en": "cut",
+  "category": "Verbs",
+  "raw": "cut"
+ },
+ {
+  "en": "fight",
+  "category": "Verbs",
+  "raw": "fight"
+ },
+ {
+  "en": "lie down",
+  "category": "Verbs",
+  "raw": "lie down"
+ },
+ {
+  "en": "dance",
+  "category": "Verbs",
+  "raw": "dance"
+ },
+ {
+  "en": "sleep",
+  "category": "Verbs",
+  "raw": "sleep"
+ },
+ {
+  "en": "wake up",
+  "category": "Verbs",
+  "raw": "wake up"
+ },
+ {
+  "en": "sing",
+  "category": "Verbs",
+  "raw": "sing"
+ },
+ {
+  "en": "count",
+  "category": "Verbs",
+  "raw": "count"
+ },
+ {
+  "en": "marry",
+  "category": "Verbs",
+  "raw": "marry"
+ },
+ {
+  "en": "pray",
+  "category": "Verbs",
+  "raw": "pray"
+ },
+ {
+  "en": "win",
+  "category": "Verbs",
+  "raw": "win"
+ },
+ {
+  "en": "lose",
+  "category": "Verbs",
+  "raw": "lose"
+ },
+ {
+  "en": "mix/stir",
+  "category": "Verbs",
+  "raw": "mix/stir"
+ },
+ {
+  "en": "bend",
+  "category": "Verbs",
+  "raw": "bend"
+ },
+ {
+  "en": "wash",
+  "category": "Verbs",
+  "raw": "wash"
+ },
+ {
+  "en": "cook",
+  "category": "Verbs",
+  "raw": "cook"
+ },
+ {
+  "en": "open",
+  "category": "Verbs",
+  "raw": "open"
+ },
+ {
+  "en": "close",
+  "category": "Verbs",
+  "raw": "close"
+ },
+ {
+  "en": "write",
+  "category": "Verbs",
+  "raw": "write"
+ },
+ {
+  "en": "call",
+  "category": "Verbs",
+  "raw": "call"
+ },
+ {
+  "en": "turn",
+  "category": "Verbs",
+  "raw": "turn"
+ },
+ {
+  "en": "build",
+  "category": "Verbs",
+  "raw": "build"
+ },
+ {
+  "en": "teach",
+  "category": "Verbs",
+  "raw": "teach"
+ },
+ {
+  "en": "grow",
+  "category": "Verbs",
+  "raw": "grow"
+ },
+ {
+  "en": "draw",
+  "category": "Verbs",
+  "raw": "draw"
+ },
+ {
+  "en": "feed",
+  "category": "Verbs",
+  "raw": "feed"
+ },
+ {
+  "en": "catch",
+  "category": "Verbs",
+  "raw": "catch"
+ },
+ {
+  "en": "throw",
+  "category": "Verbs",
+  "raw": "throw"
+ },
+ {
+  "en": "clean",
+  "category": "Verbs",
+  "raw": "clean"
+ },
+ {
+  "en": "find",
+  "category": "Verbs",
+  "raw": "find"
+ },
+ {
+  "en": "fall",
+  "category": "Verbs",
+  "raw": "fall"
+ },
+ {
+  "en": "push",
+  "category": "Verbs",
+  "raw": "push"
+ },
+ {
+  "en": "pull",
+  "category": "Verbs",
+  "raw": "pull"
+ },
+ {
+  "en": "carry",
+  "category": "Verbs",
+  "raw": "carry"
+ },
+ {
+  "en": "break",
+  "category": "Verbs",
+  "raw": "break"
+ },
+ {
+  "en": "wear",
+  "category": "Verbs",
+  "raw": "wear"
+ },
+ {
+  "en": "hang",
+  "category": "Verbs",
+  "raw": "hang"
+ },
+ {
+  "en": "shake",
+  "category": "Verbs",
+  "raw": "shake"
+ },
+ {
+  "en": "sign",
+  "category": "Verbs",
+  "raw": "sign"
+ },
+ {
+  "en": "beat",
+  "category": "Verbs",
+  "raw": "beat"
+ },
+ {
+  "en": "lift",
+  "category": "Verbs",
+  "raw": "lift"
+ },
+ {
+  "en": "long",
+  "category": "Adjectives",
+  "raw": "long"
+ },
+ {
+  "en": "short (long)",
+  "category": "Adjectives",
+  "raw": "short (long)"
+ },
+ {
+  "en": "tall",
+  "category": "Adjectives",
+  "raw": "tall"
+ },
+ {
+  "en": "short (vs tall)",
+  "category": "Adjectives",
+  "raw": "short (vs tall)"
+ },
+ {
+  "en": "wide",
+  "category": "Adjectives",
+  "raw": "wide"
+ },
+ {
+  "en": "narrow",
+  "category": "Adjectives",
+  "raw": "narrow"
+ },
+ {
+  "en": "big/large",
+  "category": "Adjectives",
+  "raw": "big/large"
+ },
+ {
+  "en": "small/little",
+  "category": "Adjectives",
+  "raw": "small/little"
+ },
+ {
+  "en": "slow",
+  "category": "Adjectives",
+  "raw": "slow"
+ },
+ {
+  "en": "fast",
+  "category": "Adjectives",
+  "raw": "fast"
+ },
+ {
+  "en": "hot",
+  "category": "Adjectives",
+  "raw": "hot"
+ },
+ {
+  "en": "cold",
+  "category": "Adjectives",
+  "raw": "cold"
+ },
+ {
+  "en": "warm",
+  "category": "Adjectives",
+  "raw": "warm"
+ },
+ {
+  "en": "cool",
+  "category": "Adjectives",
+  "raw": "cool"
+ },
+ {
+  "en": "new",
+  "category": "Adjectives",
+  "raw": "new"
+ },
+ {
+  "en": "old (new)",
+  "category": "Adjectives",
+  "raw": "old (new)"
+ },
+ {
+  "en": "young",
+  "category": "Adjectives",
+  "raw": "young"
+ },
+ {
+  "en": "old (young)",
+  "category": "Adjectives",
+  "raw": "old (young)"
+ },
+ {
+  "en": "good",
+  "category": "Adjectives",
+  "raw": "good"
+ },
+ {
+  "en": "bad",
+  "category": "Adjectives",
+  "raw": "bad"
+ },
+ {
+  "en": "wet",
+  "category": "Adjectives",
+  "raw": "wet"
+ },
+ {
+  "en": "dry",
+  "category": "Adjectives",
+  "raw": "dry"
+ },
+ {
+  "en": "sick",
+  "category": "Adjectives",
+  "raw": "sick"
+ },
+ {
+  "en": "healthy",
+  "category": "Adjectives",
+  "raw": "healthy"
+ },
+ {
+  "en": "loud",
+  "category": "Adjectives",
+  "raw": "loud"
+ },
+ {
+  "en": "quiet",
+  "category": "Adjectives",
+  "raw": "quiet"
+ },
+ {
+  "en": "happy",
+  "category": "Adjectives",
+  "raw": "happy"
+ },
+ {
+  "en": "sad",
+  "category": "Adjectives",
+  "raw": "sad"
+ },
+ {
+  "en": "beautiful",
+  "category": "Adjectives",
+  "raw": "beautiful"
+ },
+ {
+  "en": "ugly",
+  "category": "Adjectives",
+  "raw": "ugly"
+ },
+ {
+  "en": "deaf",
+  "category": "Adjectives",
+  "raw": "deaf"
+ },
+ {
+  "en": "blind",
+  "category": "Adjectives",
+  "raw": "blind"
+ },
+ {
+  "en": "nice",
+  "category": "Adjectives",
+  "raw": "nice"
+ },
+ {
+  "en": "mean",
+  "category": "Adjectives",
+  "raw": "mean"
+ },
+ {
+  "en": "rich",
+  "category": "Adjectives",
+  "raw": "rich"
+ },
+ {
+  "en": "poor",
+  "category": "Adjectives",
+  "raw": "poor"
+ },
+ {
+  "en": "thick",
+  "category": "Adjectives",
+  "raw": "thick"
+ },
+ {
+  "en": "thin",
+  "category": "Adjectives",
+  "raw": "thin"
+ },
+ {
+  "en": "expensive",
+  "category": "Adjectives",
+  "raw": "expensive"
+ },
+ {
+  "en": "cheap",
+  "category": "Adjectives",
+  "raw": "cheap"
+ },
+ {
+  "en": "flat",
+  "category": "Adjectives",
+  "raw": "flat"
+ },
+ {
+  "en": "curved",
+  "category": "Adjectives",
+  "raw": "curved"
+ },
+ {
+  "en": "male",
+  "category": "Adjectives",
+  "raw": "male"
+ },
+ {
+  "en": "female",
+  "category": "Adjectives",
+  "raw": "female"
+ },
+ {
+  "en": "tight",
+  "category": "Adjectives",
+  "raw": "tight"
+ },
+ {
+  "en": "loose",
+  "category": "Adjectives",
+  "raw": "loose"
+ },
+ {
+  "en": "high",
+  "category": "Adjectives",
+  "raw": "high"
+ },
+ {
+  "en": "low",
+  "category": "Adjectives",
+  "raw": "low"
+ },
+ {
+  "en": "soft",
+  "category": "Adjectives",
+  "raw": "soft"
+ },
+ {
+  "en": "hard",
+  "category": "Adjectives",
+  "raw": "hard"
+ },
+ {
+  "en": "deep",
+  "category": "Adjectives",
+  "raw": "deep"
+ },
+ {
+  "en": "shallow",
+  "category": "Adjectives",
+  "raw": "shallow"
+ },
+ {
+  "en": "clean",
+  "category": "Adjectives",
+  "raw": "clean"
+ },
+ {
+  "en": "dirty",
+  "category": "Adjectives",
+  "raw": "dirty"
+ },
+ {
+  "en": "strong",
+  "category": "Adjectives",
+  "raw": "strong"
+ },
+ {
+  "en": "weak",
+  "category": "Adjectives",
+  "raw": "weak"
+ },
+ {
+  "en": "dead",
+  "category": "Adjectives",
+  "raw": "dead"
+ },
+ {
+  "en": "alive",
+  "category": "Adjectives",
+  "raw": "alive"
+ },
+ {
+  "en": "heavy",
+  "category": "Adjectives",
+  "raw": "heavy"
+ },
+ {
+  "en": "light (heavy)",
+  "category": "Adjectives",
+  "raw": "light (heavy)"
+ },
+ {
+  "en": "dark",
+  "category": "Adjectives",
+  "raw": "dark"
+ },
+ {
+  "en": "light (dark)",
+  "category": "Adjectives",
+  "raw": "light (dark)"
+ },
+ {
+  "en": "nuclear",
+  "category": "Adjectives",
+  "raw": "nuclear"
+ },
+ {
+  "en": "famous",
+  "category": "Adjectives",
+  "raw": "famous"
+ }
+]

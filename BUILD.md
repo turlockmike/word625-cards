@@ -32,7 +32,9 @@ curl -sSL -G "https://ankiweb.net/svc/shared/item-info" --data-urlencode "shared
 ```
 → HTTP 200, **Connect protobuf** (octet-stream) containing title, description, reviews, `sample_notes` (field names + example values), and a `download_key` (JWT `{"op":"sdd",...}`). `strings -n 2` on the response reveals fields + sample notes directly.
 
-**Blocked so far:** the actual `.apkg` download. `/shared/download/<id>` is the DESKTOP-client endpoint and hard-gates with `"Your version of Anki is too old."` regardless of `?v=`/`?k=<key>`/UA spoof (tried v=3..20, anki-UA, sync-version headers, the download_key). `/svc/shared/download*` → 404. The web UI download route lives in a lazy page-node chunk not yet decoded. **Next attempt options:** (a) decode the info page-node chunk (`/_app/immutable/nodes/*.mjs`) to find the web download URL that consumes `download_key`; (b) install Anki desktop headless + use its `--download` path; (c) get the word list from a GitHub mirror (none clean found 2026-07-23) or reconstruct kana from the FF 625 English list + a JP dictionary.
+**SOLVED (2026-07-23):** the web download endpoint is `GET /svc/shared/download-deck/<id>?t=<download_key>` (param is `t=`, decoded from SvelteKit `nodes/25.*.mjs`). Fully wrapped in the reusable tool **`ankiweb-deck-dl`** (`~/.local/bin/`, validated end-to-end on a synthetic apkg): `ankiweb-deck-dl 1234275230 --out data/` → `notes.json` (`[{id, fields:{Front,Audio,Back}, tags}]`) + `media/*.mp3`. **Only remaining gate:** the anonymous per-IP daily download quota (currently spent → HTTP 429 "Please log in to download more decks"). Get the apkg by either (a) retry the one-command tool after the daily quota reset, or (b) log in to an AnkiWeb account (free; agentmail verify) and pass `--cookies session.txt`. Recipe detail: `~/resources/infrastructure/ankiweb-shared-deck-fetch.md`.
+
+**Reconstruction fallback (no AnkiWeb):** `data/ff625-en.json` (619 words + 26 categories, parsed from honza/fluent-forever-625) + jisho.org API for kana. CAVEAT: jisho's top hit is NOT reliably the FF-canonical word (e.g. "water"→水分 not 水; "dog"→junk top hit) — needs exact-english-match + common-tag curation. Prefer the authoritative apkg for kana correctness (kids' app).
 
 ## PIPELINE (v1, free stack)
 1. **Word list** — obtain 625 kana↔English (from apkg once downloadable, else reconstruct). LOCK as `words.json` `[{id, kana, en, audio}]`.
@@ -41,6 +43,6 @@ curl -sSL -G "https://ankiweb.net/svc/shared/item-info" --data-urlencode "shared
 4. **UI** — fork kana app.js/index.html shape; card = image front → tap → kana + audio + (optional) English hint. Wire FSRS + offline SW + optional sync.
 5. **Deploy** — GitHub Pages (same pattern as kana-cards → turlockmike.github.io).
 
-## STATUS (2026-07-23 ~02:23 CDT)
-- Plumbing forked. Media branch decided + recorded. Word-list/audio acquisition BLOCKED on AnkiWeb download gate — see options above.
-- **Next chunk:** crack the apkg download (option a: decode page-node chunk for the web download URL) OR install VOICEVOX + start image-sourcing pipeline on the reconstructed word list. Do NOT attempt 625 images in one window.
+## STATUS (2026-07-23 ~03:36 CDT)
+- Plumbing forked. Media branch decided. **AnkiWeb download endpoint CRACKED + tool built (`ankiweb-deck-dl`, validated).** English list staged (`data/ff625-en.json`, 619 words). Only the anon download quota blocks the final apkg pull.
+- **Next chunk:** run `ankiweb-deck-dl 1234275230 --out data/` (it's a ~2s call — succeeds the moment the anon quota resets; if still 429 after ~24h, register an AnkiWeb account via agentmail + `--cookies`). Then transform `notes.json` → `words.json` `[{id,kana,en,audio}]` (Front=kana, Back=en, Audio=mp3 ref), stage `media/` mp3s. THEN start ONE downstream batch (VOICEVOX install OR first image batch). Never 625 in one window.
