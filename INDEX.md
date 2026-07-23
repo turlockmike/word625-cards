@@ -10,8 +10,9 @@
 - `BUILD.md` — word625-cards — build plan & findings
 - `DEPLOY.md` — Kana Cards — cloud sync deploy (one-time, ~5 min)
 - `fsrs.js`
+- `index.html`
 - `manifest.json`
 - `sw.js`
 - `sync.js`
 
-_3 subfolders, 6 files._
+_3 subfolders, 7 files._

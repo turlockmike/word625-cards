@@ -1,7 +1,9 @@
 /* Offline-first service worker. Cache-first for the app shell so it works with no network. */
-const CACHE='kana-v3';
-const ASSETS=['./','./index.html','./kana.js','./fsrs.js','./sync.js','./app.js',
-              './manifest.json','./icon.svg'];
+const CACHE='word625-v1';
+// Precache the app shell + the image manifest. Images and (deck-gated) data/words.json are
+// cached on first view by the runtime fetch handler below — offline-first once seen.
+const ASSETS=['./','./index.html','./fsrs.js','./sync.js','./app.js',
+              './manifest.json','./icon.svg','./media/img/images.json'];
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()));
 });

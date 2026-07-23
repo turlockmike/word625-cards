@@ -1,13 +1,13 @@
 {
-  "name": "Kana Cards",
-  "short_name": "Kana",
-  "description": "Learn hiragana & katakana with stroke-order flashcards.",
+  "name": "Picture Words — Japanese 625",
+  "short_name": "Picture Words",
+  "description": "Learn the Fluent-Forever 625 Japanese words: picture on the front, kana + audio on the back.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4f5fb",
-  "theme_color": "#5b6ee1",
+  "background_color": "#f6f3ee",
+  "theme_color": "#e8734a",
   "icons": [
     { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
