@@ -1,0 +1,1031 @@
+[
+ {
+  "slug": "adult",
+  "en": "adult",
+  "kana": "おとな",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "alive",
+  "en": "alive",
+  "kana": "せいぜん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "april",
+  "en": "april",
+  "kana": "しがつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "artist",
+  "en": "artist",
+  "kana": "げいじゅつか",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "back",
+  "en": "back",
+  "kana": "せ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "banana",
+  "en": "banana",
+  "kana": "バナナ",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "beach",
+  "en": "beach",
+  "kana": "うみべ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "bedroom",
+  "en": "bedroom",
+  "kana": "しんしつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "bicycle",
+  "en": "bicycle",
+  "kana": "じてんしゃ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "bird",
+  "en": "bird",
+  "kana": "とり",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "blue",
+  "en": "blue",
+  "kana": "あおい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "book",
+  "en": "book",
+  "kana": "ほん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "boy",
+  "en": "boy",
+  "kana": "おとこのこ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "bridge",
+  "en": "bridge",
+  "kana": "はし (not chopsticks)",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "building",
+  "en": "building",
+  "kana": "ビル",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "camp",
+  "en": "camp",
+  "kana": "キャンプ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "ceiling",
+  "en": "ceiling",
+  "kana": "でんじょう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "cheap",
+  "en": "cheap",
+  "kana": "やすい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "church",
+  "en": "church",
+  "kana": "きょうかい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "clock",
+  "en": "clock",
+  "kana": "とけい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "coffee",
+  "en": "coffee",
+  "kana": "コーヒー",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "consonant",
+  "en": "consonant",
+  "kana": "しいん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "corn",
+  "en": "corn",
+  "kana": "とうもろこし",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "cow",
+  "en": "cow",
+  "kana": "うし",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "daughter",
+  "en": "daughter",
+  "kana": "おじょうさん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "diamond",
+  "en": "diamond",
+  "kana": "ダイヤモンド",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "disease",
+  "en": "disease",
+  "kana": "びょうき",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "door",
+  "en": "door",
+  "kana": "とびら",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "dress",
+  "en": "dress",
+  "kana": "ドレス",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "ear",
+  "en": "ear",
+  "kana": "みみ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "eight",
+  "en": "eight",
+  "kana": "はち",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "eleven",
+  "en": "eleven",
+  "kana": "じゅういち",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "eye",
+  "en": "eye",
+  "kana": "目",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "electric-fan",
+  "en": "electric fan",
+  "kana": "せんぷうき",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "february",
+  "en": "february",
+  "kana": "にがつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "finger",
+  "en": "finger",
+  "kana": "ゆび",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "flower",
+  "en": "flower",
+  "kana": "はな",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "fourty",
+  "en": "fourty",
+  "kana": "よんじゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "friend",
+  "en": "friend",
+  "kana": "ともだち",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "gasoline",
+  "en": "gasoline",
+  "kana": "ガソリン",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "gold",
+  "en": "gold",
+  "kana": "おうごん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "grass",
+  "en": "grass",
+  "kana": "くさ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "gun",
+  "en": "gun",
+  "kana": "じゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "hard",
+  "en": "hard",
+  "kana": "むずかしい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "heart",
+  "en": "heart",
+  "kana": "しんぞう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "hill",
+  "en": "hill",
+  "kana": "おか",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "hot",
+  "en": "hot",
+  "kana": "あつい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "human",
+  "en": "human",
+  "kana": "にんげん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "image",
+  "en": "image",
+  "kana": "ぞう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "island",
+  "en": "island",
+  "kana": "しま",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "july",
+  "en": "july",
+  "kana": "しちがつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "king",
+  "en": "king",
+  "kana": "おう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "lake",
+  "en": "lake",
+  "kana": "みずうみ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "leaf",
+  "en": "leaf",
+  "kana": "は",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "lips",
+  "en": "lips",
+  "kana": "くちびる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "lunch",
+  "en": "lunch",
+  "kana": "ひるごはん",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "manager",
+  "en": "manager",
+  "kana": "しはいにん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "marriage",
+  "en": "marriage",
+  "kana": "けっこんしき",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "medicine",
+  "en": "medicine",
+  "kana": "くすり",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "one-million",
+  "en": "one million",
+  "kana": "ひゃくまん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "moon",
+  "en": "moon",
+  "kana": "つき",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "mouse",
+  "en": "mouse",
+  "kana": "ねずみ",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "music",
+  "en": "music",
+  "kana": "おんがく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "needle",
+  "en": "needle",
+  "kana": "はり",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "newspaper",
+  "en": "newspaper",
+  "kana": "しんぶん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "ninety",
+  "en": "ninety",
+  "kana": "きゅうじゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "november",
+  "en": "november",
+  "kana": "じゅういちがつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "october",
+  "en": "october",
+  "kana": "じゅうがつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "outside",
+  "en": "outside",
+  "kana": "やがい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "parent",
+  "en": "parent",
+  "kana": "おや",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "pen",
+  "en": "pen",
+  "kana": "ペン",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "pig",
+  "en": "pig",
+  "kana": "ぶた",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "plastic",
+  "en": "plastic",
+  "kana": "プラスチック",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "police",
+  "en": "police",
+  "kana": "けいさつかん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "president",
+  "en": "president",
+  "kana": "だいとうりょう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "queen",
+  "en": "queen",
+  "kana": "じょおう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "red",
+  "en": "red",
+  "kana": "あかい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "rice",
+  "en": "rice",
+  "kana": "こめ",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "roof",
+  "en": "roof",
+  "kana": "やね",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sand",
+  "en": "sand",
+  "kana": "すな",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "screen",
+  "en": "screen",
+  "kana": "スクリーン",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "seed",
+  "en": "seed",
+  "kana": "しゅし",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "seventy",
+  "en": "seventy",
+  "kana": "ななじゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "shoes",
+  "en": "shoes",
+  "kana": "くつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "silver",
+  "en": "silver",
+  "kana": "ぎん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sixteen",
+  "en": "sixteen",
+  "kana": "じゅうろく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sky",
+  "en": "sky",
+  "kana": "そら",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "soap",
+  "en": "soap",
+  "kana": "せっけん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "son",
+  "en": "son",
+  "kana": "むすこ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "south",
+  "en": "south",
+  "kana": "みなみ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "square",
+  "en": "square",
+  "kana": "しかく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "shop",
+  "en": "shop",
+  "kana": "みせ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sugar",
+  "en": "sugar",
+  "kana": "さとう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sunday",
+  "en": "sunday",
+  "kana": "にちようび",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "tall",
+  "en": "tall",
+  "kana": "せがたかい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "teardrop",
+  "en": "teardrop",
+  "kana": "なみだ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "ten",
+  "en": "ten",
+  "kana": "じゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "thirteen",
+  "en": "thirteen",
+  "kana": "じゅうさん",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "thursday",
+  "en": "thursday",
+  "kana": "もくようび",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "tool",
+  "en": "tool",
+  "kana": "どうぐ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "train",
+  "en": "train",
+  "kana": "でんしゃ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "truck",
+  "en": "truck",
+  "kana": "トラック",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "two",
+  "en": "two",
+  "kana": "に",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "verb",
+  "en": "verb",
+  "kana": "どうし",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "waiter",
+  "en": "waiter",
+  "kana": "ウェイター",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "water",
+  "en": "water",
+  "kana": "みず",
+  "has_nonai_img": true,
+  "has_ai": false
+ },
+ {
+  "slug": "wednesday",
+  "en": "wednesday",
+  "kana": "すいようび",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "white",
+  "en": "white",
+  "kana": "白い",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "window",
+  "en": "window",
+  "kana": "まど",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "woman",
+  "en": "woman",
+  "kana": "じょせい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "yellow",
+  "en": "yellow",
+  "kana": "きいいろい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "zero",
+  "en": "zero",
+  "kana": "ぜろ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-bend",
+  "en": "to bend",
+  "kana": "まがる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-buy",
+  "en": "to buy",
+  "kana": "買う",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-clean",
+  "en": "to clean",
+  "kana": "そうじ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-count",
+  "en": "to count",
+  "kana": "かぞえる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-dance",
+  "en": "to dance",
+  "kana": "おどる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-dig",
+  "en": "to dig",
+  "kana": "ほる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "earth",
+  "en": "earth",
+  "kana": "ちきゅう",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-explode",
+  "en": "to explode",
+  "kana": "ばくはつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-feed-an-animal",
+  "en": "to feed (an animal)",
+  "kana": "きゅうじ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "1st",
+  "en": "1st",
+  "kana": "ついたち",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "feet",
+  "en": "feet",
+  "kana": "フィート",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-grow",
+  "en": "to grow",
+  "kana": "はやす",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "high",
+  "en": "high",
+  "kana": "たかい",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-kill",
+  "en": "to kill",
+  "kana": "ころす",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "left",
+  "en": "left",
+  "kana": "ひだり",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-lift-up",
+  "en": "to lift up",
+  "kana": "もちあげる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-love",
+  "en": "to love",
+  "kana": "あいす",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-mix",
+  "en": "to mix",
+  "kana": "まぜる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "oil",
+  "en": "oil",
+  "kana": "せきゆ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-paint",
+  "en": "to paint",
+  "kana": "えがく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "piece",
+  "en": "piece",
+  "kana": "いっこ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-pray",
+  "en": "to pray",
+  "kana": "いのる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "race",
+  "en": "race",
+  "kana": "みんぞく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-run",
+  "en": "to run",
+  "kana": "はしる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "sex",
+  "en": "sex",
+  "kana": "せいべつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-shoot-at",
+  "en": "to shoot (at)",
+  "kana": "うつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-sit",
+  "en": "to sit",
+  "kana": "すわる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-speak",
+  "en": "to speak",
+  "kana": "はなす",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-stop-moving",
+  "en": "to stop (moving)",
+  "kana": "とまる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-teach",
+  "en": "to teach",
+  "kana": "おしえる",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "third",
+  "en": "third",
+  "kana": "みっか",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "toe",
+  "en": "toe",
+  "kana": "ゆび",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-walk",
+  "en": "to walk",
+  "kana": "あるく",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "to-win",
+  "en": "to win",
+  "kana": "かつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ },
+ {
+  "slug": "clean",
+  "en": "clean",
+  "kana": "せいけつ",
+  "has_nonai_img": false,
+  "has_ai": false
+ }
+]

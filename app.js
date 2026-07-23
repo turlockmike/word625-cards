@@ -239,10 +239,8 @@
     const hasKana = !!c.kana;
     const answerInner = hasKana
       ? `<div class="kana">${esc(c.kana)}</div>
-         <button class="audiobtn" id="audioBtn" ${c.audio?'':'disabled'}>🔊 Play</button>
-         <div class="enhint">${esc(c.en)}</div>`
-      : `<div class="kana stub">かな + 🔊 coming soon<br><span style="font-size:13px">(word list is being added)</span></div>
-         <div class="enhint">${esc(c.en)}</div>`;
+         <button class="audiobtn" id="audioBtn" ${c.audio?'':'disabled'}>🔊 Play</button>`
+      : `<div class="kana stub">かな + 🔊 coming soon<br><span style="font-size:13px">(word list is being added)</span></div>`;
     main.innerHTML =
      `<div class="card">
         <div class="imgwrap">

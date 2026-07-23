@@ -1,0 +1,3 @@
+FAIL nano-pro/dog: ERROR: <urlopen error [Errno -3] Temporary failure in name resolution>
+Generating image: Simple friendly flat illustration clearly representing the concept "dog", for a young child's vocabulary flashcard. Single clear subject, bold outlines, bright cheerful colors, plain white background, no text or letters.
+Backend: openrouter  Model: google/gemini-3-pro-image-preview
