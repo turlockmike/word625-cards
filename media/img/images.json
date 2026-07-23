@@ -120,14 +120,14 @@
  {
   "en": "fish",
   "slug": "fish",
-  "file": "fish.jpg",
+  "file": "fish.png",
   "category": "Animal",
   "title": "Fishing with Patience, Big Bear Lake, California",
-  "src_url": "https://live.staticflickr.com/65535/8095914497_234d51fa97_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/8095914497_234d51fa97_b.jpg",
-  "license": "cc0",
-  "creator": "moonjazz",
-  "foreign_landing": "https://www.flickr.com/photos/8398907@N02/8095914497",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F41F.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F41F.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -173,8 +173,12 @@
     "landing": "https://www.flickr.com/photos/66741228@N05/51621542849"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🐟️",
+  "emoji_hex": "1F41F",
+  "annotation": "fish"
  },
  {
   "en": "bird",
@@ -297,14 +301,14 @@
  {
   "en": "pig",
   "slug": "pig",
-  "file": "pig.jpg",
+  "file": "pig.png",
   "category": "Animal",
   "title": "If pigs could fly?",
-  "src_url": "https://live.staticflickr.com/65535/52149296044_d394ff8bb9_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52149296044_d394ff8bb9_b.jpg",
-  "license": "cc0",
-  "creator": "₡ґǘșϯγ Ɗᶏ Ⱪᶅṏⱳդ",
-  "foreign_landing": "https://www.flickr.com/photos/148598741@N02/52149296044",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F437.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F437.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -350,8 +354,12 @@
     "landing": "https://www.flickr.com/photos/89918055@N05/51577687069"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🐷",
+  "emoji_hex": "1F437",
+  "annotation": "pig face"
  },
  {
   "en": "mouse",
@@ -415,14 +423,14 @@
  {
   "en": "horse",
   "slug": "horse",
-  "file": "horse.jpg",
+  "file": "horse.png",
   "category": "Animal",
   "title": "'HARRISON CARRIER' and CLYDESDALE HORSES, SYDNEY, N.S.W. - early 1900s",
-  "src_url": "https://live.staticflickr.com/65535/52430472805_0574b47ccb_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52430472805_0574b47ccb_b.jpg",
-  "license": "pdm",
-  "creator": "Aussie~mobs",
-  "foreign_landing": "https://www.flickr.com/photos/70994841@N07/52430472805",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F434.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F434.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -468,20 +476,24 @@
     "landing": "https://www.flickr.com/photos/70125105@N06/31706655076"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🐴",
+  "emoji_hex": "1F434",
+  "annotation": "horse face"
  },
  {
   "en": "wing",
   "slug": "wing",
-  "file": "wing.jpg",
+  "file": "wing.png",
   "category": "Animal",
   "title": "X-Wing v3",
-  "src_url": "https://live.staticflickr.com/65535/51734225869_138e461a19_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51734225869_138e461a19_b.jpg",
-  "license": "cc0",
-  "creator": "pasukaru76",
-  "foreign_landing": "https://www.flickr.com/photos/38451115@N04/51734225869",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1FABD.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1FABD.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -527,8 +539,12 @@
     "landing": "https://www.flickr.com/photos/51986662@N05/16766964037"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🪽",
+  "emoji_hex": "1FABD",
+  "annotation": "wing"
  },
  {
   "en": "animal",
@@ -592,14 +608,14 @@
  {
   "en": "coffee",
   "slug": "coffee",
-  "file": "coffee.jpg",
+  "file": "coffee.png",
   "category": "Beverages",
   "title": "Lounging With My Coffee",
-  "src_url": "https://live.staticflickr.com/65535/51692652996_1878ed7f8a_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51692652996_1878ed7f8a_b.jpg",
-  "license": "cc0",
-  "creator": "lyndawaybi3",
-  "foreign_landing": "https://www.flickr.com/photos/151325871@N07/51692652996",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/2615.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/2615.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -645,20 +661,24 @@
     "landing": "https://www.flickr.com/photos/151325871@N07/51966725739"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "☕️",
+  "emoji_hex": "2615",
+  "annotation": "hot beverage"
  },
  {
   "en": "tea",
   "slug": "tea",
-  "file": "tea.jpg",
+  "file": "tea.png",
   "category": "Beverages",
   "title": "Tea Garden at Hornsea Pottery Edenfield site (est. 1960s) (DDPH/9/1/3 289)",
-  "src_url": "https://live.staticflickr.com/65535/51630835309_82d167a85c_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51630835309_82d167a85c_b.jpg",
-  "license": "cc0",
-  "creator": "East Riding Archives",
-  "foreign_landing": "https://www.flickr.com/photos/138361426@N08/51630835309",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F375.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F375.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -704,20 +724,24 @@
     "landing": "https://www.flickr.com/photos/89918055@N05/51771674387"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍵",
+  "emoji_hex": "1F375",
+  "annotation": "teacup without handle"
  },
  {
   "en": "wine",
   "slug": "wine",
-  "file": "wine.jpg",
+  "file": "wine.png",
   "category": "Beverages",
   "title": "Drinking Good Red Wine",
-  "src_url": "https://live.staticflickr.com/65535/51299608463_c26bd5a658_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51299608463_c26bd5a658_b.jpg",
-  "license": "cc0",
-  "creator": "lyndawaybi3",
-  "foreign_landing": "https://www.flickr.com/photos/151325871@N07/51299608463",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -763,20 +787,24 @@
     "landing": "https://www.flickr.com/photos/151325871@N07/51815174725"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍷",
+  "emoji_hex": "1F377",
+  "annotation": "wine glass"
  },
  {
   "en": "beer",
   "slug": "beer",
-  "file": "beer.jpg",
+  "file": "beer.png",
   "category": "Beverages",
   "title": "Time For A Beer",
-  "src_url": "https://live.staticflickr.com/65535/51459797488_e0aa47b246_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51459797488_e0aa47b246_b.jpg",
-  "license": "cc0",
-  "creator": "lyndawaybi3",
-  "foreign_landing": "https://www.flickr.com/photos/151325871@N07/51459797488",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -822,20 +850,24 @@
     "landing": "https://www.flickr.com/photos/151325871@N07/51807614566"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍺",
+  "emoji_hex": "1F37A",
+  "annotation": "beer mug"
  },
  {
   "en": "juice",
   "slug": "juice",
-  "file": "juice.jpg",
+  "file": "juice.png",
   "category": "Beverages",
   "title": "Stirring sugar into heated grape juice",
-  "src_url": "https://live.staticflickr.com/65535/51389165614_b3428594c5_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51389165614_b3428594c5_b.jpg",
-  "license": "cc0",
-  "creator": "Nutrition, Food Safety & Health",
-  "foreign_landing": "https://www.flickr.com/photos/93936679@N05/51389165614",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C3.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C3.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -881,8 +913,12 @@
     "landing": "https://www.flickr.com/photos/93936679@N05/51388427536"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🧃",
+  "emoji_hex": "1F9C3",
+  "annotation": "beverage box"
  },
  {
   "en": "water",
@@ -946,14 +982,14 @@
  {
   "en": "milk",
   "slug": "milk",
-  "file": "milk.jpg",
+  "file": "milk.png",
   "category": "Beverages",
   "title": "A land flowing with milk and honey",
-  "src_url": "https://live.staticflickr.com/65535/51336526436_6ac32f63f1_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51336526436_6ac32f63f1_b.jpg",
-  "license": "cc0",
-  "creator": "₡ґǘșϯγ Ɗᶏ Ⱪᶅṏⱳդ",
-  "foreign_landing": "https://www.flickr.com/photos/148598741@N02/51336526436",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95B.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95B.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -999,8 +1035,12 @@
     "landing": "https://www.flickr.com/photos/186360156@N02/52260866850"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥛",
+  "emoji_hex": "1F95B",
+  "annotation": "glass of milk"
  },
  {
   "en": "beverage",
@@ -1064,14 +1104,14 @@
  {
   "en": "egg",
   "slug": "egg",
-  "file": "egg.jpg",
+  "file": "egg.png",
   "category": "Food",
   "title": "Least tern egg located near Ramp 72 on Ocracoke Island",
-  "src_url": "https://live.staticflickr.com/65535/52045592084_75fedc355f_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52045592084_75fedc355f_b.jpg",
-  "license": "pdm",
-  "creator": "CapeHatterasNPS",
-  "foreign_landing": "https://www.flickr.com/photos/106602675@N05/52045592084",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95A.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95A.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1117,20 +1157,24 @@
     "landing": "https://www.flickr.com/photos/106602675@N05/52085234629"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥚",
+  "emoji_hex": "1F95A",
+  "annotation": "egg"
  },
  {
   "en": "cheese",
   "slug": "cheese",
-  "file": "cheese.jpg",
+  "file": "cheese.png",
   "category": "Food",
   "title": "James Cheese",
-  "src_url": "https://live.staticflickr.com/65535/52426498621_efc2b05f24_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52426498621_efc2b05f24_b.jpg",
-  "license": "pdm",
-  "creator": "NotifyNYC",
-  "foreign_landing": "https://www.flickr.com/photos/141571345@N02/52426498621",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C0.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C0.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1176,20 +1220,24 @@
     "landing": "https://stocksnap.io/photo/pizza-cheese-9IKVHJPX82"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🧀",
+  "emoji_hex": "1F9C0",
+  "annotation": "cheese wedge"
  },
  {
   "en": "bread",
   "slug": "bread",
-  "file": "bread.jpg",
+  "file": "bread.png",
   "category": "Food",
   "title": "chocolate bread",
-  "src_url": "https://live.staticflickr.com/305/19236165651_c91c6b317b_b.jpg",
-  "image_url": "https://live.staticflickr.com/305/19236165651_c91c6b317b_b.jpg",
-  "license": "cc0",
-  "creator": "ani!",
-  "foreign_landing": "https://www.flickr.com/photos/53018729@N00/19236165651",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35E.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35E.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1235,8 +1283,12 @@
     "landing": "https://www.flickr.com/photos/187878392@N04/52432089637"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍞",
+  "emoji_hex": "1F35E",
+  "annotation": "bread"
  },
  {
   "en": "soup",
@@ -1300,14 +1352,14 @@
  {
   "en": "cake",
   "slug": "cake",
-  "file": "cake.jpg",
+  "file": "cake.png",
   "category": "Food",
   "title": "Pink Birthday Party Cake Sprinkles Background",
-  "src_url": "https://live.staticflickr.com/65535/51142324493_bb041cdf22_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51142324493_bb041cdf22_b.jpg",
-  "license": "cc0",
-  "creator": "Poppy Thomas Hill",
-  "foreign_landing": "https://www.flickr.com/photos/192850685@N07/51142324493",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F370.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F370.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1353,20 +1405,24 @@
     "landing": "https://www.flickr.com/photos/80223459@N05/52060935167"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍰",
+  "emoji_hex": "1F370",
+  "annotation": "shortcake"
  },
  {
   "en": "chicken",
   "slug": "chicken",
-  "file": "chicken.jpg",
+  "file": "chicken.png",
   "category": "Food",
   "title": "Bringing home the chicken: Pfc. Michael Sigal, Jersey City, N.J., and Pvt. Vincent Tavano, Bronx N.Y. swing a chicken as they head along railroad tracks toward a roasting pit.",
-  "src_url": "https://live.staticflickr.com/65535/52306968325_5e741df92b_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52306968325_5e741df92b_b.jpg",
-  "license": "pdm",
-  "creator": "Signal Corps Archive",
-  "foreign_landing": "https://www.flickr.com/photos/186360156@N02/52306968325",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F414.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F414.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1412,20 +1468,24 @@
     "landing": "https://www.flickr.com/photos/35034347371@N01/29725201221"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🐔",
+  "emoji_hex": "1F414",
+  "annotation": "chicken"
  },
  {
   "en": "pork",
   "slug": "pork",
-  "file": "pork.jpg",
+  "file": "pork.png",
   "category": "Food",
   "title": "Pork Ham Breakfast (12 of 18)",
-  "src_url": "https://live.staticflickr.com/65535/51354022292_7f75abc6e4_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51354022292_7f75abc6e4_b.jpg",
-  "license": "pdm",
-  "creator": "GovHolcomb",
-  "foreign_landing": "https://www.flickr.com/photos/149756499@N02/51354022292",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F953.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F953.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1471,20 +1531,24 @@
     "landing": "https://www.flickr.com/photos/7633518@N08/54131806670"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥓",
+  "emoji_hex": "1F953",
+  "annotation": "bacon"
  },
  {
   "en": "beef",
   "slug": "beef",
-  "file": "beef.jpg",
+  "file": "beef.png",
   "category": "Food",
   "title": "Liebig's Beef Extract, 'Italian Masques I', 'Arlecchino', French issue, 1883.",
-  "src_url": "https://live.staticflickr.com/65535/49959816402_36d19e9012_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/49959816402_36d19e9012_b.jpg",
-  "license": "cc0",
-  "creator": "Halloween HJB",
-  "foreign_landing": "https://www.flickr.com/photos/72185053@N00/49959816402",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F969.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F969.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1530,20 +1594,24 @@
     "landing": "https://www.flickr.com/photos/184594136@N08/51405131375"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥩",
+  "emoji_hex": "1F969",
+  "annotation": "cut of meat"
  },
  {
   "en": "apple",
   "slug": "apple",
-  "file": "apple.jpg",
+  "file": "apple.png",
   "category": "Food",
   "title": "M27 - Apple Core or Dumbbell Nebula in SHO",
-  "src_url": "https://live.staticflickr.com/65535/52212818537_74aefb19d0_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52212818537_74aefb19d0_b.jpg",
-  "license": "cc0",
-  "creator": "astrophotography_andy",
-  "foreign_landing": "https://www.flickr.com/photos/160049573@N04/52212818537",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34E.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34E.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1589,20 +1657,24 @@
     "landing": "https://www.flickr.com/photos/190270151@N02/51478609056"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍎",
+  "emoji_hex": "1F34E",
+  "annotation": "red apple"
  },
  {
   "en": "banana",
   "slug": "banana",
-  "file": "banana.jpg",
+  "file": "banana.png",
   "category": "Food",
   "title": "Marines attached to 23rd Marines rest at front after attacking Jap positions. Goats rummage among banana trees to the right. Saipan. June, 1944.",
-  "src_url": "https://live.staticflickr.com/65535/52308077245_1fbca7ac32_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52308077245_1fbca7ac32_b.jpg",
-  "license": "pdm",
-  "creator": "Signal Corps Archive",
-  "foreign_landing": "https://www.flickr.com/photos/186360156@N02/52308077245",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34C.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34C.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1648,20 +1720,24 @@
     "landing": "https://www.flickr.com/photos/9852972@N03/51973230417"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍌",
+  "emoji_hex": "1F34C",
+  "annotation": "banana"
  },
  {
   "en": "orange",
   "slug": "orange",
-  "file": "orange.jpg",
+  "file": "orange.png",
   "category": "Food",
   "title": "A smokey orange sky and orange dahlias, Willamette Valley, Oregon",
-  "src_url": "https://live.staticflickr.com/65535/52446724381_9a0c4f812e_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52446724381_9a0c4f812e_b.jpg",
-  "license": "cc0",
-  "creator": "Bonnie Moreland (free images)",
-  "foreign_landing": "https://www.flickr.com/photos/66741228@N05/52446724381",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34A.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34A.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1707,8 +1783,12 @@
     "landing": "https://www.flickr.com/photos/63234672@N04/16359616704"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍊",
+  "emoji_hex": "1F34A",
+  "annotation": "tangerine"
  },
  {
   "en": "lemon",
@@ -1772,14 +1852,14 @@
  {
   "en": "corn",
   "slug": "corn",
-  "file": "corn.jpg",
+  "file": "corn.png",
   "category": "Food",
   "title": "Common milkweed next to a corn field",
-  "src_url": "https://live.staticflickr.com/65535/52216551829_5a151d3d89_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52216551829_5a151d3d89_b.jpg",
-  "license": "pdm",
-  "creator": "U.S. Fish and Wildlife Service - Midwest Region",
-  "foreign_landing": "https://www.flickr.com/photos/49208525@N08/52216551829",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F33D.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F33D.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -1825,8 +1905,12 @@
     "landing": "https://www.flickr.com/photos/89918055@N05/51598026337"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🌽",
+  "emoji_hex": "1F33D",
+  "annotation": "ear of corn"
  },
  {
   "en": "rice",
@@ -1949,14 +2033,14 @@
  {
   "en": "seed",
   "slug": "seed",
-  "file": "seed.jpg",
+  "file": "seed.png",
   "category": "Food",
   "title": "Scully farm cover crop seeding",
-  "src_url": "https://live.staticflickr.com/65535/52490812381_31c2f7b7ee_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52490812381_31c2f7b7ee_b.jpg",
-  "license": "pdm",
-  "creator": "USDAgov",
-  "foreign_landing": "https://www.flickr.com/photos/41284017@N08/52490812381",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F331.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F331.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2002,20 +2086,24 @@
     "landing": "https://www.flickr.com/photos/41284017@N08/52491363103"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🌱",
+  "emoji_hex": "1F331",
+  "annotation": "seedling"
  },
  {
   "en": "knife",
   "slug": "knife",
-  "file": "knife.jpg",
+  "file": "knife.png",
   "category": "Food",
   "title": "The Knife Angel made from over 100,000 seized blades.",
-  "src_url": "https://live.staticflickr.com/65535/52376061757_eba6065bd7_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52376061757_eba6065bd7_b.jpg",
-  "license": "cc0",
-  "creator": "JOHN K THORNE",
-  "foreign_landing": "https://www.flickr.com/photos/89918055@N05/52376061757",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F52A.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F52A.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2061,20 +2149,24 @@
     "landing": "https://stocksnap.io/photo/cuttingboard-knife-LCJJH18ZNI"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🔪",
+  "emoji_hex": "1F52A",
+  "annotation": "kitchen knife"
  },
  {
   "en": "spoon",
   "slug": "spoon",
-  "file": "spoon.jpg",
+  "file": "spoon.png",
   "category": "Food",
   "title": "Spoon River Valley illustration",
-  "src_url": "https://live.staticflickr.com/65535/51807304885_66a045da83_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51807304885_66a045da83_b.jpg",
-  "license": "pdm",
-  "creator": "Wheeler Cowperthwaite",
-  "foreign_landing": "https://www.flickr.com/photos/60756254@N07/51807304885",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F944.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F944.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2120,20 +2212,24 @@
     "landing": "https://stocksnap.io/photo/spoon-cup-VI0RJQ3IMH"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥄",
+  "emoji_hex": "1F944",
+  "annotation": "spoon"
  },
  {
   "en": "fork",
   "slug": "fork",
-  "file": "fork.jpg",
+  "file": "fork.png",
   "category": "Food",
   "title": "Middle Fork of the Flathead River at Sunrise",
-  "src_url": "https://live.staticflickr.com/65535/50066101106_d6e84fd9b9_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/50066101106_d6e84fd9b9_b.jpg",
-  "license": "pdm",
-  "creator": "GlacierNPS",
-  "foreign_landing": "https://www.flickr.com/photos/43288043@N04/50066101106",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F374.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F374.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2179,20 +2275,24 @@
     "landing": "https://www.flickr.com/photos/148598741@N02/51395102668"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍴",
+  "emoji_hex": "1F374",
+  "annotation": "fork and knife"
  },
  {
   "en": "plate",
   "slug": "plate",
-  "file": "plate.jpg",
+  "file": "plate.png",
   "category": "Food",
   "title": "ITM3580433 Glass Plates Rail Motors Dept No.QSA0975 R4",
-  "src_url": "https://live.staticflickr.com/65535/51293468108_c55991e5f1_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51293468108_c55991e5f1_b.jpg",
-  "license": "cc0",
-  "creator": "Queensland State Archives",
-  "foreign_landing": "https://www.flickr.com/photos/60455048@N02/51293468108",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37D.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37D.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2238,20 +2338,24 @@
     "landing": "https://www.flickr.com/photos/60455048@N02/51294294815"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍽️",
+  "emoji_hex": "1F37D",
+  "annotation": "fork and knife with plate"
  },
  {
   "en": "cup",
   "slug": "cup",
-  "file": "cup.jpg",
+  "file": "cup.png",
   "category": "Food",
   "title": "Pixie Cups (Cladonia pyxidata)",
-  "src_url": "https://live.staticflickr.com/65535/50067069277_911435564f_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/50067069277_911435564f_b.jpg",
-  "license": "cc0",
-  "creator": "Bernard Spragg",
-  "foreign_landing": "https://www.flickr.com/photos/88123769@N02/50067069277",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2297,20 +2401,24 @@
     "landing": "https://www.flickr.com/photos/102705402@N02/19222278076"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🥤",
+  "emoji_hex": "1F964",
+  "annotation": "cup with straw"
  },
  {
   "en": "breakfast",
   "slug": "breakfast",
-  "file": "breakfast.jpg",
+  "file": "breakfast.png",
   "category": "Food",
   "title": "DENNYS FOR BREAKFAST",
-  "src_url": "https://live.staticflickr.com/65535/52415537547_c967de4982_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52415537547_c967de4982_b.jpg",
-  "license": "pdm",
-  "creator": "Sarah Sophia- Group administrators read my profile",
-  "foreign_landing": "https://www.flickr.com/photos/195712456@N03/52415537547",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F373.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F373.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2356,20 +2464,24 @@
     "landing": "https://www.flickr.com/photos/156338908@N08/52312106861"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍳",
+  "emoji_hex": "1F373",
+  "annotation": "cooking"
  },
  {
   "en": "lunch",
   "slug": "lunch",
-  "file": "lunch.jpg",
+  "file": "lunch.png",
   "category": "Food",
   "title": "Lunch Date",
-  "src_url": "https://live.staticflickr.com/65535/52556394086_30fbcd6d7f.jpg",
-  "image_url": "https://live.staticflickr.com/65535/52556394086_30fbcd6d7f.jpg",
-  "license": "cc0",
-  "creator": "lyndawaybi3",
-  "foreign_landing": "https://www.flickr.com/photos/151325871@N07/52556394086",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F371.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F371.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2415,20 +2527,24 @@
     "landing": "https://www.flickr.com/photos/148748355@N05/49170180186"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍱",
+  "emoji_hex": "1F371",
+  "annotation": "bento box"
  },
  {
   "en": "dinner",
   "slug": "dinner",
-  "file": "dinner.jpg",
+  "file": "dinner.png",
   "category": "Food",
   "title": "Wine With Dinner",
-  "src_url": "https://live.staticflickr.com/65535/51307748366_d819003861.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51307748366_d819003861.jpg",
-  "license": "cc0",
-  "creator": "lyndawaybi3",
-  "foreign_landing": "https://www.flickr.com/photos/151325871@N07/51307748366",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35D.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35D.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2474,8 +2590,12 @@
     "landing": "https://www.flickr.com/photos/156338908@N08/52317990709"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍝",
+  "emoji_hex": "1F35D",
+  "annotation": "spaghetti"
  },
  {
   "en": "sugar",
@@ -2539,14 +2659,14 @@
  {
   "en": "salt",
   "slug": "salt",
-  "file": "salt.jpg",
+  "file": "salt.png",
   "category": "Food",
   "title": "Kabotie Mural Salt Lake Painted Desert Inn NHL",
-  "src_url": "https://live.staticflickr.com/2924/33535827445_4f9f4a4a18_b.jpg",
-  "image_url": "https://live.staticflickr.com/2924/33535827445_4f9f4a4a18_b.jpg",
-  "license": "pdm",
-  "creator": "PetrifiedForestNPS",
-  "foreign_landing": "https://www.flickr.com/photos/73230544@N04/33535827445",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C2.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C2.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2592,8 +2712,12 @@
     "landing": "https://www.flickr.com/photos/135601827@N02/21730947965"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🧂",
+  "emoji_hex": "1F9C2",
+  "annotation": "salt"
  },
  {
   "en": "bottle",
@@ -2657,14 +2781,14 @@
  {
   "en": "food",
   "slug": "food",
-  "file": "food.jpg",
+  "file": "food.png",
   "category": "Food",
   "title": "See food and eat it!",
-  "src_url": "https://live.staticflickr.com/65535/51848743083_74b39ce623_b.jpg",
-  "image_url": "https://live.staticflickr.com/65535/51848743083_74b39ce623_b.jpg",
-  "license": "cc0",
-  "creator": "SWEET TART OWNER/SL NAME (spoiled.waifu)",
-  "foreign_landing": "https://www.flickr.com/photos/135511057@N03/51848743083",
+  "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F372.png",
+  "image_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F372.png",
+  "license": "CC-BY-SA 4.0",
+  "creator": "OpenMoji",
+  "foreign_landing": "https://openmoji.org",
   "chosen": 0,
   "candidates": [
    {
@@ -2710,7 +2834,11 @@
     "landing": "https://www.flickr.com/photos/190270151@N02/51433307694"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "2026-07-23-emoji",
+  "source": "emoji",
+  "emoji": "🍲",
+  "emoji_hex": "1F372",
+  "annotation": "pot of food"
  }
 ]
