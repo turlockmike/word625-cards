@@ -2,6 +2,7 @@
 # Index — /home/mike/projects/word625-cards
 
 ## Subfolders
+- **data/**
 - **worker/**
 
 ## Files
@@ -12,4 +13,4 @@
 - `sw.js`
 - `sync.js`
 
-_1 subfolders, 6 files._
+_2 subfolders, 6 files._
