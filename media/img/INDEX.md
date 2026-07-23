@@ -44,6 +44,7 @@
 - `food.png`
 - `fork.jpg`
 - `fork.png`
+- `friend.jpg`
 - `horse.jpg`
 - `horse.png`
 - `images.json`
@@ -56,7 +57,9 @@
 - `lunch.png`
 - `milk.jpg`
 - `milk.png`
+- `mother.jpg`
 - `mouse.jpg`
+- `north.jpg`
 - `oil.jpg`
 - `orange.jpg`
 - `orange.png`
@@ -66,6 +69,7 @@
 - `plate.png`
 - `pork.jpg`
 - `pork.png`
+- `red.jpg`
 - `rice.jpg`
 - `salt.jpg`
 - `salt.png`
@@ -77,10 +81,11 @@
 - `sugar.jpg`
 - `tea.jpg`
 - `tea.png`
+- `three.jpg`
 - `water.jpg`
 - `wine.jpg`
 - `wine.png`
 - `wing.jpg`
 - `wing.png`
 
-_0 subfolders, 80 files._
+_0 subfolders, 85 files._

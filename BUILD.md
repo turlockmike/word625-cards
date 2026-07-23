@@ -54,7 +54,22 @@ Transform hardened: strips `(noun)/(food)/(color)` qualifiers, prefers concrete 
 (BUILD's earlier assumption) — the `[sound:...]` regex handled it. Deck-day bug root-caused + fixed:
 `ankiweb-deck-dl` download_key was over-read by a greedy regex (protobuf LEN prefix ignored) → HTTP 400.
 **Residual (non-blocking):** `oil`, `sugar` = 2/46 images absent in OpenMoji → 44 cards v1; VOICEVOX
-pitch-accent audio = post-ship quality upgrade; photoreal image-gen = Mike-actionable (stale keys).
+pitch-accent audio = post-ship quality upgrade; card-art for image-less words = Mike-actionable.
+
+## IMAGE-GEN PATH — RESOLVED + TOOLED (2026-07-23 REFLECT; supersedes PIPELINE step 3)
+Prior BUILD note ("stale keys / HF free-tier") was WRONG — keys ARE wired. Ground truth:
+- **Gap:** 595 words, 53 have an ok image → **542 unique slugs need one.**
+- **`image-gen`** (`~/.local/bin/`, built 2026-06-30): Gemini (Google direct, nano-banana-pro) + OpenRouter
+  backends, aliases nano-lite/nano-2/nano/nano-pro. Both keys LIVE (GEMINI_API_KEY; OPENROUTER_API_KEY
+  **$4.16 "critical" <$5**). `bakeoff/` = 14 real generated images on disk; measured nano-lite = $0.0168/img.
+- **`word625-gen-images`** (`~/.local/bin/`, built this cycle): fills the 542-gap via image-gen → `media/img/<slug>.<ext>`
+  → updates `media/img/images.json` (fields app.js reads). Idempotent, resumable, cost-safe (`--dry-run` = 0 API
+  calls; live run refuses w/o `--yes`, prints estimate first; default cheapest = openrouter nano-lite).
+  `--dry-run` validated: 542 images, est $9.11, zero spend.
+- **3 paths (all wired):** **$0** Openverse/Flickr CC photos (already in prod, 44 done, needs per-word vision
+  curation) · **~$9.11** OpenRouter nano-lite (RECOMMENDED consistent kid-art; $4.16 covers ~247, ~$5 topup finishes)
+  · **~$21** Gemini nano-banana-pro (best quality). **HF = SKIP** (needs a new token, zero advantage).
+- **Blocked-on-Mike:** the spend decision. `word625-gen-images --yes` runs all 542 in one pass once he picks.
 
 ## STATUS (2026-07-23 ~03:36 CDT)
 - Plumbing forked. Media branch decided. **AnkiWeb download endpoint CRACKED + tool built (`ankiweb-deck-dl`, validated).** English list staged (`data/ff625-en.json`, 619 words). Only the anon download quota blocks the final apkg pull.

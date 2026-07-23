@@ -56,7 +56,9 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "round2-jp-bakeoff",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "cat",
@@ -115,12 +117,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "fish",
   "slug": "fish",
-  "file": "fish.png",
+  "file": "fish.jpg",
   "category": "Animal",
   "title": "Fishing with Patience, Big Bear Lake, California",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F41F.png",
@@ -174,11 +178,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🐟️",
   "emoji_hex": "1F41F",
-  "annotation": "fish"
+  "annotation": "fish",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "bird",
@@ -237,7 +242,9 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "cow",
@@ -296,12 +303,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "pig",
   "slug": "pig",
-  "file": "pig.png",
+  "file": "pig.jpg",
   "category": "Animal",
   "title": "If pigs could fly?",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F437.png",
@@ -355,11 +364,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🐷",
   "emoji_hex": "1F437",
-  "annotation": "pig face"
+  "annotation": "pig face",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "mouse",
@@ -418,12 +428,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "horse",
   "slug": "horse",
-  "file": "horse.png",
+  "file": "horse.jpg",
   "category": "Animal",
   "title": "'HARRISON CARRIER' and CLYDESDALE HORSES, SYDNEY, N.S.W. - early 1900s",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F434.png",
@@ -477,16 +489,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🐴",
   "emoji_hex": "1F434",
-  "annotation": "horse face"
+  "annotation": "horse face",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "wing",
   "slug": "wing",
-  "file": "wing.png",
+  "file": "wing.jpg",
   "category": "Animal",
   "title": "X-Wing v3",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1FABD.png",
@@ -540,11 +553,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🪽",
   "emoji_hex": "1FABD",
-  "annotation": "wing"
+  "annotation": "wing",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "animal",
@@ -603,12 +617,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "coffee",
   "slug": "coffee",
-  "file": "coffee.png",
+  "file": "coffee.jpg",
   "category": "Beverages",
   "title": "Lounging With My Coffee",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/2615.png",
@@ -662,16 +678,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "☕️",
   "emoji_hex": "2615",
-  "annotation": "hot beverage"
+  "annotation": "hot beverage",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "tea",
   "slug": "tea",
-  "file": "tea.png",
+  "file": "tea.jpg",
   "category": "Beverages",
   "title": "Tea Garden at Hornsea Pottery Edenfield site (est. 1960s) (DDPH/9/1/3 289)",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F375.png",
@@ -725,16 +742,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍵",
   "emoji_hex": "1F375",
-  "annotation": "teacup without handle"
+  "annotation": "teacup without handle",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "wine",
   "slug": "wine",
-  "file": "wine.png",
+  "file": "wine.jpg",
   "category": "Beverages",
   "title": "Drinking Good Red Wine",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F377.png",
@@ -788,16 +806,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍷",
   "emoji_hex": "1F377",
-  "annotation": "wine glass"
+  "annotation": "wine glass",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "beer",
   "slug": "beer",
-  "file": "beer.png",
+  "file": "beer.jpg",
   "category": "Beverages",
   "title": "Time For A Beer",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37A.png",
@@ -851,16 +870,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍺",
   "emoji_hex": "1F37A",
-  "annotation": "beer mug"
+  "annotation": "beer mug",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "juice",
   "slug": "juice",
-  "file": "juice.png",
+  "file": "juice.jpg",
   "category": "Beverages",
   "title": "Stirring sugar into heated grape juice",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C3.png",
@@ -914,11 +934,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🧃",
   "emoji_hex": "1F9C3",
-  "annotation": "beverage box"
+  "annotation": "beverage box",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "water",
@@ -977,12 +998,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "milk",
   "slug": "milk",
-  "file": "milk.png",
+  "file": "milk.jpg",
   "category": "Beverages",
   "title": "A land flowing with milk and honey",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95B.png",
@@ -1036,11 +1059,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥛",
   "emoji_hex": "1F95B",
-  "annotation": "glass of milk"
+  "annotation": "glass of milk",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "beverage",
@@ -1099,12 +1123,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "egg",
   "slug": "egg",
-  "file": "egg.png",
+  "file": "egg.jpg",
   "category": "Food",
   "title": "Least tern egg located near Ramp 72 on Ocracoke Island",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F95A.png",
@@ -1158,16 +1184,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥚",
   "emoji_hex": "1F95A",
-  "annotation": "egg"
+  "annotation": "egg",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "cheese",
   "slug": "cheese",
-  "file": "cheese.png",
+  "file": "cheese.jpg",
   "category": "Food",
   "title": "James Cheese",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C0.png",
@@ -1221,16 +1248,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🧀",
   "emoji_hex": "1F9C0",
-  "annotation": "cheese wedge"
+  "annotation": "cheese wedge",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "bread",
   "slug": "bread",
-  "file": "bread.png",
+  "file": "bread.jpg",
   "category": "Food",
   "title": "chocolate bread",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35E.png",
@@ -1284,11 +1312,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍞",
   "emoji_hex": "1F35E",
-  "annotation": "bread"
+  "annotation": "bread",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "soup",
@@ -1347,12 +1376,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "cake",
   "slug": "cake",
-  "file": "cake.png",
+  "file": "cake.jpg",
   "category": "Food",
   "title": "Pink Birthday Party Cake Sprinkles Background",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F370.png",
@@ -1406,16 +1437,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍰",
   "emoji_hex": "1F370",
-  "annotation": "shortcake"
+  "annotation": "shortcake",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "chicken",
   "slug": "chicken",
-  "file": "chicken.png",
+  "file": "chicken.jpg",
   "category": "Food",
   "title": "Bringing home the chicken: Pfc. Michael Sigal, Jersey City, N.J., and Pvt. Vincent Tavano, Bronx N.Y. swing a chicken as they head along railroad tracks toward a roasting pit.",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F414.png",
@@ -1469,16 +1501,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🐔",
   "emoji_hex": "1F414",
-  "annotation": "chicken"
+  "annotation": "chicken",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "pork",
   "slug": "pork",
-  "file": "pork.png",
+  "file": "pork.jpg",
   "category": "Food",
   "title": "Pork Ham Breakfast (12 of 18)",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F953.png",
@@ -1532,16 +1565,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥓",
   "emoji_hex": "1F953",
-  "annotation": "bacon"
+  "annotation": "bacon",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "beef",
   "slug": "beef",
-  "file": "beef.png",
+  "file": "beef.jpg",
   "category": "Food",
   "title": "Liebig's Beef Extract, 'Italian Masques I', 'Arlecchino', French issue, 1883.",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F969.png",
@@ -1595,16 +1629,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥩",
   "emoji_hex": "1F969",
-  "annotation": "cut of meat"
+  "annotation": "cut of meat",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "apple",
   "slug": "apple",
-  "file": "apple.png",
+  "file": "apple.jpg",
   "category": "Food",
   "title": "M27 - Apple Core or Dumbbell Nebula in SHO",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34E.png",
@@ -1658,16 +1693,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍎",
   "emoji_hex": "1F34E",
-  "annotation": "red apple"
+  "annotation": "red apple",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "banana",
   "slug": "banana",
-  "file": "banana.png",
+  "file": "banana.jpg",
   "category": "Food",
   "title": "Marines attached to 23rd Marines rest at front after attacking Jap positions. Goats rummage among banana trees to the right. Saipan. June, 1944.",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34C.png",
@@ -1721,16 +1757,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍌",
   "emoji_hex": "1F34C",
-  "annotation": "banana"
+  "annotation": "banana",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "orange",
   "slug": "orange",
-  "file": "orange.png",
+  "file": "orange.jpg",
   "category": "Food",
   "title": "A smokey orange sky and orange dahlias, Willamette Valley, Oregon",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F34A.png",
@@ -1784,11 +1821,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍊",
   "emoji_hex": "1F34A",
-  "annotation": "tangerine"
+  "annotation": "tangerine",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "lemon",
@@ -1847,12 +1885,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "corn",
   "slug": "corn",
-  "file": "corn.png",
+  "file": "corn.jpg",
   "category": "Food",
   "title": "Common milkweed next to a corn field",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F33D.png",
@@ -1906,11 +1946,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🌽",
   "emoji_hex": "1F33D",
-  "annotation": "ear of corn"
+  "annotation": "ear of corn",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "rice",
@@ -1969,7 +2010,9 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "round2-jp-bakeoff",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "oil",
@@ -2027,13 +2070,15 @@
     "landing": "https://www.flickr.com/photos/30924550@N04/14561626144"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "round2-jp-bakeoff",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "seed",
   "slug": "seed",
-  "file": "seed.png",
+  "file": "seed.jpg",
   "category": "Food",
   "title": "Scully farm cover crop seeding",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F331.png",
@@ -2087,16 +2132,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🌱",
   "emoji_hex": "1F331",
-  "annotation": "seedling"
+  "annotation": "seedling",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "knife",
   "slug": "knife",
-  "file": "knife.png",
+  "file": "knife.jpg",
   "category": "Food",
   "title": "The Knife Angel made from over 100,000 seized blades.",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F52A.png",
@@ -2150,16 +2196,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🔪",
   "emoji_hex": "1F52A",
-  "annotation": "kitchen knife"
+  "annotation": "kitchen knife",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "spoon",
   "slug": "spoon",
-  "file": "spoon.png",
+  "file": "spoon.jpg",
   "category": "Food",
   "title": "Spoon River Valley illustration",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F944.png",
@@ -2213,16 +2260,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥄",
   "emoji_hex": "1F944",
-  "annotation": "spoon"
+  "annotation": "spoon",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "fork",
   "slug": "fork",
-  "file": "fork.png",
+  "file": "fork.jpg",
   "category": "Food",
   "title": "Middle Fork of the Flathead River at Sunrise",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F374.png",
@@ -2276,16 +2324,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "round2-jp-bakeoff",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍴",
   "emoji_hex": "1F374",
-  "annotation": "fork and knife"
+  "annotation": "fork and knife",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "plate",
   "slug": "plate",
-  "file": "plate.png",
+  "file": "plate.jpg",
   "category": "Food",
   "title": "ITM3580433 Glass Plates Rail Motors Dept No.QSA0975 R4",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F37D.png",
@@ -2339,16 +2388,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍽️",
   "emoji_hex": "1F37D",
-  "annotation": "fork and knife with plate"
+  "annotation": "fork and knife with plate",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "cup",
   "slug": "cup",
-  "file": "cup.png",
+  "file": "cup.jpg",
   "category": "Food",
   "title": "Pixie Cups (Cladonia pyxidata)",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F964.png",
@@ -2402,16 +2452,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🥤",
   "emoji_hex": "1F964",
-  "annotation": "cup with straw"
+  "annotation": "cup with straw",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "breakfast",
   "slug": "breakfast",
-  "file": "breakfast.png",
+  "file": "breakfast.jpg",
   "category": "Food",
   "title": "DENNYS FOR BREAKFAST",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F373.png",
@@ -2465,16 +2516,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍳",
   "emoji_hex": "1F373",
-  "annotation": "cooking"
+  "annotation": "cooking",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "lunch",
   "slug": "lunch",
-  "file": "lunch.png",
+  "file": "lunch.jpg",
   "category": "Food",
   "title": "Lunch Date",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F371.png",
@@ -2528,16 +2580,17 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍱",
   "emoji_hex": "1F371",
-  "annotation": "bento box"
+  "annotation": "bento box",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "dinner",
   "slug": "dinner",
-  "file": "dinner.png",
+  "file": "dinner.jpg",
   "category": "Food",
   "title": "Wine With Dinner",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F35D.png",
@@ -2591,11 +2644,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍝",
   "emoji_hex": "1F35D",
-  "annotation": "spaghetti"
+  "annotation": "spaghetti",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "sugar",
@@ -2653,13 +2707,15 @@
     "landing": "https://www.flickr.com/photos/186360156@N02/52234242013"
    }
   ],
-  "status": "needs-alt",
-  "curated": "2026-07-23-vision"
+  "status": "ok",
+  "curated": "round2-jp-bakeoff",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "salt",
   "slug": "salt",
-  "file": "salt.png",
+  "file": "salt.jpg",
   "category": "Food",
   "title": "Kabotie Mural Salt Lake Painted Desert Inn NHL",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F9C2.png",
@@ -2713,11 +2769,12 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🧂",
   "emoji_hex": "1F9C2",
-  "annotation": "salt"
+  "annotation": "salt",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "bottle",
@@ -2776,12 +2833,14 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-vision"
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
+  "prompt_style": "jp-anchored"
  },
  {
   "en": "food",
   "slug": "food",
-  "file": "food.png",
+  "file": "food.jpg",
   "category": "Food",
   "title": "See food and eat it!",
   "src_url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/1F372.png",
@@ -2835,10 +2894,5411 @@
    }
   ],
   "status": "ok",
-  "curated": "2026-07-23-emoji",
-  "source": "emoji",
+  "curated": "word625-gen-images",
+  "source": "ai:openrouter:nano-lite",
   "emoji": "🍲",
   "emoji_hex": "1F372",
-  "annotation": "pot of food"
+  "annotation": "pot of food",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "friend",
+  "slug": "friend",
+  "file": "friend.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "round2-jp-bakeoff",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "mother",
+  "slug": "mother",
+  "file": "mother.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "round2-jp-bakeoff",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "north",
+  "slug": "north",
+  "file": "north.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "round2-jp-bakeoff",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "red",
+  "slug": "red",
+  "file": "red.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "round2-jp-bakeoff",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "three",
+  "slug": "three",
+  "file": "three.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "round2-jp-bakeoff",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "adjective",
+  "slug": "adjective",
+  "file": "adjective.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "afternoon",
+  "slug": "afternoon",
+  "file": "afternoon.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "air",
+  "slug": "air",
+  "file": "air.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "airport",
+  "slug": "airport",
+  "file": "airport.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "alive",
+  "slug": "alive",
+  "file": "alive.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "apartment",
+  "slug": "apartment",
+  "file": "apartment.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "april",
+  "slug": "april",
+  "file": "april.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hand",
+  "slug": "hand",
+  "file": "hand.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "army",
+  "slug": "army",
+  "file": "army.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "art",
+  "slug": "art",
+  "file": "art.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "artist",
+  "slug": "artist",
+  "file": "artist.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "august",
+  "slug": "august",
+  "file": "august.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "author",
+  "slug": "author",
+  "file": "author.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "baby",
+  "slug": "baby",
+  "file": "baby.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "back",
+  "slug": "back",
+  "file": "back.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bad",
+  "slug": "bad",
+  "file": "bad.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bag",
+  "slug": "bag",
+  "file": "bag.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "adult",
+  "slug": "adult",
+  "file": "adult.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ball",
+  "slug": "ball",
+  "file": "ball.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "band",
+  "slug": "band",
+  "file": "band.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bank",
+  "slug": "bank",
+  "file": "bank.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bathroom",
+  "slug": "bathroom",
+  "file": "bathroom.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "beach",
+  "slug": "beach",
+  "file": "beach.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "beard",
+  "slug": "beard",
+  "file": "beard.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "beautiful",
+  "slug": "beautiful",
+  "file": "beautiful.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bed",
+  "slug": "bed",
+  "file": "bed.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bedroom",
+  "slug": "bedroom",
+  "file": "bedroom.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bicycle",
+  "slug": "bicycle",
+  "file": "bicycle.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "big",
+  "slug": "big",
+  "file": "big.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bill",
+  "slug": "bill",
+  "file": "bill.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "billion",
+  "slug": "billion",
+  "file": "billion.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "black",
+  "slug": "black",
+  "file": "black.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "blindess",
+  "slug": "blindess",
+  "file": "blindess.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "blood",
+  "slug": "blood",
+  "file": "blood.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "blue",
+  "slug": "blue",
+  "file": "blue.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "boat",
+  "slug": "boat",
+  "file": "boat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "body",
+  "slug": "body",
+  "file": "body.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bone",
+  "slug": "bone",
+  "file": "bone.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "book",
+  "slug": "book",
+  "file": "book.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bottom",
+  "slug": "bottom",
+  "file": "bottom.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "box",
+  "slug": "box",
+  "file": "box.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "boy",
+  "slug": "boy",
+  "file": "boy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "brain",
+  "slug": "brain",
+  "file": "brain.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bridge",
+  "slug": "bridge",
+  "file": "bridge.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(older) brother",
+  "slug": "older-brother",
+  "file": "older-brother.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(little) brother",
+  "slug": "little-brother",
+  "file": "little-brother.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "brown",
+  "slug": "brown",
+  "file": "brown.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bus",
+  "slug": "bus",
+  "file": "bus.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "camera",
+  "slug": "camera",
+  "file": "camera.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "camp",
+  "slug": "camp",
+  "file": "camp.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "car",
+  "slug": "car",
+  "file": "car.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "card",
+  "slug": "card",
+  "file": "card.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ceiling",
+  "slug": "ceiling",
+  "file": "ceiling.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "cell phone",
+  "slug": "cell-phone",
+  "file": "cell-phone.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "centimeter",
+  "slug": "centimeter",
+  "file": "centimeter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "chair",
+  "slug": "chair",
+  "file": "chair.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "cheap",
+  "slug": "cheap",
+  "file": "cheap.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "child",
+  "slug": "child",
+  "file": "child.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "church",
+  "slug": "church",
+  "file": "church.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "circle",
+  "slug": "circle",
+  "file": "circle.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "city",
+  "slug": "city",
+  "file": "city.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "clay",
+  "slug": "clay",
+  "file": "clay.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "clock",
+  "slug": "clock",
+  "file": "clock.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "clothes",
+  "slug": "clothes",
+  "file": "clothes.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "club",
+  "slug": "club",
+  "file": "club.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "coat",
+  "slug": "coat",
+  "file": "coat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "cold",
+  "slug": "cold",
+  "file": "cold.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "color",
+  "slug": "color",
+  "file": "color.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "computer",
+  "slug": "computer",
+  "file": "computer.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "consonant",
+  "slug": "consonant",
+  "file": "consonant.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "copper",
+  "slug": "copper",
+  "file": "copper.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "coin",
+  "slug": "coin",
+  "file": "coin.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "corner",
+  "slug": "corner",
+  "file": "corner.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "country",
+  "slug": "country",
+  "file": "country.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "court",
+  "slug": "court",
+  "file": "court.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "curved",
+  "slug": "curved",
+  "file": "curved.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dark",
+  "slug": "dark",
+  "file": "dark.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "daughter",
+  "slug": "daughter",
+  "file": "daughter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "day",
+  "slug": "day",
+  "file": "day.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "deaf person",
+  "slug": "deaf-person",
+  "file": "deaf-person.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "december",
+  "slug": "december",
+  "file": "december.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "diamond",
+  "slug": "diamond",
+  "file": "diamond.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "direction",
+  "slug": "direction",
+  "file": "direction.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dirty",
+  "slug": "dirty",
+  "file": "dirty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "disease",
+  "slug": "disease",
+  "file": "disease.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "doctor",
+  "slug": "doctor",
+  "file": "doctor.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dollar",
+  "slug": "dollar",
+  "file": "dollar.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "door",
+  "slug": "door",
+  "file": "door.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dot",
+  "slug": "dot",
+  "file": "dot.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "down",
+  "slug": "down",
+  "file": "down.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dream",
+  "slug": "dream",
+  "file": "dream.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dress",
+  "slug": "dress",
+  "file": "dress.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "drug",
+  "slug": "drug",
+  "file": "drug.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dry",
+  "slug": "dry",
+  "file": "dry.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "dust",
+  "slug": "dust",
+  "file": "dust.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ear",
+  "slug": "ear",
+  "file": "ear.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "east",
+  "slug": "east",
+  "file": "east.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "edge",
+  "slug": "edge",
+  "file": "edge.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "eight",
+  "slug": "eight",
+  "file": "eight.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "eighteen",
+  "slug": "eighteen",
+  "file": "eighteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "eighty",
+  "slug": "eighty",
+  "file": "eighty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "electronic device",
+  "slug": "electronic-device",
+  "file": "electronic-device.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "eleven",
+  "slug": "eleven",
+  "file": "eleven.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "engine",
+  "slug": "engine",
+  "file": "engine.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "evening",
+  "slug": "evening",
+  "file": "evening.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "expensive",
+  "slug": "expensive",
+  "file": "expensive.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "eye",
+  "slug": "eye",
+  "file": "eye.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "face",
+  "slug": "face",
+  "file": "face.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "family",
+  "slug": "family",
+  "file": "family.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "famous",
+  "slug": "famous",
+  "file": "famous.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "electric fan",
+  "slug": "electric-fan",
+  "file": "electric-fan.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "farm",
+  "slug": "farm",
+  "file": "farm.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fast",
+  "slug": "fast",
+  "file": "fast.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "father",
+  "slug": "father",
+  "file": "father.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "february",
+  "slug": "february",
+  "file": "february.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "female",
+  "slug": "female",
+  "file": "female.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fifteen",
+  "slug": "fifteen",
+  "file": "fifteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fifty",
+  "slug": "fifty",
+  "file": "fifty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "finger",
+  "slug": "finger",
+  "file": "finger.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fire",
+  "slug": "fire",
+  "file": "fire.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "floor",
+  "slug": "floor",
+  "file": "floor.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "flower",
+  "slug": "flower",
+  "file": "flower.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "forest",
+  "slug": "forest",
+  "file": "forest.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fourty",
+  "slug": "fourty",
+  "file": "fourty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "four",
+  "slug": "four",
+  "file": "four.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fourteen",
+  "slug": "fourteen",
+  "file": "fourteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "friday",
+  "slug": "friday",
+  "file": "friday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "front",
+  "slug": "front",
+  "file": "front.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "game",
+  "slug": "game",
+  "file": "game.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "garden",
+  "slug": "garden",
+  "file": "garden.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "gasoline",
+  "slug": "gasoline",
+  "file": "gasoline.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "gift",
+  "slug": "gift",
+  "file": "gift.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "girl",
+  "slug": "girl",
+  "file": "girl.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "paper",
+  "slug": "paper",
+  "file": "paper.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "gold",
+  "slug": "gold",
+  "file": "gold.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "good",
+  "slug": "good",
+  "file": "good.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "grandfather",
+  "slug": "grandfather",
+  "file": "grandfather.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "grandmother",
+  "slug": "grandmother",
+  "file": "grandmother.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "grass",
+  "slug": "grass",
+  "file": "grass.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "gray",
+  "slug": "gray",
+  "file": "gray.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "green",
+  "slug": "green",
+  "file": "green.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ground",
+  "slug": "ground",
+  "file": "ground.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "gun",
+  "slug": "gun",
+  "file": "gun.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hair",
+  "slug": "hair",
+  "file": "hair.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "half",
+  "slug": "half",
+  "file": "half.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "happy",
+  "slug": "happy",
+  "file": "happy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hard",
+  "slug": "hard",
+  "file": "hard.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hat",
+  "slug": "hat",
+  "file": "hat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "head",
+  "slug": "head",
+  "file": "head.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "healthy",
+  "slug": "healthy",
+  "file": "healthy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "heart",
+  "slug": "heart",
+  "file": "heart.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "heaven",
+  "slug": "heaven",
+  "file": "heaven.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "heavy",
+  "slug": "heavy",
+  "file": "heavy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hell",
+  "slug": "hell",
+  "file": "hell.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hill",
+  "slug": "hill",
+  "file": "hill.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hole",
+  "slug": "hole",
+  "file": "hole.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hospital",
+  "slug": "hospital",
+  "file": "hospital.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hot",
+  "slug": "hot",
+  "file": "hot.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hotel",
+  "slug": "hotel",
+  "file": "hotel.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hour",
+  "slug": "hour",
+  "file": "hour.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "house",
+  "slug": "house",
+  "file": "house.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "human",
+  "slug": "human",
+  "file": "human.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "hundred",
+  "slug": "hundred",
+  "file": "hundred.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "husband",
+  "slug": "husband",
+  "file": "husband.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ice",
+  "slug": "ice",
+  "file": "ice.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "image",
+  "slug": "image",
+  "file": "image.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "inch",
+  "slug": "inch",
+  "file": "inch.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "injury",
+  "slug": "injury",
+  "file": "injury.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "inside",
+  "slug": "inside",
+  "file": "inside.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "island",
+  "slug": "island",
+  "file": "island.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "january",
+  "slug": "january",
+  "file": "january.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "job",
+  "slug": "job",
+  "file": "job.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "july",
+  "slug": "july",
+  "file": "july.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "june",
+  "slug": "june",
+  "file": "june.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "key",
+  "slug": "key",
+  "file": "key.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "kilogram",
+  "slug": "kilogram",
+  "file": "kilogram.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "king",
+  "slug": "king",
+  "file": "king.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "kitchen",
+  "slug": "kitchen",
+  "file": "kitchen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "knee",
+  "slug": "knee",
+  "file": "knee.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "lake",
+  "slug": "lake",
+  "file": "lake.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "lamp",
+  "slug": "lamp",
+  "file": "lamp.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "laptop",
+  "slug": "laptop",
+  "file": "laptop.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "lawyer",
+  "slug": "lawyer",
+  "file": "lawyer.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "leaf",
+  "slug": "leaf",
+  "file": "leaf.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "library",
+  "slug": "library",
+  "file": "library.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "light",
+  "slug": "light",
+  "file": "light.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "lips",
+  "slug": "lips",
+  "file": "lips.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "location",
+  "slug": "location",
+  "file": "location.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "loose",
+  "slug": "loose",
+  "file": "loose.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "loud",
+  "slug": "loud",
+  "file": "loud.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "magazine",
+  "slug": "magazine",
+  "file": "magazine.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "male",
+  "slug": "male",
+  "file": "male.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "man",
+  "slug": "man",
+  "file": "man.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "manager",
+  "slug": "manager",
+  "file": "manager.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "map",
+  "slug": "map",
+  "file": "map.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "march",
+  "slug": "march",
+  "file": "march.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(town) market",
+  "slug": "town-market",
+  "file": "town-market.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "marriage",
+  "slug": "marriage",
+  "file": "marriage.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "material",
+  "slug": "material",
+  "file": "material.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "may",
+  "slug": "may",
+  "file": "may.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "mean spirited",
+  "slug": "mean-spirited",
+  "file": "mean-spirited.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "medicine",
+  "slug": "medicine",
+  "file": "medicine.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "metal",
+  "slug": "metal",
+  "file": "metal.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "meter",
+  "slug": "meter",
+  "file": "meter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "one million",
+  "slug": "one-million",
+  "file": "one-million.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "minute",
+  "slug": "minute",
+  "file": "minute.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "monday",
+  "slug": "monday",
+  "file": "monday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "money",
+  "slug": "money",
+  "file": "money.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "moon",
+  "slug": "moon",
+  "file": "moon.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "morning",
+  "slug": "morning",
+  "file": "morning.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "mountain",
+  "slug": "mountain",
+  "file": "mountain.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "mouth",
+  "slug": "mouth",
+  "file": "mouth.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "movie",
+  "slug": "movie",
+  "file": "movie.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "murder",
+  "slug": "murder",
+  "file": "murder.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "music",
+  "slug": "music",
+  "file": "music.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "narrow",
+  "slug": "narrow",
+  "file": "narrow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nature",
+  "slug": "nature",
+  "file": "nature.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "neck",
+  "slug": "neck",
+  "file": "neck.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "needle",
+  "slug": "needle",
+  "file": "needle.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "neighbor",
+  "slug": "neighbor",
+  "file": "neighbor.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "network",
+  "slug": "network",
+  "file": "network.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "new",
+  "slug": "new",
+  "file": "new.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "newspaper",
+  "slug": "newspaper",
+  "file": "newspaper.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nice",
+  "slug": "nice",
+  "file": "nice.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nine",
+  "slug": "nine",
+  "file": "nine.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nineteen",
+  "slug": "nineteen",
+  "file": "nineteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ninety",
+  "slug": "ninety",
+  "file": "ninety.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "no",
+  "slug": "no",
+  "file": "no.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nose",
+  "slug": "nose",
+  "file": "nose.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "november",
+  "slug": "november",
+  "file": "november.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "nuclear",
+  "slug": "nuclear",
+  "file": "nuclear.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "number",
+  "slug": "number",
+  "file": "number.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ocean",
+  "slug": "ocean",
+  "file": "ocean.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "october",
+  "slug": "october",
+  "file": "october.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "office",
+  "slug": "office",
+  "file": "office.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "one",
+  "slug": "one",
+  "file": "one.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "outside",
+  "slug": "outside",
+  "file": "outside.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "page",
+  "slug": "page",
+  "file": "page.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pain",
+  "slug": "pain",
+  "file": "pain.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "paint",
+  "slug": "paint",
+  "file": "paint.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "parent",
+  "slug": "parent",
+  "file": "parent.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "patient",
+  "slug": "patient",
+  "file": "patient.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pattern",
+  "slug": "pattern",
+  "file": "pattern.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "peace",
+  "slug": "peace",
+  "file": "peace.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pen",
+  "slug": "pen",
+  "file": "pen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pencil",
+  "slug": "pencil",
+  "file": "pencil.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "person",
+  "slug": "person",
+  "file": "person.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "photograph",
+  "slug": "photograph",
+  "file": "photograph.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pink",
+  "slug": "pink",
+  "file": "pink.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "plane",
+  "slug": "plane",
+  "file": "plane.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "plant",
+  "slug": "plant",
+  "file": "plant.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "plastic",
+  "slug": "plastic",
+  "file": "plastic.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pocket",
+  "slug": "pocket",
+  "file": "pocket.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "poison",
+  "slug": "poison",
+  "file": "poison.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "police",
+  "slug": "police",
+  "file": "police.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pool",
+  "slug": "pool",
+  "file": "pool.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "poor",
+  "slug": "poor",
+  "file": "poor.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "president",
+  "slug": "president",
+  "file": "president.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "price",
+  "slug": "price",
+  "file": "price.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "priest",
+  "slug": "priest",
+  "file": "priest.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "prison",
+  "slug": "prison",
+  "file": "prison.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "queen",
+  "slug": "queen",
+  "file": "queen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "quiet",
+  "slug": "quiet",
+  "file": "quiet.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "radio",
+  "slug": "radio",
+  "file": "radio.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "rain",
+  "slug": "rain",
+  "file": "rain.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "religion",
+  "slug": "religion",
+  "file": "religion.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "reporter",
+  "slug": "reporter",
+  "file": "reporter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "restaurant",
+  "slug": "restaurant",
+  "file": "restaurant.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "rich",
+  "slug": "rich",
+  "file": "rich.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ring",
+  "slug": "ring",
+  "file": "ring.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "river",
+  "slug": "river",
+  "file": "river.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "roof",
+  "slug": "roof",
+  "file": "roof.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "root",
+  "slug": "root",
+  "file": "root.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sad",
+  "slug": "sad",
+  "file": "sad.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sand",
+  "slug": "sand",
+  "file": "sand.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "saturday",
+  "slug": "saturday",
+  "file": "saturday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "school",
+  "slug": "school",
+  "file": "school.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "science",
+  "slug": "science",
+  "file": "science.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "screen",
+  "slug": "screen",
+  "file": "screen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sea",
+  "slug": "sea",
+  "file": "sea.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "season",
+  "slug": "season",
+  "file": "season.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "secretary",
+  "slug": "secretary",
+  "file": "secretary.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "september",
+  "slug": "september",
+  "file": "september.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "seven",
+  "slug": "seven",
+  "file": "seven.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "seventeen",
+  "slug": "seventeen",
+  "file": "seventeen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "seventy",
+  "slug": "seventy",
+  "file": "seventy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "shallow",
+  "slug": "shallow",
+  "file": "shallow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ship",
+  "slug": "ship",
+  "file": "ship.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "shirt",
+  "slug": "shirt",
+  "file": "shirt.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "shoes",
+  "slug": "shoes",
+  "file": "shoes.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "shoulder",
+  "slug": "shoulder",
+  "file": "shoulder.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "side",
+  "slug": "side",
+  "file": "side.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sign",
+  "slug": "sign",
+  "file": "sign.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "silver",
+  "slug": "silver",
+  "file": "silver.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(older) sister",
+  "slug": "older-sister",
+  "file": "older-sister.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(little) sister",
+  "slug": "little-sister",
+  "file": "little-sister.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "six",
+  "slug": "six",
+  "file": "six.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sixteen",
+  "slug": "sixteen",
+  "file": "sixteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sixty",
+  "slug": "sixty",
+  "file": "sixty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "skin",
+  "slug": "skin",
+  "file": "skin.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "skirt",
+  "slug": "skirt",
+  "file": "skirt.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "street",
+  "slug": "street",
+  "file": "street.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "strong",
+  "slug": "strong",
+  "file": "strong.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "student",
+  "slug": "student",
+  "file": "student.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "suit",
+  "slug": "suit",
+  "file": "suit.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "summer",
+  "slug": "summer",
+  "file": "summer.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sun",
+  "slug": "sun",
+  "file": "sun.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sunday",
+  "slug": "sunday",
+  "file": "sunday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sweat",
+  "slug": "sweat",
+  "file": "sweat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "t-shirt",
+  "slug": "t-shirt",
+  "file": "t-shirt.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "table",
+  "slug": "table",
+  "file": "table.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tall",
+  "slug": "tall",
+  "file": "tall.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "teacher",
+  "slug": "teacher",
+  "file": "teacher.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "team",
+  "slug": "team",
+  "file": "team.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "teardrop",
+  "slug": "teardrop",
+  "file": "teardrop.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "technology",
+  "slug": "technology",
+  "file": "technology.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "telephone",
+  "slug": "telephone",
+  "file": "telephone.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "television",
+  "slug": "television",
+  "file": "television.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ten",
+  "slug": "ten",
+  "file": "ten.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "(movie) theater",
+  "slug": "movie-theater",
+  "file": "movie-theater.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "they",
+  "slug": "they",
+  "file": "they.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thick",
+  "slug": "thick",
+  "file": "thick.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thirteen",
+  "slug": "thirteen",
+  "file": "thirteen.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thirty",
+  "slug": "thirty",
+  "file": "thirty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thousand",
+  "slug": "thousand",
+  "file": "thousand.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thursday",
+  "slug": "thursday",
+  "file": "thursday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tight",
+  "slug": "tight",
+  "file": "tight.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "time",
+  "slug": "time",
+  "file": "time.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tongue",
+  "slug": "tongue",
+  "file": "tongue.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tool",
+  "slug": "tool",
+  "file": "tool.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tooth",
+  "slug": "tooth",
+  "file": "tooth.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "top",
+  "slug": "top",
+  "file": "top.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "town",
+  "slug": "town",
+  "file": "town.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "train",
+  "slug": "train",
+  "file": "train.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "train station",
+  "slug": "train-station",
+  "file": "train-station.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "transportation",
+  "slug": "transportation",
+  "file": "transportation.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tree",
+  "slug": "tree",
+  "file": "tree.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "truck",
+  "slug": "truck",
+  "file": "truck.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tuesday",
+  "slug": "tuesday",
+  "file": "tuesday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "twelve",
+  "slug": "twelve",
+  "file": "twelve.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "twenty",
+  "slug": "twenty",
+  "file": "twenty.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "two",
+  "slug": "two",
+  "file": "two.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "university",
+  "slug": "university",
+  "file": "university.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "up",
+  "slug": "up",
+  "file": "up.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "valley",
+  "slug": "valley",
+  "file": "valley.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "verb",
+  "slug": "verb",
+  "file": "verb.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "victim",
+  "slug": "victim",
+  "file": "victim.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "voice",
+  "slug": "voice",
+  "file": "voice.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "vowel",
+  "slug": "vowel",
+  "file": "vowel.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "waiter",
+  "slug": "waiter",
+  "file": "waiter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wall",
+  "slug": "wall",
+  "file": "wall.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "war",
+  "slug": "war",
+  "file": "war.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "warm",
+  "slug": "warm",
+  "file": "warm.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wave",
+  "slug": "wave",
+  "file": "wave.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "we",
+  "slug": "we",
+  "file": "we.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "weak",
+  "slug": "weak",
+  "file": "weak.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "week",
+  "slug": "week",
+  "file": "week.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "weight",
+  "slug": "weight",
+  "file": "weight.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "west",
+  "slug": "west",
+  "file": "west.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "white",
+  "slug": "white",
+  "file": "white.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wide",
+  "slug": "wide",
+  "file": "wide.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wife",
+  "slug": "wife",
+  "file": "wife.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wind",
+  "slug": "wind",
+  "file": "wind.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "window",
+  "slug": "window",
+  "file": "window.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "winter",
+  "slug": "winter",
+  "file": "winter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "woman",
+  "slug": "woman",
+  "file": "woman.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wood",
+  "slug": "wood",
+  "file": "wood.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "world",
+  "slug": "world",
+  "file": "world.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "year",
+  "slug": "year",
+  "file": "year.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "yellow",
+  "slug": "yellow",
+  "file": "yellow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "yes",
+  "slug": "yes",
+  "file": "yes.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "you",
+  "slug": "you",
+  "file": "you.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "young",
+  "slug": "young",
+  "file": "young.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "zero",
+  "slug": "zero",
+  "file": "zero.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "attack (noun",
+  "slug": "attack-noun",
+  "file": "attack-noun.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "bar",
+  "slug": "bar",
+  "file": "bar.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to beat",
+  "slug": "to-beat",
+  "file": "to-beat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to bend",
+  "slug": "to-bend",
+  "file": "to-bend.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to break",
+  "slug": "to-break",
+  "file": "to-break.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to build",
+  "slug": "to-build",
+  "file": "to-build.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "burn",
+  "slug": "burn",
+  "file": "burn.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to buy",
+  "slug": "to-buy",
+  "file": "to-buy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to call",
+  "slug": "to-call",
+  "file": "to-call.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to carry",
+  "slug": "to-carry",
+  "file": "to-carry.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to catch",
+  "slug": "to-catch",
+  "file": "to-catch.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to clean",
+  "slug": "to-clean",
+  "file": "to-clean.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to close",
+  "slug": "to-close",
+  "file": "to-close.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to cook",
+  "slug": "to-cook",
+  "file": "to-cook.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "cool",
+  "slug": "cool",
+  "file": "cool.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to count",
+  "slug": "to-count",
+  "file": "to-count.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "crowd",
+  "slug": "crowd",
+  "file": "crowd.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to cry",
+  "slug": "to-cry",
+  "file": "to-cry.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to cut",
+  "slug": "to-cut",
+  "file": "to-cut.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to dance",
+  "slug": "to-dance",
+  "file": "to-dance.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "date",
+  "slug": "date",
+  "file": "date.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to die",
+  "slug": "to-die",
+  "file": "to-die.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "deep",
+  "slug": "deep",
+  "file": "deep.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to dig",
+  "slug": "to-dig",
+  "file": "to-dig.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to draw",
+  "slug": "to-draw",
+  "file": "to-draw.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to drink",
+  "slug": "to-drink",
+  "file": "to-drink.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to drive",
+  "slug": "to-drive",
+  "file": "to-drive.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "earth",
+  "slug": "earth",
+  "file": "earth.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to eat",
+  "slug": "to-eat",
+  "file": "to-eat.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "energy",
+  "slug": "energy",
+  "file": "energy.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to exercise",
+  "slug": "to-exercise",
+  "file": "to-exercise.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to explode",
+  "slug": "to-explode",
+  "file": "to-explode.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fall",
+  "slug": "fall",
+  "file": "fall.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to fall (tumble)",
+  "slug": "to-fall-tumble",
+  "file": "to-fall-tumble.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fan",
+  "slug": "fan",
+  "file": "fan.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to feed (an animal)",
+  "slug": "to-feed-an-animal",
+  "file": "to-feed-an-animal.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fifth",
+  "slug": "fifth",
+  "file": "fifth.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to fight",
+  "slug": "to-fight",
+  "file": "to-fight.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to find",
+  "slug": "to-find",
+  "file": "to-find.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "1st",
+  "slug": "1st",
+  "file": "1st.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to fly",
+  "slug": "to-fly",
+  "file": "to-fly.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to follow",
+  "slug": "to-follow",
+  "file": "to-follow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "foot",
+  "slug": "foot",
+  "file": "foot.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "feet",
+  "slug": "feet",
+  "file": "feet.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "fourth",
+  "slug": "fourth",
+  "file": "fourth.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "glass",
+  "slug": "glass",
+  "file": "glass.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to go",
+  "slug": "to-go",
+  "file": "to-go.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to grow",
+  "slug": "to-grow",
+  "file": "to-grow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to hang up",
+  "slug": "to-hang-up",
+  "file": "to-hang-up.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "he",
+  "slug": "he",
+  "file": "he.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to hear",
+  "slug": "to-hear",
+  "file": "to-hear.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "high",
+  "slug": "high",
+  "file": "high.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "i (formal",
+  "slug": "i-formal",
+  "file": "i-formal.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "instrument",
+  "slug": "instrument",
+  "file": "instrument.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to jump",
+  "slug": "to-jump",
+  "file": "to-jump.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to kill",
+  "slug": "to-kill",
+  "file": "to-kill.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to kiss",
+  "slug": "to-kiss",
+  "file": "to-kiss.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to laugh",
+  "slug": "to-laugh",
+  "file": "to-laugh.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to learn",
+  "slug": "to-learn",
+  "file": "to-learn.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "left",
+  "slug": "left",
+  "file": "left.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "leg",
+  "slug": "leg",
+  "file": "leg.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "letter",
+  "slug": "letter",
+  "file": "letter.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to lie down (and rest)",
+  "slug": "to-lie-down-and-rest",
+  "file": "to-lie-down-and-rest.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to lift up",
+  "slug": "to-lift-up",
+  "file": "to-lift-up.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to lock",
+  "slug": "to-lock",
+  "file": "to-lock.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "long (distance",
+  "slug": "long-distance",
+  "file": "long-distance.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to lose (someone or something)",
+  "slug": "to-lose-someone-or-something",
+  "file": "to-lose-someone-or-something.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to love",
+  "slug": "to-love",
+  "file": "to-love.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "low",
+  "slug": "low",
+  "file": "low.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to marry",
+  "slug": "to-marry",
+  "file": "to-marry.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to melt",
+  "slug": "to-melt",
+  "file": "to-melt.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to mix",
+  "slug": "to-mix",
+  "file": "to-mix.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "month-long period",
+  "slug": "month-long-period",
+  "file": "month-long-period.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "night",
+  "slug": "night",
+  "file": "night.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "note",
+  "slug": "note",
+  "file": "note.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "old (thing)",
+  "slug": "old-thing",
+  "file": "old-thing.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "old",
+  "slug": "old",
+  "file": "old.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to paint",
+  "slug": "to-paint",
+  "file": "to-paint.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "park",
+  "slug": "park",
+  "file": "park.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to pass",
+  "slug": "to-pass",
+  "file": "to-pass.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to pay",
+  "slug": "to-pay",
+  "file": "to-pay.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "piece",
+  "slug": "piece",
+  "file": "piece.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to play",
+  "slug": "to-play",
+  "file": "to-play.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "player",
+  "slug": "player",
+  "file": "player.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "pound",
+  "slug": "pound",
+  "file": "pound.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to pray",
+  "slug": "to-pray",
+  "file": "to-pray.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "program",
+  "slug": "program",
+  "file": "program.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to pull",
+  "slug": "to-pull",
+  "file": "to-pull.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to push",
+  "slug": "to-push",
+  "file": "to-push.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "race",
+  "slug": "race",
+  "file": "race.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to race",
+  "slug": "to-race",
+  "file": "to-race.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "right",
+  "slug": "right",
+  "file": "right.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "room",
+  "slug": "room",
+  "file": "room.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to run",
+  "slug": "to-run",
+  "file": "to-run.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "second",
+  "slug": "second",
+  "file": "second.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to see",
+  "slug": "to-see",
+  "file": "to-see.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to sell",
+  "slug": "to-sell",
+  "file": "to-sell.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sex",
+  "slug": "sex",
+  "file": "sex.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to have sex",
+  "slug": "to-have-sex",
+  "file": "to-have-sex.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to shake",
+  "slug": "to-shake",
+  "file": "to-shake.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "she",
+  "slug": "she",
+  "file": "she.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to shoot (at)",
+  "slug": "to-shoot-at",
+  "file": "to-shoot-at.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "short",
+  "slug": "short",
+  "file": "short.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "autograph",
+  "slug": "autograph",
+  "file": "autograph.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to sing",
+  "slug": "to-sing",
+  "file": "to-sing.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to sit",
+  "slug": "to-sit",
+  "file": "to-sit.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to sleep",
+  "slug": "to-sleep",
+  "file": "to-sleep.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to smell",
+  "slug": "to-smell",
+  "file": "to-smell.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to smile (also laugh)",
+  "slug": "to-smile-also-laugh",
+  "file": "to-smile-also-laugh.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to speak",
+  "slug": "to-speak",
+  "file": "to-speak.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to say",
+  "slug": "to-say",
+  "file": "to-say.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "spring",
+  "slug": "spring",
+  "file": "spring.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to stand",
+  "slug": "to-stand",
+  "file": "to-stand.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to stop (moving)",
+  "slug": "to-stop-moving",
+  "file": "to-stop-moving.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "straight",
+  "slug": "straight",
+  "file": "straight.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to swim",
+  "slug": "to-swim",
+  "file": "to-swim.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to taste",
+  "slug": "to-taste",
+  "file": "to-taste.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to teach",
+  "slug": "to-teach",
+  "file": "to-teach.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "temperature",
+  "slug": "temperature",
+  "file": "temperature.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "thin",
+  "slug": "thin",
+  "file": "thin.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to think",
+  "slug": "to-think",
+  "file": "to-think.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "third",
+  "slug": "third",
+  "file": "third.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to throw (e.g. a ball)",
+  "slug": "to-throw-e-g-a-ball",
+  "file": "to-throw-e-g-a-ball.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "ticket",
+  "slug": "ticket",
+  "file": "ticket.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "tire",
+  "slug": "tire",
+  "file": "tire.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "toe",
+  "slug": "toe",
+  "file": "toe.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to touch",
+  "slug": "to-touch",
+  "file": "to-touch.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to turn",
+  "slug": "to-turn",
+  "file": "to-turn.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to get up",
+  "slug": "to-get-up",
+  "file": "to-get-up.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to walk",
+  "slug": "to-walk",
+  "file": "to-walk.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to wash",
+  "slug": "to-wash",
+  "file": "to-wash.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to wear (from the shoulders down)",
+  "slug": "to-wear-from-the-shoulders-down",
+  "file": "to-wear-from-the-shoulders-down.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to get wet",
+  "slug": "to-get-wet",
+  "file": "to-get-wet.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to win",
+  "slug": "to-win",
+  "file": "to-win.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to work",
+  "slug": "to-work",
+  "file": "to-work.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to write",
+  "slug": "to-write",
+  "file": "to-write.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "yard",
+  "slug": "yard",
+  "file": "yard.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "clean",
+  "slug": "clean",
+  "file": "clean.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "building",
+  "slug": "building",
+  "file": "building.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "contract",
+  "slug": "contract",
+  "file": "contract.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sky",
+  "slug": "sky",
+  "file": "sky.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "slow",
+  "slug": "slow",
+  "file": "slow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "small",
+  "slug": "small",
+  "file": "small.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "snow",
+  "slug": "snow",
+  "file": "snow.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "soap",
+  "slug": "soap",
+  "file": "soap.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "soft",
+  "slug": "soft",
+  "file": "soft.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "soil",
+  "slug": "soil",
+  "file": "soil.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "soldier",
+  "slug": "soldier",
+  "file": "soldier.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "son",
+  "slug": "son",
+  "file": "son.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "song",
+  "slug": "song",
+  "file": "song.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sound",
+  "slug": "sound",
+  "file": "sound.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "south",
+  "slug": "south",
+  "file": "south.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "outerspace",
+  "slug": "outerspace",
+  "file": "outerspace.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "sport",
+  "slug": "sport",
+  "file": "sport.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "square",
+  "slug": "square",
+  "file": "square.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "stain",
+  "slug": "stain",
+  "file": "stain.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "star",
+  "slug": "star",
+  "file": "star.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "stone",
+  "slug": "stone",
+  "file": "stone.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "shop",
+  "slug": "shop",
+  "file": "shop.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "wednesday",
+  "slug": "wednesday",
+  "file": "wednesday.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
+ },
+ {
+  "en": "to open",
+  "slug": "to-open",
+  "file": "to-open.jpg",
+  "category": "",
+  "status": "ok",
+  "source": "ai:openrouter:nano-lite",
+  "curated": "word625-gen-images",
+  "prompt_style": "jp-anchored"
  }
 ]

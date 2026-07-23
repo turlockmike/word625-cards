@@ -2,6 +2,7 @@
 # Index — /home/mike/projects/word625-cards/media
 
 ## Subfolders
+- **audio/**
 - **img/**
 
-_1 subfolders, 0 files._
+_2 subfolders, 0 files._

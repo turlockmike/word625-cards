@@ -1,0 +1,2346 @@
+{
+ "adjective": {
+  "romaji": "keiyoushi",
+  "anchor": "A cheerful Japanese child gesturing between a big fluffy cat and a tiny kitten, showing a size contrast"
+ },
+ "airport": {
+  "romaji": "kuukou",
+  "anchor": "A bright Japanese airport terminal with a passenger jet at the gate and Mount Fuji in the distance"
+ },
+ "apple": {
+  "romaji": "ringo",
+  "anchor": "A glossy deep-red Japanese Aomori apple with a small green leaf, on a wooden table"
+ },
+ "art": {
+  "romaji": "bijutsu",
+  "anchor": "A framed Japanese ukiyo-e style wave painting displayed on a wooden easel"
+ },
+ "baby": {
+  "romaji": "akachan",
+  "anchor": "A chubby cheerful Japanese baby wrapped in a soft blanket, smiling brightly"
+ },
+ "ball": {
+  "romaji": "booru",
+  "anchor": "A brightly colored rubber ball bouncing as a Japanese child reaches for it"
+ },
+ "bathroom": {
+  "romaji": "otearai",
+  "anchor": "A clean Japanese home toilet room with a modern washlet toilet and a pair of slippers"
+ },
+ "bed": {
+  "romaji": "beddo",
+  "anchor": "A cozy bed with a soft pillow and a folded blanket in a bright Japanese bedroom"
+ },
+ "beverage": {
+  "romaji": "nomimono",
+  "anchor": "A cup of Japanese green tea and a bottled cold drink resting on a wooden tray"
+ },
+ "billion": {
+  "romaji": "juuoku",
+  "anchor": "An enormous mountain of tiny golden koban coins, too many to count, sparkling"
+ },
+ "blood": {
+  "romaji": "ketsueki",
+  "anchor": "A friendly cartoon red blood-drop character with a happy face, giving a thumbs up"
+ },
+ "bone": {
+  "romaji": "hone",
+  "anchor": "A clean white cartoon bone, the kind a happy Shiba Inu would chew"
+ },
+ "box": {
+  "romaji": "hako",
+  "anchor": "A plain cardboard box with its flaps open, sitting on a tatami floor"
+ },
+ "breakfast": {
+  "romaji": "asagohan",
+  "anchor": "A traditional Japanese breakfast of rice, grilled fish, miso soup, and pickles on a tray"
+ },
+ "brown": {
+  "romaji": "chairo",
+  "anchor": "A cute chestnut-brown tanuki raccoon-dog statue with a round belly"
+ },
+ "camera": {
+  "romaji": "kamera",
+  "anchor": "A classic camera with a big round lens, held up ready to take a photo"
+ },
+ "cat": {
+  "romaji": "neko",
+  "anchor": "A plump calico Japanese bobtail cat with a short stubby tail, sitting contentedly"
+ },
+ "chair": {
+  "romaji": "isu",
+  "anchor": "A simple wooden chair with a soft cushion in a bright Japanese room"
+ },
+ "child": {
+  "romaji": "kodomo",
+  "anchor": "A happy Japanese child in a school uniform, waving cheerfully"
+ },
+ "clay": {
+  "romaji": "nendo",
+  "anchor": "A child's hands shaping colorful modeling clay into a little figure on a table"
+ },
+ "coat": {
+  "romaji": "kooto",
+  "anchor": "A warm winter coat hanging on a hook by a Japanese entryway"
+ },
+ "computer": {
+  "romaji": "konpyuutaa",
+  "anchor": "A desktop computer with a monitor and keyboard on a tidy wooden desk"
+ },
+ "coin": {
+  "romaji": "kouka",
+  "anchor": "A shiny golden five-yen coin with a hole in its center, resting on a wooden surface"
+ },
+ "court": {
+  "romaji": "saibansho",
+  "anchor": "A grand Japanese courthouse building with tall columns under a friendly blue sky"
+ },
+ "dark": {
+  "romaji": "kurai",
+  "anchor": "A cozy dark night scene with a single glowing paper lantern lighting a Japanese garden"
+ },
+ "december": {
+  "romaji": "juunigatsu",
+  "anchor": "A snowy December scene with a Japanese house, warm window lights, and falling snow"
+ },
+ "dirty": {
+  "romaji": "kitanai",
+  "anchor": "A cheerful Japanese child with muddy hands and a smudged face after playing outside"
+ },
+ "dollar": {
+  "romaji": "doru",
+  "anchor": "A cheerful golden coin embossed with a dollar sign, shining brightly"
+ },
+ "dream": {
+  "romaji": "yume",
+  "anchor": "A sleeping Japanese child with a floating thought bubble showing a fluffy cloud and stars"
+ },
+ "dust": {
+  "romaji": "hokori",
+  "anchor": "A sunbeam in a quiet room with tiny dust motes floating, a feather duster nearby"
+ },
+ "egg": {
+  "romaji": "tamago",
+  "anchor": "A single smooth white egg resting in a small blue ceramic bowl"
+ },
+ "electronic-device": {
+  "romaji": "denshikiki",
+  "anchor": "A small handheld electronic gadget with buttons and a softly glowing screen"
+ },
+ "expensive": {
+  "romaji": "takai",
+  "anchor": "A sparkling shiny golden wristwatch resting on a plush velvet cushion"
+ },
+ "famous": {
+  "romaji": "yuumei (na)",
+  "anchor": "A cheerful star figure on a red carpet with sparkling camera flashes all around"
+ },
+ "father": {
+  "romaji": "otousan",
+  "anchor": "A kind Japanese father smiling warmly and holding his child's hand"
+ },
+ "fifty": {
+  "romaji": "gojuu",
+  "anchor": "A big cheerful cluster of about fifty tiny folded origami cranes"
+ },
+ "floor": {
+  "romaji": "yuka",
+  "anchor": "A polished wooden Japanese floor with a tatami mat and a single sitting cushion"
+ },
+ "fork": {
+  "romaji": "fooku",
+  "anchor": "A shiny metal dinner fork resting on a clean white plate"
+ },
+ "friday": {
+  "romaji": "kinyoubi",
+  "anchor": "A golden sun setting over a cheerful Japanese town at the happy end of the week"
+ },
+ "garden": {
+  "romaji": "niwa",
+  "anchor": "A peaceful Japanese garden with a koi pond, a stone lantern, and a small red bridge"
+ },
+ "paper": {
+  "romaji": "kami",
+  "anchor": "A clean sheet of white origami paper, partly folded into a crane"
+ },
+ "grandmother": {
+  "romaji": "obaasan",
+  "anchor": "A kind elderly Japanese grandmother in a soft cardigan, smiling gently"
+ },
+ "ground": {
+  "romaji": "chi",
+  "anchor": "Rich brown soil with a small green sprout pushing up, in a Japanese field"
+ },
+ "happy": {
+  "romaji": "ureshii",
+  "anchor": "A Japanese child jumping with joy, arms raised high and a big smile"
+ },
+ "healthy": {
+  "romaji": "tassha (na)",
+  "anchor": "An energetic Japanese child flexing a strong arm, looking healthy and cheerful"
+ },
+ "hell": {
+  "romaji": "jigoku",
+  "anchor": "A cute friendly red oni character waving, surrounded by soft playful cartoon flames"
+ },
+ "hospital": {
+  "romaji": "byouin",
+  "anchor": "A bright modern Japanese hospital building with a red cross symbol and a friendly ambulance"
+ },
+ "house": {
+  "romaji": "ie",
+  "anchor": "A cozy traditional Japanese house with a tiled roof and sliding shoji doors"
+ },
+ "ice": {
+  "romaji": "koori",
+  "anchor": "A pile of sparkling clear ice cubes with cool blue tones in a glass bowl"
+ },
+ "inside": {
+  "romaji": "naka",
+  "anchor": "A cutaway view of a cozy Japanese house showing a child playing inside a warm room"
+ },
+ "juice": {
+  "romaji": "juusu",
+  "anchor": "A tall glass of fresh orange juice with a straw, cold and bright"
+ },
+ "kilogram": {
+  "romaji": "kiroguramu",
+  "anchor": "A shiny kitchen scale holding a round one-kilogram metal weight block"
+ },
+ "knife": {
+  "romaji": "naifu",
+  "anchor": "A kitchen knife resting safely on a wooden cutting board beside fresh vegetables"
+ },
+ "lawyer": {
+  "romaji": "bengoshi",
+  "anchor": "A friendly Japanese lawyer in a suit holding a document folder, smiling confidently"
+ },
+ "light": {
+  "romaji": "hikari",
+  "anchor": "A warm glowing paper lantern casting soft golden light in the evening"
+ },
+ "loud": {
+  "romaji": "urusai",
+  "anchor": "A child happily banging a big taiko drum, with cheerful sound ripples in the air"
+ },
+ "man": {
+  "romaji": "otoko no hito",
+  "anchor": "A friendly Japanese man in casual clothes, smiling and waving"
+ },
+ "town-market": {
+  "romaji": "ichiba",
+  "anchor": "A lively Japanese street market with stalls of fresh fish and vegetables under awnings"
+ },
+ "mean-spirited": {
+  "romaji": "ijiwaru (na)",
+  "anchor": "A child making a playful teasing face, sticking out their tongue mischievously"
+ },
+ "milk": {
+  "romaji": "miruku",
+  "anchor": "A tall glass of cold white milk beside a small Japanese glass milk bottle"
+ },
+ "money": {
+  "romaji": "okane",
+  "anchor": "A small pile of golden yen coins beside a red gama-guchi coin purse"
+ },
+ "mountain": {
+  "romaji": "yama",
+  "anchor": "Majestic Mount Fuji with a snow-capped peak under a clear blue sky"
+ },
+ "murder": {
+  "romaji": "satsujin",
+  "anchor": "A friendly cartoon detective with a magnifying glass examining a toy mystery scene"
+ },
+ "neck": {
+  "romaji": "kubi",
+  "anchor": "A cheerful Japanese child pointing at their own neck, wearing a soft scarf"
+ },
+ "new": {
+  "romaji": "atarashii",
+  "anchor": "A brand-new pair of shiny school shoes with a sparkle, fresh from the box"
+ },
+ "nineteen": {
+  "romaji": "juukyuu",
+  "anchor": "A cheerful group of nineteen small colorful candies arranged in neat rows"
+ },
+ "nose": {
+  "romaji": "hana",
+  "anchor": "A close-up of a smiling Japanese child pointing at their little button nose"
+ },
+ "ocean": {
+  "romaji": "kaiyou",
+  "anchor": "A vast deep-blue ocean with gentle waves seen from a Japanese coast under a bright sky"
+ },
+ "orange": {
+  "romaji": "orenji",
+  "anchor": "A bright orange mikan mandarin with a green leaf, peeled halfway open"
+ },
+ "paint": {
+  "romaji": "enogu",
+  "anchor": "A set of colorful watercolor paints with a brush resting on an artist's palette"
+ },
+ "peace": {
+  "romaji": "heiwa (na)",
+  "anchor": "A gentle white dove flying over a peaceful Japanese landscape with a red torii gate"
+ },
+ "photograph": {
+  "romaji": "shashin",
+  "anchor": "A printed photo of a smiling family held up in two hands"
+ },
+ "plant": {
+  "romaji": "shokubutsu",
+  "anchor": "A healthy green potted plant with broad leaves on a sunny windowsill"
+ },
+ "poison": {
+  "romaji": "doku",
+  "anchor": "A cartoon green potion bottle bubbling with a playful glow and a warning symbol"
+ },
+ "pork": {
+  "romaji": "butaniku",
+  "anchor": "A plate of golden crispy tonkatsu breaded pork cutlet with shredded cabbage"
+ },
+ "prison": {
+  "romaji": "keimusho",
+  "anchor": "A cartoon building with barred windows and a friendly guard, simple and not scary"
+ },
+ "rain": {
+  "romaji": "ame",
+  "anchor": "A Japanese child holding a colorful umbrella in gentle falling rain, with puddles"
+ },
+ "restaurant": {
+  "romaji": "resutoran",
+  "anchor": "A cozy Japanese restaurant front with a noren curtain and a glowing red lantern"
+ },
+ "river": {
+  "romaji": "kawa",
+  "anchor": "A clear river flowing over smooth stones through a green Japanese valley"
+ },
+ "salt": {
+  "romaji": "shio",
+  "anchor": "A small white mound of fine salt in a little ceramic dish"
+ },
+ "science": {
+  "romaji": "kagaku",
+  "anchor": "A child scientist in goggles peering at colorful bubbling test tubes"
+ },
+ "secretary": {
+  "romaji": "hisho",
+  "anchor": "A friendly office worker at a desk with a telephone and notebook, smiling"
+ },
+ "seventeen": {
+  "romaji": "juunana",
+  "anchor": "A cheerful arrangement of seventeen little star stickers in neat rows"
+ },
+ "shirt": {
+  "romaji": "shatsu",
+  "anchor": "A clean white collared shirt neatly folded on a table"
+ },
+ "sign": {
+  "romaji": "aizu",
+  "anchor": "A cheerful Japanese child raising one hand to give a hand signal"
+ },
+ "six": {
+  "romaji": "roku",
+  "anchor": "Exactly six colorful round dango dumplings lined up in a row"
+ },
+ "skirt": {
+  "romaji": "sukaato",
+  "anchor": "A pleated navy school-uniform skirt neatly displayed"
+ },
+ "snow": {
+  "romaji": "yuki",
+  "anchor": "A snowy Japanese village with snow-covered rooftops and a child building a snowman"
+ },
+ "soldier": {
+  "romaji": "heishi",
+  "anchor": "A friendly toy soldier figure standing at attention, cartoon style"
+ },
+ "soup": {
+  "romaji": "suupu",
+  "anchor": "A warm bowl of steaming vegetable soup on a table"
+ },
+ "sport": {
+  "romaji": "supootsu",
+  "anchor": "A Japanese child in a sports uniform kicking a soccer ball across a field"
+ },
+ "stone": {
+  "romaji": "ishi",
+  "anchor": "A smooth round grey stone resting in a raked Japanese rock garden"
+ },
+ "student": {
+  "romaji": "gakusei",
+  "anchor": "A cheerful Japanese student in a school uniform carrying a randoseru backpack"
+ },
+ "sun": {
+  "romaji": "taiyou",
+  "anchor": "A bright cheerful golden sun with radiant rays in a clear blue sky"
+ },
+ "table": {
+  "romaji": "teeburu",
+  "anchor": "A wooden dining table with a small vase of flowers on top"
+ },
+ "team": {
+  "romaji": "chiimu",
+  "anchor": "A group of Japanese children in matching sports jerseys cheering together"
+ },
+ "television": {
+  "romaji": "terebi",
+  "anchor": "A flat-screen television on a stand in a cozy living room, showing colorful shapes"
+ },
+ "thick": {
+  "romaji": "atsui",
+  "anchor": "A very thick heavy book with many pages standing upright on a desk"
+ },
+ "three": {
+  "romaji": "san",
+  "anchor": "Exactly three onigiri rice balls with nori strips, lined up in a row"
+ },
+ "tongue": {
+  "romaji": "shita",
+  "anchor": "A cheerful child playfully sticking out their bright pink tongue"
+ },
+ "town": {
+  "romaji": "machi",
+  "anchor": "A charming Japanese town street with small shops and a distant pagoda"
+ },
+ "tree": {
+  "romaji": "ki",
+  "anchor": "A tall leafy green tree with a broad canopy in a sunny Japanese park"
+ },
+ "twenty": {
+  "romaji": "nijuu",
+  "anchor": "A cheerful group of twenty small red ohajiki marbles arranged neatly"
+ },
+ "valley": {
+  "romaji": "tani",
+  "anchor": "A lush green Japanese valley between two mountains with a small river winding through"
+ },
+ "vowel": {
+  "romaji": "boin",
+  "anchor": "A cheerful child with a round open mouth singing 'ah', musical notes floating around"
+ },
+ "warm": {
+  "romaji": "atatakai",
+  "anchor": "A child snug under a warm kotatsu table blanket with a happy smile"
+ },
+ "weak": {
+  "romaji": "yowai",
+  "anchor": "A small floppy kitten looking tired and sleepy, gently held in two hands"
+ },
+ "west": {
+  "romaji": "nishi",
+  "anchor": "A golden sunset glowing in the western sky over a Japanese coastline"
+ },
+ "wind": {
+  "romaji": "kaze",
+  "anchor": "Colorful koinobori carp streamers blowing in a strong breeze against a blue sky"
+ },
+ "winter": {
+  "romaji": "fuyu",
+  "anchor": "A snowy Japanese winter scene with a child in a warm coat and bare trees"
+ },
+ "year": {
+  "romaji": "nen",
+  "anchor": "A festive Japanese New Year scene with a kadomatsu decoration and a rising sun"
+ },
+ "young": {
+  "romaji": "wakai",
+  "anchor": "A youthful energetic Japanese teenager smiling brightly"
+ },
+ "to-beat": {
+  "romaji": "naguru",
+  "anchor": "A Japanese child energetically striking a taiko drum with two wooden sticks"
+ },
+ "burn": {
+  "romaji": "yaku",
+  "anchor": "Skewers of food grilling over glowing charcoal on a small Japanese grill"
+ },
+ "to-catch": {
+  "romaji": "kyachi",
+  "anchor": "A Japanese child happily catching a ball with both hands"
+ },
+ "cool": {
+  "romaji": "kakkoii",
+  "anchor": "A stylish Japanese child in sunglasses striking a cool confident pose"
+ },
+ "to-cut": {
+  "romaji": "kiru",
+  "anchor": "A child carefully cutting colorful paper with rounded safety scissors"
+ },
+ "deep": {
+  "romaji": "fukai",
+  "anchor": "A view looking down into a deep blue well, showing great depth below"
+ },
+ "to-drive": {
+  "romaji": "unten",
+  "anchor": "A cheerful Japanese person driving a small car with both hands on the wheel"
+ },
+ "to-exercise": {
+  "romaji": "undou",
+  "anchor": "A Japanese child doing radio-taiso morning exercises, stretching both arms up"
+ },
+ "fan": {
+  "romaji": "fan",
+  "anchor": "A spinning electric desk fan with a blue blade cover, cooling the room"
+ },
+ "to-find": {
+  "romaji": "mitsukeru",
+  "anchor": "A child joyfully discovering a hidden treasure, pointing with delight"
+ },
+ "foot": {
+  "romaji": "ashi",
+  "anchor": "A close-up of a child's bare foot stepping softly onto a tatami mat"
+ },
+ "to-go": {
+  "romaji": "iku",
+  "anchor": "A Japanese child walking forward with a backpack, heading off cheerfully"
+ },
+ "to-hear": {
+  "romaji": "kiku",
+  "anchor": "A child cupping a hand to their ear, listening carefully with a smile"
+ },
+ "to-jump": {
+  "romaji": "chouyaku",
+  "anchor": "A Japanese child leaping joyfully high into the air"
+ },
+ "to-learn": {
+  "romaji": "narau",
+  "anchor": "A Japanese child at a desk studying with an open book and a pencil"
+ },
+ "to-lie-down-and-rest": {
+  "romaji": "yoko ni naru",
+  "anchor": "A child lying down comfortably on a futon, resting peacefully"
+ },
+ "to-lose-someone-or-something": {
+  "romaji": "nakusu",
+  "anchor": "A child looking puzzled with empty open hands, searching for a lost toy"
+ },
+ "to-melt": {
+  "romaji": "tokasu",
+  "anchor": "An ice cream cone melting in the warm sun, soft drips forming"
+ },
+ "note": {
+  "romaji": "nooto",
+  "anchor": "An open blank notebook with a pencil resting across its pages"
+ },
+ "to-open": {
+  "romaji": "akeru",
+  "anchor": "A child sliding open a shoji door and peeking through happily"
+ },
+ "to-pay": {
+  "romaji": "shiharau",
+  "anchor": "A hand placing yen coins onto a shop counter to pay"
+ },
+ "pound": {
+  "romaji": "pondo",
+  "anchor": "A kitchen scale weighing a heavy round object, its needle pointing high"
+ },
+ "to-push": {
+  "romaji": "osu",
+  "anchor": "A child pushing a big colorful ball forward with both hands"
+ },
+ "room": {
+  "romaji": "heya",
+  "anchor": "A cozy tatami room with a low table and soft floor cushions"
+ },
+ "to-sell": {
+  "romaji": "uru",
+  "anchor": "A friendly Japanese shopkeeper offering goods over a market stall counter"
+ },
+ "she": {
+  "romaji": "kanojo",
+  "anchor": "A friendly Japanese woman smiling warmly and gesturing toward herself"
+ },
+ "to-sing": {
+  "romaji": "utau",
+  "anchor": "A Japanese child singing happily into a microphone, mouth wide open"
+ },
+ "to-smile-also-laugh": {
+  "romaji": "warau",
+  "anchor": "A Japanese child laughing joyfully with a big open smile"
+ },
+ "to-stand": {
+  "romaji": "tatsu",
+  "anchor": "A Japanese child standing up straight and proud on a tatami floor"
+ },
+ "to-taste": {
+  "romaji": "ajiwau",
+  "anchor": "A child tasting a spoonful of food with a delighted expression"
+ },
+ "to-think": {
+  "romaji": "omou",
+  "anchor": "A child in a thoughtful pose, finger on chin, with a small thought bubble above"
+ },
+ "tire": {
+  "romaji": "taiya",
+  "anchor": "A black rubber car tire with deep treads, standing upright"
+ },
+ "to-get-up": {
+  "romaji": "okiru",
+  "anchor": "A child stretching and yawning as they wake, morning sunlight streaming in"
+ },
+ "to-get-wet": {
+  "romaji": "nureru",
+  "anchor": "A child splashing in a puddle, getting delightfully wet in the rain"
+ },
+ "yard": {
+  "romaji": "niwa",
+  "anchor": "A tidy Japanese home yard with a small garden and flat stepping stones"
+ },
+ "adult": {
+  "romaji": "otona",
+  "anchor": "A friendly grown-up Japanese man in a business suit smiling gently, standing tall"
+ },
+ "alive": {
+  "romaji": "seizen",
+  "anchor": "A cheerful Japanese child leaping with energy in a sunny garden, full of life"
+ },
+ "april": {
+  "romaji": "shigatsu",
+  "anchor": "A cherry blossom tree in full bloom with soft pink sakura petals drifting down"
+ },
+ "artist": {
+  "romaji": "geijutsuka",
+  "anchor": "A Japanese child in a beret painting at an easel with a brush and colorful paints"
+ },
+ "back": {
+  "romaji": "se",
+  "anchor": "A Japanese child seen from behind, their back to us, wearing a school uniform"
+ },
+ "banana": {
+  "romaji": "banana",
+  "anchor": "A ripe yellow banana resting on a small white plate"
+ },
+ "beach": {
+  "romaji": "umibe",
+  "anchor": "A sunny Japanese seaside beach with gentle waves and a red torii gate in the water"
+ },
+ "bedroom": {
+  "romaji": "shinshitsu",
+  "anchor": "A cozy Japanese bedroom with a futon laid out neatly on tatami mats"
+ },
+ "bicycle": {
+  "romaji": "jitensha",
+  "anchor": "A red mamachari city bicycle with a front basket parked by a wall"
+ },
+ "bird": {
+  "romaji": "tori",
+  "anchor": "A little Japanese white-eye bird perched on a blossoming plum branch"
+ },
+ "blue": {
+  "romaji": "aoi",
+  "anchor": "A deep blue traditional Japanese ceramic bowl with rich indigo glaze"
+ },
+ "book": {
+  "romaji": "hon",
+  "anchor": "An open colorful children's picture book with blank illustrated pages"
+ },
+ "boy": {
+  "romaji": "otokonoko",
+  "anchor": "A cheerful Japanese boy in a school uniform waving happily"
+ },
+ "bridge": {
+  "romaji": "hashi",
+  "anchor": "A red arched Japanese garden bridge over a calm koi pond"
+ },
+ "building": {
+  "romaji": "biru",
+  "anchor": "A tall modern Japanese city office building reaching up into a clear sky"
+ },
+ "camp": {
+  "romaji": "kyanpu",
+  "anchor": "A colorful tent pitched at a forest campsite with Mount Fuji in the distance"
+ },
+ "ceiling": {
+  "romaji": "denjō",
+  "anchor": "Looking up at the wooden-beamed ceiling of a traditional Japanese room"
+ },
+ "cheap": {
+  "romaji": "yasui",
+  "anchor": "A single coin buying a big basket brimming with fresh vegetables at a market stall"
+ },
+ "church": {
+  "romaji": "kyōkai",
+  "anchor": "A small white Christian church with a steeple and cross under a cheerful blue sky"
+ },
+ "clock": {
+  "romaji": "tokei",
+  "anchor": "A round wall clock with plain hands and small dots marking the hours"
+ },
+ "coffee": {
+  "romaji": "kōhī",
+  "anchor": "A steaming cup of coffee in a ceramic mug resting on a saucer"
+ },
+ "consonant": {
+  "romaji": "shiin",
+  "anchor": "A cheerful Japanese child pronouncing a sound with an open mouth, hand near the cheek"
+ },
+ "corn": {
+  "romaji": "tōmorokoshi",
+  "anchor": "A bright yellow ear of corn with its green husk peeled back"
+ },
+ "cow": {
+  "romaji": "ushi",
+  "anchor": "A gentle black Wagyu cow standing in a green pasture"
+ },
+ "daughter": {
+  "romaji": "ojōsan",
+  "anchor": "A cheerful young Japanese girl in a bright kimono, hands folded politely"
+ },
+ "diamond": {
+  "romaji": "daiyamondo",
+  "anchor": "A sparkling clear cut diamond gem glinting with bright light"
+ },
+ "disease": {
+  "romaji": "byōki",
+  "anchor": "A Japanese child resting cozily in bed with a cool cloth on their forehead"
+ },
+ "door": {
+  "romaji": "tobira",
+  "anchor": "A wooden Japanese-style door standing slightly ajar"
+ },
+ "dress": {
+  "romaji": "doresu",
+  "anchor": "A little Japanese girl twirling happily in a pretty frilly party dress"
+ },
+ "ear": {
+  "romaji": "mimi",
+  "anchor": "A close-up of a child's ear, clear and simple"
+ },
+ "eight": {
+  "romaji": "hachi",
+  "anchor": "Exactly eight round dango sweets arranged neatly in a row"
+ },
+ "eleven": {
+  "romaji": "jūichi",
+  "anchor": "Exactly eleven colorful folded origami cranes lined up in a row"
+ },
+ "eye": {
+  "romaji": "me",
+  "anchor": "A close-up of a child's bright shining eye"
+ },
+ "electric-fan": {
+  "romaji": "senpūki",
+  "anchor": "A retro Japanese electric fan with spinning blades on a round base"
+ },
+ "february": {
+  "romaji": "nigatsu",
+  "anchor": "A plum blossom branch with pink flowers as light snow falls in the cold"
+ },
+ "finger": {
+  "romaji": "yubi",
+  "anchor": "A child's hand with one finger pointing forward"
+ },
+ "flower": {
+  "romaji": "hana",
+  "anchor": "A single bright pink cosmos flower blooming in a sunny garden"
+ },
+ "fourty": {
+  "romaji": "yonjū",
+  "anchor": "A large group of forty tiny yellow rubber ducks gathered together"
+ },
+ "friend": {
+  "romaji": "tomodachi",
+  "anchor": "Two happy Japanese children walking together with school randoseru backpacks"
+ },
+ "gasoline": {
+  "romaji": "gasorin",
+  "anchor": "A bright red gasoline pump nozzle at a Japanese service station"
+ },
+ "gold": {
+  "romaji": "ōgon",
+  "anchor": "A stack of shiny golden oval koban coins glittering brightly"
+ },
+ "grass": {
+  "romaji": "kusa",
+  "anchor": "A close-up of fresh green grass blades in a sunny field"
+ },
+ "gun": {
+  "romaji": "jū",
+  "anchor": "A bright orange and green toy water squirt gun"
+ },
+ "hard": {
+  "romaji": "muzukashii",
+  "anchor": "A Japanese child scratching their head over a tricky puzzle, looking thoughtful"
+ },
+ "heart": {
+  "romaji": "shinzō",
+  "anchor": "A cute cartoon-style human heart organ, healthy red and rounded"
+ },
+ "hill": {
+  "romaji": "oka",
+  "anchor": "A gentle green rolling hill under a bright blue sky"
+ },
+ "hot": {
+  "romaji": "atsui",
+  "anchor": "A blazing sun over a Japanese child fanning themselves with a round uchiwa fan"
+ },
+ "human": {
+  "romaji": "ningen",
+  "anchor": "A friendly Japanese person standing and smiling, full body"
+ },
+ "image": {
+  "romaji": "zō",
+  "anchor": "A gentle stone Jizo statue in a peaceful Japanese garden"
+ },
+ "island": {
+  "romaji": "shima",
+  "anchor": "A small green Japanese island with pine trees rising from the calm blue sea"
+ },
+ "july": {
+  "romaji": "shichigatsu",
+  "anchor": "Colorful Tanabata streamers and bamboo decorations at a summer festival"
+ },
+ "king": {
+  "romaji": "ō",
+  "anchor": "A friendly king wearing a golden crown and red royal robe, smiling"
+ },
+ "lake": {
+  "romaji": "mizuumi",
+  "anchor": "A calm blue mountain lake reflecting a snow-capped Mount Fuji"
+ },
+ "leaf": {
+  "romaji": "ha",
+  "anchor": "A single red Japanese maple momiji leaf"
+ },
+ "lips": {
+  "romaji": "kuchibiru",
+  "anchor": "A close-up of smiling soft pink lips"
+ },
+ "lunch": {
+  "romaji": "hirugohan",
+  "anchor": "A colorful Japanese bento box lunch with rice, fish, and vegetables"
+ },
+ "manager": {
+  "romaji": "shihainin",
+  "anchor": "A friendly Japanese manager in a suit gesturing warmly inside a shop"
+ },
+ "marriage": {
+  "romaji": "kekkonshiki",
+  "anchor": "A Japanese bride and groom in traditional white kimono at a Shinto wedding"
+ },
+ "medicine": {
+  "romaji": "kusuri",
+  "anchor": "A small paper packet of medicine with colorful round pills beside it"
+ },
+ "one-million": {
+  "romaji": "hyakuman",
+  "anchor": "An enormous towering pile of golden coins, countless riches"
+ },
+ "moon": {
+  "romaji": "tsuki",
+  "anchor": "A bright full moon glowing over silver pampas grass on an autumn night"
+ },
+ "mouse": {
+  "romaji": "nezumi",
+  "anchor": "A tiny cute grey mouse with big ears nibbling a seed"
+ },
+ "music": {
+  "romaji": "ongaku",
+  "anchor": "A Japanese child happily plucking the strings of a koto instrument"
+ },
+ "needle": {
+  "romaji": "hari",
+  "anchor": "A shiny sewing needle with a thread passing through its eye"
+ },
+ "newspaper": {
+  "romaji": "shinbun",
+  "anchor": "A folded newspaper with plain unmarked grey columns resting on a table"
+ },
+ "ninety": {
+  "romaji": "kyūjū",
+  "anchor": "A huge scattered group of tiny colorful beads, about ninety of them"
+ },
+ "november": {
+  "romaji": "jūichigatsu",
+  "anchor": "A hillside covered in glowing red and orange autumn maple leaves"
+ },
+ "october": {
+  "romaji": "jūgatsu",
+  "anchor": "A field of pink cosmos flowers swaying under a clear autumn sky"
+ },
+ "outside": {
+  "romaji": "yagai",
+  "anchor": "A Japanese child playing happily outdoors in a sunny park"
+ },
+ "parent": {
+  "romaji": "oya",
+  "anchor": "A Japanese parent holding their small child's hand, smiling warmly"
+ },
+ "pen": {
+  "romaji": "pen",
+  "anchor": "A single blue ballpoint pen lying on a plain surface"
+ },
+ "pig": {
+  "romaji": "buta",
+  "anchor": "A cute pink pig with a curly tail standing in a farm pen"
+ },
+ "plastic": {
+  "romaji": "purasuchikku",
+  "anchor": "A colorful stack of shiny plastic containers and bottles"
+ },
+ "police": {
+  "romaji": "keisatsukan",
+  "anchor": "A friendly Japanese police officer in blue uniform standing by a koban police box"
+ },
+ "president": {
+  "romaji": "daitōryō",
+  "anchor": "A smiling leader in a dark suit standing at a podium, waving warmly"
+ },
+ "queen": {
+  "romaji": "joō",
+  "anchor": "A friendly queen wearing a jeweled crown and elegant gown, smiling"
+ },
+ "red": {
+  "romaji": "akai",
+  "anchor": "A bright red daruma doll beside a small red torii gate"
+ },
+ "rice": {
+  "romaji": "kome",
+  "anchor": "A wooden bowl full of white uncooked rice grains"
+ },
+ "roof": {
+  "romaji": "yane",
+  "anchor": "A traditional Japanese roof with grey kawara tiles curving gracefully upward"
+ },
+ "sand": {
+  "romaji": "suna",
+  "anchor": "A close-up of golden sand with a small mound and gentle ripples"
+ },
+ "screen": {
+  "romaji": "sukurīn",
+  "anchor": "A large blank white movie projection screen in a dark room"
+ },
+ "seed": {
+  "romaji": "shushi",
+  "anchor": "A small brown seed sprouting a tiny green shoot in dark soil"
+ },
+ "seventy": {
+  "romaji": "nanajū",
+  "anchor": "A large heap of tiny mandarin oranges, roughly seventy of them"
+ },
+ "shoes": {
+  "romaji": "kutsu",
+  "anchor": "A pair of children's sneakers placed neatly side by side"
+ },
+ "silver": {
+  "romaji": "gin",
+  "anchor": "A gleaming polished silver coin catching the light"
+ },
+ "sixteen": {
+  "romaji": "jūroku",
+  "anchor": "Exactly sixteen colorful candies arranged in a neat grid"
+ },
+ "sky": {
+  "romaji": "sora",
+  "anchor": "A wide blue sky with fluffy white clouds"
+ },
+ "soap": {
+  "romaji": "sekken",
+  "anchor": "A bar of soap surrounded by white bubbles and foam"
+ },
+ "son": {
+  "romaji": "musuko",
+  "anchor": "A cheerful Japanese boy standing proudly beside his father"
+ },
+ "south": {
+  "romaji": "minami",
+  "anchor": "A warm bright sun shining over swaying palm trees, a sunny southern scene"
+ },
+ "square": {
+  "romaji": "shikaku",
+  "anchor": "A perfectly square piece of bright red origami paper"
+ },
+ "shop": {
+  "romaji": "mise",
+  "anchor": "A small traditional Japanese shop with a fabric noren curtain at the entrance"
+ },
+ "sugar": {
+  "romaji": "satō",
+  "anchor": "A white bowl full of sugar with a spoon and a few sugar cubes"
+ },
+ "sunday": {
+  "romaji": "nichiyōbi",
+  "anchor": "A happy Japanese family relaxing together at home on a sunny day off"
+ },
+ "tall": {
+  "romaji": "segatakai",
+  "anchor": "A very tall Japanese basketball player standing beside a short smiling child"
+ },
+ "teardrop": {
+  "romaji": "namida",
+  "anchor": "A single glistening teardrop rolling gently down a cheek"
+ },
+ "ten": {
+  "romaji": "jū",
+  "anchor": "Exactly ten round red apples arranged in two neat rows"
+ },
+ "thirteen": {
+  "romaji": "jūsan",
+  "anchor": "Exactly thirteen colorful glass marbles gathered together"
+ },
+ "thursday": {
+  "romaji": "mokuyōbi",
+  "anchor": "A leafy green tree with strong wooden branches on a bright day"
+ },
+ "tool": {
+  "romaji": "dōgu",
+  "anchor": "A wooden-handled hammer and saw resting on a workbench"
+ },
+ "train": {
+  "romaji": "densha",
+  "anchor": "A bright green Japanese commuter train arriving at a station platform"
+ },
+ "truck": {
+  "romaji": "torakku",
+  "anchor": "A colorful delivery truck driving along a road"
+ },
+ "two": {
+  "romaji": "ni",
+  "anchor": "Exactly two onigiri rice balls with nori strips, side by side"
+ },
+ "verb": {
+  "romaji": "dōshi",
+  "anchor": "A Japanese child running energetically to show an action"
+ },
+ "waiter": {
+  "romaji": "weitā",
+  "anchor": "A friendly waiter in a vest carrying a tray of drinks"
+ },
+ "water": {
+  "romaji": "mizu",
+  "anchor": "A clear glass of fresh water with droplets on the outside"
+ },
+ "wednesday": {
+  "romaji": "suiyōbi",
+  "anchor": "Gentle water droplets rippling across a clear blue pond"
+ },
+ "white": {
+  "romaji": "shiroi",
+  "anchor": "Snow-capped Mount Fuji glowing white against a clear blue sky"
+ },
+ "window": {
+  "romaji": "mado",
+  "anchor": "A bright window with curtains looking out onto a green garden"
+ },
+ "woman": {
+  "romaji": "josei",
+  "anchor": "A friendly Japanese woman in a nice blouse smiling warmly"
+ },
+ "yellow": {
+  "romaji": "kiiiroi",
+  "anchor": "Bright yellow ginkgo leaves scattered across the ground in autumn"
+ },
+ "zero": {
+  "romaji": "zero",
+  "anchor": "A completely empty white plate with nothing on it"
+ },
+ "to-bend": {
+  "romaji": "magaru",
+  "anchor": "A Japanese child bending forward to touch their toes"
+ },
+ "to-buy": {
+  "romaji": "kau",
+  "anchor": "A Japanese child handing over a coin to buy candy at a shop counter"
+ },
+ "to-clean": {
+  "romaji": "sōji",
+  "anchor": "A Japanese child sweeping the classroom floor with a broom during cleaning time"
+ },
+ "to-count": {
+  "romaji": "kazoeru",
+  "anchor": "A Japanese child counting on their fingers with a happy focused face"
+ },
+ "to-dance": {
+  "romaji": "odoru",
+  "anchor": "A Japanese child dancing joyfully in a summer festival yukata"
+ },
+ "to-dig": {
+  "romaji": "horu",
+  "anchor": "A Japanese child digging in the sand with a small shovel"
+ },
+ "earth": {
+  "romaji": "chikyū",
+  "anchor": "The blue and green planet Earth floating peacefully in space"
+ },
+ "to-explode": {
+  "romaji": "bakuhatsu",
+  "anchor": "A colorful firework bursting brightly across the night sky"
+ },
+ "to-feed-an-animal": {
+  "romaji": "kyūji",
+  "anchor": "A Japanese child feeding a carrot to a gentle fluffy rabbit"
+ },
+ "1st": {
+  "romaji": "tsuitachi",
+  "anchor": "A fresh new calendar page with a single red circle at the top corner"
+ },
+ "feet": {
+  "romaji": "fīto",
+  "anchor": "A long wooden measuring ruler laid beside a stack of blocks"
+ },
+ "to-grow": {
+  "romaji": "hayasu",
+  "anchor": "A Japanese child watering a plant growing tall in a pot"
+ },
+ "high": {
+  "romaji": "takai",
+  "anchor": "A tall Japanese pagoda reaching high into the sky"
+ },
+ "to-kill": {
+  "romaji": "korosu",
+  "anchor": "A playful cartoon of a child gently shooing a tiny bug away with a fan"
+ },
+ "left": {
+  "romaji": "hidari",
+  "anchor": "A Japanese child pointing to the left with their arm outstretched"
+ },
+ "to-lift-up": {
+  "romaji": "mochiageru",
+  "anchor": "A Japanese child lifting a big box with both arms, straining happily"
+ },
+ "to-love": {
+  "romaji": "aisu",
+  "anchor": "A Japanese parent hugging their child lovingly with a warm smile"
+ },
+ "to-mix": {
+  "romaji": "mazeru",
+  "anchor": "A Japanese child mixing batter in a bowl with a whisk"
+ },
+ "oil": {
+  "romaji": "sekiyu",
+  "anchor": "The classic red plastic Japanese kerosene tank next to a small winter heater with a warm glow"
+ },
+ "to-paint": {
+  "romaji": "egaku",
+  "anchor": "A Japanese child painting a colorful picture on paper with a brush"
+ },
+ "piece": {
+  "romaji": "ikko",
+  "anchor": "A single piece of wrapped candy sitting alone on a plate"
+ },
+ "to-pray": {
+  "romaji": "inoru",
+  "anchor": "A Japanese child praying with hands pressed together at a Shinto shrine"
+ },
+ "race": {
+  "romaji": "minzoku",
+  "anchor": "A cheerful group of people in traditional folk costumes standing together"
+ },
+ "to-run": {
+  "romaji": "hashiru",
+  "anchor": "A Japanese child running fast on a school track, arms pumping"
+ },
+ "sex": {
+  "romaji": "seibetsu",
+  "anchor": "A cheerful boy and girl standing side by side, showing boy and girl"
+ },
+ "to-shoot-at": {
+  "romaji": "utsu",
+  "anchor": "A Japanese child aiming a toy bow and arrow at a round target"
+ },
+ "to-sit": {
+  "romaji": "suwaru",
+  "anchor": "A Japanese child sitting politely in seiza on a tatami mat"
+ },
+ "to-speak": {
+  "romaji": "hanasu",
+  "anchor": "A Japanese child talking cheerfully with an open mouth and expressive hands"
+ },
+ "to-stop-moving": {
+  "romaji": "tomaru",
+  "anchor": "A Japanese child standing still with a hand raised, stopping at a crossing"
+ },
+ "to-teach": {
+  "romaji": "oshieru",
+  "anchor": "A friendly Japanese teacher pointing at a plain board, explaining to attentive students"
+ },
+ "third": {
+  "romaji": "mikka",
+  "anchor": "Three small red circles gently marked on a fresh calendar page"
+ },
+ "toe": {
+  "romaji": "yubi",
+  "anchor": "A close-up of a child's bare foot with wiggling toes"
+ },
+ "to-walk": {
+  "romaji": "aruku",
+  "anchor": "A Japanese child walking cheerfully down a path, caught mid-step"
+ },
+ "to-win": {
+  "romaji": "katsu",
+  "anchor": "A Japanese child raising a shiny trophy in victory with a big smile"
+ },
+ "clean": {
+  "romaji": "seiketsu",
+  "anchor": "A sparkling clean tidy Japanese room with everything neat and shining"
+ },
+ "afternoon": {
+  "romaji": "gogo",
+  "anchor": "A warm afternoon sun high over a Japanese neighborhood of tiled-roof houses and a quiet street"
+ },
+ "animal": {
+  "romaji": "doubutsu",
+  "anchor": "A cheerful tanuki raccoon dog standing in a sunny Japanese forest clearing"
+ },
+ "hand": {
+  "romaji": "te",
+  "anchor": "A Japanese child's open hand held up, palm forward, in a friendly wave"
+ },
+ "august": {
+  "romaji": "hachigatsu",
+  "anchor": "A colorful summer matsuri festival scene with a paper lantern and a child in a yukata"
+ },
+ "bad": {
+  "romaji": "warui",
+  "anchor": "A single wilted, bruised apple looking spoiled beside a fresh shiny one for contrast"
+ },
+ "band": {
+  "romaji": "bando",
+  "anchor": "A cheerful group of Japanese children playing instruments together as a school music band"
+ },
+ "beard": {
+  "romaji": "hige",
+  "anchor": "A friendly older Japanese man with a neat white beard, smiling gently"
+ },
+ "beef": {
+  "romaji": "gyuuniku",
+  "anchor": "A plate of thinly sliced wagyu beef arranged for sukiyaki on a Japanese table"
+ },
+ "big": {
+  "romaji": "ookii",
+  "anchor": "A giant sumo wrestler standing beside a tiny child, showing a big size difference"
+ },
+ "black": {
+  "romaji": "kuroi",
+  "anchor": "A glossy black lacquered Japanese bento box shining on a tatami mat"
+ },
+ "boat": {
+  "romaji": "booto",
+  "anchor": "A small wooden rowboat floating on a calm Japanese lake near a red torii"
+ },
+ "bottle": {
+  "romaji": "bin",
+  "anchor": "A clear glass Ramune soda bottle with its marble stopper, sitting on a table"
+ },
+ "brain": {
+  "romaji": "nou",
+  "anchor": "A soft pink cartoon brain shape held gently in cupped hands, cheerful and simple"
+ },
+ "older-brother": {
+  "romaji": "oniisan",
+  "anchor": "A kind Japanese teenage boy in a school uniform smiling beside his younger sibling"
+ },
+ "bus": {
+  "romaji": "basu",
+  "anchor": "A cute rounded Japanese city bus in bright colors driving down a town street"
+ },
+ "car": {
+  "romaji": "kuruma",
+  "anchor": "A small boxy Japanese kei car parked on a narrow neighborhood street"
+ },
+ "cell-phone": {
+  "romaji": "keitai denwa",
+  "anchor": "A Japanese child holding up a colorful smartphone with a cute dangling strap charm"
+ },
+ "cheese": {
+  "romaji": "chiizu",
+  "anchor": "A bright yellow wedge of cheese on a small white plate, cheerful and simple"
+ },
+ "circle": {
+  "romaji": "maru",
+  "anchor": "A big bold red circle drawn cleanly on white paper, like a maru mark"
+ },
+ "clothes": {
+  "romaji": "fuku",
+  "anchor": "A colorful set of children's clothes hanging on a line in a Japanese garden"
+ },
+ "cold": {
+  "romaji": "samui",
+  "anchor": "A Japanese child bundled in a warm coat and scarf, shivering in falling snow"
+ },
+ "contract": {
+  "romaji": "keiyaku",
+  "anchor": "Two friendly Japanese businesspeople shaking hands over a blank document on an office desk"
+ },
+ "corner": {
+  "romaji": "sumi",
+  "anchor": "A cute cat curled up in the corner of a tatami room where two walls meet"
+ },
+ "cup": {
+  "romaji": "kappu",
+  "anchor": "A colorful cup resting on a saucer on a Japanese kitchen table"
+ },
+ "day": {
+  "romaji": "hi",
+  "anchor": "A bright round sun rising over a Japanese village, marking a new day"
+ },
+ "dinner": {
+  "romaji": "bangohan",
+  "anchor": "A cozy Japanese dinner of rice, miso soup, and grilled fish on a low table"
+ },
+ "doctor": {
+  "romaji": "isha",
+  "anchor": "A kind Japanese doctor in a white coat with a stethoscope, smiling warmly"
+ },
+ "dot": {
+  "romaji": "ten",
+  "anchor": "A single small round red dot in the center of a clean white square"
+ },
+ "drug": {
+  "romaji": "yakuzai",
+  "anchor": "A small packet of colorful medicine pills beside a glass of water on a table"
+ },
+ "east": {
+  "romaji": "higashi",
+  "anchor": "The sun rising in the east over Mount Fuji, glowing warm on the horizon"
+ },
+ "eighteen": {
+  "romaji": "juuhachi",
+  "anchor": "Exactly eighteen tiny cute pink mochi arranged in neat little rows"
+ },
+ "engine": {
+  "romaji": "enjin",
+  "anchor": "The shiny sleek nose engine of a Japanese bullet train, gleaming and detailed"
+ },
+ "face": {
+  "romaji": "kao",
+  "anchor": "The smiling round face of a cheerful Japanese child looking straight ahead"
+ },
+ "farm": {
+  "romaji": "bokujou",
+  "anchor": "A green Japanese countryside ranch with grazing cows and a red barn near mountains"
+ },
+ "female": {
+  "romaji": "onna",
+  "anchor": "A friendly Japanese woman in a colorful kimono smiling gently"
+ },
+ "fire": {
+  "romaji": "hi",
+  "anchor": "A warm crackling campfire glowing bright orange in the evening"
+ },
+ "food": {
+  "romaji": "tabemono",
+  "anchor": "An assortment of colorful Japanese foods like sushi and onigiri on a wooden tray"
+ },
+ "four": {
+  "romaji": "yon",
+  "anchor": "Exactly four cute onigiri rice balls with nori strips lined up in a row"
+ },
+ "front": {
+  "romaji": "zenbu",
+  "anchor": "A happy Japanese child gesturing proudly at a full complete collection of every toy gathered together"
+ },
+ "gift": {
+  "romaji": "okurimono",
+  "anchor": "A beautifully wrapped Japanese gift in elegant furoshiki cloth tied with a ribbon"
+ },
+ "good": {
+  "romaji": "ii",
+  "anchor": "A cheerful Japanese child giving a big thumbs-up with a bright smile"
+ },
+ "gray": {
+  "romaji": "haiiro",
+  "anchor": "A smooth gray stone lantern standing in a peaceful Japanese garden"
+ },
+ "hair": {
+  "romaji": "kami",
+  "anchor": "A Japanese girl with long glossy black hair, neatly brushed, smiling"
+ },
+ "hat": {
+  "romaji": "boushi",
+  "anchor": "A bright yellow Japanese school hat sitting neatly on a child's head"
+ },
+ "heaven": {
+  "romaji": "tengoku",
+  "anchor": "Soft fluffy white clouds glowing golden in a bright blue sky, peaceful and dreamy"
+ },
+ "hole": {
+  "romaji": "ana",
+  "anchor": "A round hole in a grassy field with a curious mole peeking out"
+ },
+ "hotel": {
+  "romaji": "hoteru",
+  "anchor": "A cozy traditional Japanese ryokan inn with a wooden facade and warm glowing lanterns"
+ },
+ "hundred": {
+  "romaji": "hyaku",
+  "anchor": "A huge cheerful heap of one hundred tiny colorful round candies piled together"
+ },
+ "inch": {
+  "romaji": "inchi",
+  "anchor": "A wooden ruler measuring a tiny snail, showing a small short length"
+ },
+ "january": {
+  "romaji": "ichigatsu",
+  "anchor": "A Japanese New Year scene with a kadomatsu pine decoration and gently falling snow"
+ },
+ "june": {
+  "romaji": "rokugatsu",
+  "anchor": "A rainy June day with blue hydrangea flowers and a child holding a clear umbrella"
+ },
+ "kitchen": {
+  "romaji": "daidokoro",
+  "anchor": "A cozy Japanese home kitchen with a rice cooker and a neat tidy counter"
+ },
+ "lamp": {
+  "romaji": "ranpu",
+  "anchor": "A warm glowing paper lantern lamp softly lighting a Japanese room"
+ },
+ "lemon": {
+  "romaji": "remon",
+  "anchor": "A bright yellow lemon with a fresh green leaf resting on a white plate"
+ },
+ "location": {
+  "romaji": "basho",
+  "anchor": "A tall red map pin marking a spot on a Japanese town street"
+ },
+ "magazine": {
+  "romaji": "zasshi",
+  "anchor": "A colorful glossy magazine lying open on a table with bright blank pages"
+ },
+ "map": {
+  "romaji": "chizu",
+  "anchor": "A colorful illustrated map of a Japanese town with tiny unlabeled roads and buildings"
+ },
+ "material": {
+  "romaji": "zairyou",
+  "anchor": "Fresh cooking ingredients like vegetables and tofu laid out on a Japanese cutting board"
+ },
+ "metal": {
+  "romaji": "kinzoku",
+  "anchor": "A shiny stack of silver metal bars gleaming brightly under light"
+ },
+ "minute": {
+  "romaji": "fun",
+  "anchor": "A round wall clock with plain hands on a clean unmarked face in a Japanese room"
+ },
+ "morning": {
+  "romaji": "asa",
+  "anchor": "A fresh Japanese morning with sunrise over rice paddies and misty green hills"
+ },
+ "mouth": {
+  "romaji": "kuchi",
+  "anchor": "A Japanese child opening their mouth wide with a happy cheerful smile"
+ },
+ "narrow": {
+  "romaji": "semai",
+  "anchor": "A very narrow alley squeezed between two traditional Japanese wooden houses"
+ },
+ "neighbor": {
+  "romaji": "rinjin",
+  "anchor": "Two friendly Japanese neighbors greeting each other over a low garden fence"
+ },
+ "nice": {
+  "romaji": "shinsetsu na",
+  "anchor": "A kind Japanese child gently helping an elderly person cross the street"
+ },
+ "no": {
+  "romaji": "iie",
+  "anchor": "A Japanese child crossing their arms into an X shape to signal no"
+ },
+ "nuclear": {
+  "romaji": "kaku na",
+  "anchor": "A friendly glowing atom model with colorful orbiting spheres, cheerful and simple"
+ },
+ "office": {
+  "romaji": "jimusho",
+  "anchor": "A tidy Japanese office with desks, a computer, and a smiling worker"
+ },
+ "page": {
+  "romaji": "peeji",
+  "anchor": "A hand turning a blank page of an open book resting on a table"
+ },
+ "patient": {
+  "romaji": "kanja",
+  "anchor": "A Japanese child resting in a hospital bed with a friendly bandage and a brave smile"
+ },
+ "pencil": {
+  "romaji": "enpitsu",
+  "anchor": "A freshly sharpened yellow pencil resting on a blank Japanese school notebook"
+ },
+ "pink": {
+  "romaji": "pinku",
+  "anchor": "A branch of soft pink sakura cherry blossoms in full bloom"
+ },
+ "plate": {
+  "romaji": "sara",
+  "anchor": "An empty round ceramic plate with a delicate blue Japanese pattern on a table"
+ },
+ "pool": {
+  "romaji": "puuru",
+  "anchor": "Japanese children happily splashing in a bright blue school swimming pool"
+ },
+ "price": {
+  "romaji": "kakaku",
+  "anchor": "A small blank price tag hanging from a cute item in a Japanese shop"
+ },
+ "quiet": {
+  "romaji": "shizuka na",
+  "anchor": "A peaceful quiet Japanese zen garden with raked sand and a single smooth stone"
+ },
+ "religion": {
+  "romaji": "shuukyou",
+  "anchor": "A serene Japanese Shinto shrine with a red torii gate among green trees"
+ },
+ "rich": {
+  "romaji": "yutaka na",
+  "anchor": "A bountiful harvest of golden rice and ripe fruit piled abundantly together"
+ },
+ "root": {
+  "romaji": "kongen",
+  "anchor": "The thick gnarled roots of an old pine tree spreading deep into the earth"
+ },
+ "saturday": {
+  "romaji": "doyoubi",
+  "anchor": "Japanese children happily playing together in a sunny park on a weekend day"
+ },
+ "sea": {
+  "romaji": "umi",
+  "anchor": "A sparkling blue Japanese sea with gentle waves and a distant rocky island"
+ },
+ "september": {
+  "romaji": "kugatsu",
+  "anchor": "An autumn moon-viewing scene with pampas grass and round dango under a full moon"
+ },
+ "shallow": {
+  "romaji": "asai",
+  "anchor": "A child wading in a shallow clear stream, water just over their ankles"
+ },
+ "shoulder": {
+  "romaji": "kata",
+  "anchor": "A Japanese child in a school uniform pointing to their shoulder"
+ },
+ "older-sister": {
+  "romaji": "oneesan",
+  "anchor": "A kind Japanese teenage girl in a school uniform smiling beside her younger sibling"
+ },
+ "sixty": {
+  "romaji": "rokujuu",
+  "anchor": "A big cheerful heap of exactly sixty tiny colorful candies grouped together"
+ },
+ "slow": {
+  "romaji": "osoi",
+  "anchor": "A slow snail creeping along a mossy Japanese garden path"
+ },
+ "soft": {
+  "romaji": "yawarakai",
+  "anchor": "A soft fluffy white mochi being gently squished between two fingers"
+ },
+ "song": {
+  "romaji": "uta",
+  "anchor": "A Japanese child singing happily with cheerful musical notes floating around"
+ },
+ "outerspace": {
+  "romaji": "uchuu",
+  "anchor": "A starry outer space scene with colorful planets and a bright shooting star"
+ },
+ "stain": {
+  "romaji": "shimi",
+  "anchor": "A small brown coffee stain spreading on a clean white tablecloth"
+ },
+ "street": {
+  "romaji": "michi",
+  "anchor": "A quiet Japanese neighborhood street lined with tiled-roof houses"
+ },
+ "suit": {
+  "romaji": "suutsu",
+  "anchor": "A Japanese businessman wearing a neat dark suit, smiling confidently"
+ },
+ "sweat": {
+  "romaji": "ase",
+  "anchor": "A Japanese child wiping sweat from their forehead after playing in the summer heat"
+ },
+ "tea": {
+  "romaji": "ocha",
+  "anchor": "A steaming cup of green matcha tea in a traditional Japanese chawan bowl"
+ },
+ "technology": {
+  "romaji": "gijutsu",
+  "anchor": "A friendly Japanese robot with glowing buttons, cheerful and modern"
+ },
+ "movie-theater": {
+  "romaji": "eigakan",
+  "anchor": "A cozy Japanese movie theater with red seats facing a big glowing screen"
+ },
+ "thirty": {
+  "romaji": "sanjuu",
+  "anchor": "A cheerful heap of exactly thirty tiny colorful candies grouped together"
+ },
+ "tight": {
+  "romaji": "kyuukutsu na",
+  "anchor": "Many Japanese commuters packed tightly together inside a crowded train car"
+ },
+ "tooth": {
+  "romaji": "ha",
+  "anchor": "A big shiny white tooth with a happy smiling face, cartoon style"
+ },
+ "train-station": {
+  "romaji": "eki",
+  "anchor": "A bright Japanese train station platform with a sleek bullet train arriving"
+ },
+ "tuesday": {
+  "romaji": "kayoubi",
+  "anchor": "Japanese schoolchildren walking to school together on a bright weekday morning"
+ },
+ "university": {
+  "romaji": "daigaku",
+  "anchor": "A grand Japanese university building with students in uniforms walking past"
+ },
+ "victim": {
+  "romaji": "giseisha",
+  "anchor": "A Japanese child with a small bandage on their knee being comforted kindly"
+ },
+ "wall": {
+  "romaji": "kabe",
+  "anchor": "A traditional Japanese white plaster wall framed with dark wooden beams"
+ },
+ "wave": {
+  "romaji": "nami",
+  "anchor": "A big curling blue ocean wave with white foam, in classic Japanese woodblock style"
+ },
+ "week": {
+  "romaji": "shuu",
+  "anchor": "A cheerful row of seven small suns lined up to show the days of a week"
+ },
+ "wide": {
+  "romaji": "hiroi",
+  "anchor": "A wide open green Japanese field stretching far under a big blue sky"
+ },
+ "wine": {
+  "romaji": "wain",
+  "anchor": "A glass of deep red wine beside a bottle resting on a table"
+ },
+ "wood": {
+  "romaji": "mokuzai",
+  "anchor": "A neat stack of freshly cut wooden planks with visible natural grain"
+ },
+ "yes": {
+  "romaji": "hai",
+  "anchor": "A cheerful Japanese child nodding with a big smile and one hand raised high"
+ },
+ "attack-noun": {
+  "romaji": "kougeki",
+  "anchor": "A cute cartoon ninja child striking a playful action pose"
+ },
+ "to-break": {
+  "romaji": "oru",
+  "anchor": "A Japanese child snapping a wooden chopstick in two with a surprised look"
+ },
+ "to-call": {
+  "romaji": "denwa",
+  "anchor": "A Japanese child happily talking on an old-fashioned telephone"
+ },
+ "to-close": {
+  "romaji": "shimeru",
+  "anchor": "A Japanese child sliding a shoji paper door gently closed"
+ },
+ "crowd": {
+  "romaji": "oozei",
+  "anchor": "A big cheerful crowd of Japanese people gathered at a summer festival"
+ },
+ "date": {
+  "romaji": "hizuke",
+  "anchor": "A calendar page with one day circled boldly in red on a clean grid"
+ },
+ "to-draw": {
+  "romaji": "kaku",
+  "anchor": "A Japanese child drawing a colorful picture with crayons at a low table"
+ },
+ "to-eat": {
+  "romaji": "taberu",
+  "anchor": "A Japanese child happily eating rice with chopsticks from a bowl"
+ },
+ "fall": {
+  "romaji": "aki",
+  "anchor": "A Japanese autumn scene with bright red momiji maple leaves gently falling"
+ },
+ "fifth": {
+  "romaji": "itsuka",
+  "anchor": "Exactly five cute red maple leaves arranged neatly in a row"
+ },
+ "to-fly": {
+  "romaji": "tobu",
+  "anchor": "A Japanese child joyfully running and flying a colorful kite in the sky"
+ },
+ "fourth": {
+  "romaji": "yokka",
+  "anchor": "Exactly four cute white paper cranes lined up in a row"
+ },
+ "to-hang-up": {
+  "romaji": "tsurusu",
+  "anchor": "Colorful teru-teru-bozu charms hanging from a Japanese window"
+ },
+ "i-formal": {
+  "romaji": "watashi",
+  "anchor": "A Japanese child pointing proudly to themselves with a bright smile"
+ },
+ "to-kiss": {
+  "romaji": "kisu",
+  "anchor": "A mother gently kissing her happy giggling baby on the cheek"
+ },
+ "leg": {
+  "romaji": "ashi",
+  "anchor": "A Japanese child in shorts and sneakers pointing to their leg"
+ },
+ "to-lock": {
+  "romaji": "rokku",
+  "anchor": "A hand turning a key in a shiny golden padlock on a Japanese gate"
+ },
+ "low": {
+  "romaji": "hikui",
+  "anchor": "A very low Japanese wooden table sitting close to the tatami floor"
+ },
+ "month-long-period": {
+  "romaji": "gekkan",
+  "anchor": "A full monthly calendar grid with a bright glowing moon in the corner"
+ },
+ "old-thing": {
+  "romaji": "furui",
+  "anchor": "An old weathered Japanese wooden temple with faded, aged timbers"
+ },
+ "park": {
+  "romaji": "kouen",
+  "anchor": "A cheerful Japanese park with cherry trees, a slide, and children playing"
+ },
+ "to-play": {
+  "romaji": "asobu",
+  "anchor": "Japanese children happily playing together in a sunny park"
+ },
+ "program": {
+  "romaji": "puroguramu",
+  "anchor": "A Japanese child smiling at a computer screen showing colorful blocks of code"
+ },
+ "to-race": {
+  "romaji": "kyousou",
+  "anchor": "Japanese children racing each other side by side at a school sports day"
+ },
+ "second": {
+  "romaji": "futsuka",
+  "anchor": "Exactly two cute red daruma dolls sitting side by side"
+ },
+ "to-have-sex": {
+  "romaji": "sekkusu",
+  "anchor": "A Japanese newlywed couple in traditional wedding kimono holding hands lovingly"
+ },
+ "short": {
+  "romaji": "mijikai",
+  "anchor": "A short stubby pencil next to a long one, showing the length contrast"
+ },
+ "to-sleep": {
+  "romaji": "neru",
+  "anchor": "A Japanese child peacefully sleeping on a futon under a cozy blanket"
+ },
+ "to-say": {
+  "romaji": "iu",
+  "anchor": "A Japanese child speaking cheerfully with an empty speech bubble floating nearby"
+ },
+ "straight": {
+  "romaji": "massugu",
+  "anchor": "A long straight Japanese country road stretching perfectly ahead toward mountains"
+ },
+ "temperature": {
+  "romaji": "kion",
+  "anchor": "A round outdoor thermometer on a sunny Japanese porch"
+ },
+ "to-throw-e-g-a-ball": {
+  "romaji": "nageru",
+  "anchor": "A Japanese child throwing a baseball with a big enthusiastic windup"
+ },
+ "to-touch": {
+  "romaji": "sawaru",
+  "anchor": "A Japanese child gently touching a soft fluffy rabbit with one finger"
+ },
+ "to-wash": {
+  "romaji": "arau",
+  "anchor": "A Japanese child washing their hands with bubbly soap at a sink"
+ },
+ "to-work": {
+  "romaji": "hataraku",
+  "anchor": "A Japanese farmer happily working in a lush green rice paddy field"
+ },
+ "air": {
+  "romaji": "kuuki",
+  "anchor": "A cheerful Japanese child breathing in fresh air on a breezy green hillside, wind moving through the grass"
+ },
+ "apartment": {
+  "romaji": "apaato",
+  "anchor": "A modern Japanese danchi apartment building with rows of small balconies and futons airing out"
+ },
+ "army": {
+  "romaji": "guntai",
+  "anchor": "A neat row of cute toy soldiers standing at attention on a tatami floor"
+ },
+ "author": {
+  "romaji": "sakka",
+  "anchor": "A smiling Japanese writer at a low wooden desk with a fountain pen and a stack of books"
+ },
+ "bag": {
+  "romaji": "kaban",
+  "anchor": "A tidy brown Japanese school kaban bag sitting upright on a wooden floor"
+ },
+ "bank": {
+  "romaji": "ginkou",
+  "anchor": "The front of a tidy Japanese bank building with an automatic glass door and a potted plant"
+ },
+ "beautiful": {
+  "romaji": "kirei",
+  "anchor": "A beautiful blooming pink sakura cherry tree in full bloom beside a calm pond"
+ },
+ "beer": {
+  "romaji": "biiru",
+  "anchor": "A tall frosty mug of golden beer with white foam on a wooden izakaya table"
+ },
+ "bill": {
+  "romaji": "tsuke",
+  "anchor": "A small wooden bill tray at a Japanese restaurant counter holding coins and a folded blank slip"
+ },
+ "blindess": {
+  "romaji": "me no fujiyuu (na)",
+  "anchor": "A kind Japanese person wearing dark glasses and holding a white cane, walking calmly"
+ },
+ "body": {
+  "romaji": "karada",
+  "anchor": "A cheerful Japanese child standing with arms outstretched, showing their whole body"
+ },
+ "bottom": {
+  "romaji": "ura",
+  "anchor": "A hand turning over a round Japanese rice cracker to show its plain underside"
+ },
+ "bread": {
+  "romaji": "pan",
+  "anchor": "A soft loaf of Japanese shokupan milk bread with thick fluffy white slices on a plate"
+ },
+ "little-brother": {
+  "romaji": "otouto",
+  "anchor": "A young Japanese boy, a little brother, smiling in a school uniform"
+ },
+ "cake": {
+  "romaji": "keeki",
+  "anchor": "A slice of Japanese strawberry shortcake with whipped cream and a strawberry on top"
+ },
+ "card": {
+  "romaji": "kaado",
+  "anchor": "A single plain colorful blank card standing upright on a wooden table"
+ },
+ "centimeter": {
+  "romaji": "senchi",
+  "anchor": "Two fingers held slightly apart to show a tiny gap of about one centimeter"
+ },
+ "chicken": {
+  "romaji": "niwatori",
+  "anchor": "A fluffy brown Japanese chicken with a bright red comb pecking on the ground"
+ },
+ "city": {
+  "romaji": "shi",
+  "anchor": "A bustling Japanese city view with tall buildings and an elevated train crossing"
+ },
+ "club": {
+  "romaji": "kurabu",
+  "anchor": "A group of Japanese schoolchildren happily gathered in an after-school club activity in a classroom"
+ },
+ "color": {
+  "romaji": "iro",
+  "anchor": "A cheerful spray of many colored paints and brushes arranged on an artist's palette"
+ },
+ "copper": {
+  "romaji": "dou",
+  "anchor": "A polished copper tea kettle with a warm reddish-brown shine on a stovetop"
+ },
+ "country": {
+  "romaji": "koku",
+  "anchor": "A peaceful Japanese countryside with rice paddies, a distant mountain, and a small village"
+ },
+ "curved": {
+  "romaji": "yamanari (na)",
+  "anchor": "A gently arching wooden bridge curving over a koi pond in a Japanese garden"
+ },
+ "deaf-person": {
+  "romaji": "rousha",
+  "anchor": "A friendly Japanese person smiling and using sign language with their hands"
+ },
+ "direction": {
+  "romaji": "hou",
+  "anchor": "A Japanese child pointing off into the distance along a path, arm outstretched"
+ },
+ "dog": {
+  "romaji": "inu",
+  "anchor": "A cheerful Shiba Inu dog with a curled tail and a red collar, sitting proudly"
+ },
+ "down": {
+  "romaji": "daun",
+  "anchor": "A cheerful Japanese child pointing downward toward the floor with one finger"
+ },
+ "dry": {
+  "romaji": "dorai",
+  "anchor": "Fresh laundry hanging fully dry in bright sunshine on a Japanese balcony"
+ },
+ "edge": {
+  "romaji": "fuchi",
+  "anchor": "A close view of the rounded rim edge of a ceramic Japanese tea bowl"
+ },
+ "eighty": {
+  "romaji": "hachijuu",
+  "anchor": "Eight neat rows of ten little red ohajiki glass marbles, eighty in all"
+ },
+ "evening": {
+  "romaji": "yoru",
+  "anchor": "A calm Japanese town street at dusk with a warm orange sky and glowing lantern light"
+ },
+ "family": {
+  "romaji": "kazoku",
+  "anchor": "A happy Japanese family of four sitting together on tatami around a low table"
+ },
+ "fast": {
+  "romaji": "hayai",
+  "anchor": "A sleek white Japanese shinkansen bullet train speeding past with motion blur"
+ },
+ "fifteen": {
+  "romaji": "juugo",
+  "anchor": "Exactly fifteen little pink sakura mochi arranged neatly in rows"
+ },
+ "fish": {
+  "romaji": "sakana",
+  "anchor": "A bright orange and white koi fish swimming in a clear garden pond"
+ },
+ "forest": {
+  "romaji": "mori",
+  "anchor": "A lush green Japanese cedar forest with tall straight sugi trees and a mossy path"
+ },
+ "fourteen": {
+  "romaji": "juuyon",
+  "anchor": "Exactly fourteen small green edamame pods lined up in rows"
+ },
+ "game": {
+  "romaji": "geemu",
+  "anchor": "A Japanese child happily playing a handheld video game console"
+ },
+ "girl": {
+  "romaji": "onnanoko",
+  "anchor": "A cheerful young Japanese girl in a bright dress waving"
+ },
+ "grandfather": {
+  "romaji": "ojiisan",
+  "anchor": "A kind elderly Japanese grandfather with glasses, smiling in a cozy cardigan"
+ },
+ "green": {
+  "romaji": "midori",
+  "anchor": "A bowl of vivid green matcha tea with a bamboo whisk beside it"
+ },
+ "half": {
+  "romaji": "han",
+  "anchor": "A round Japanese mochi cut into two equal halves on a plate"
+ },
+ "head": {
+  "romaji": "atama",
+  "anchor": "A cheerful Japanese child pointing to their own head with both hands"
+ },
+ "heavy": {
+  "romaji": "omoi",
+  "anchor": "A Japanese child straining to lift a big heavy stone, cheeks puffed with effort"
+ },
+ "horse": {
+  "romaji": "uma",
+  "anchor": "A gentle brown Kiso horse with a flowing mane standing in a green meadow"
+ },
+ "hour": {
+  "romaji": "jikan",
+  "anchor": "A simple round wall clock with a plain unmarked face and two hands, mounted on a wall"
+ },
+ "husband": {
+  "romaji": "goshujin",
+  "anchor": "A friendly Japanese man in a suit, a husband, smiling warmly"
+ },
+ "injury": {
+  "romaji": "fushou",
+  "anchor": "A Japanese child with a small bandage on their knee, being gently comforted"
+ },
+ "job": {
+  "romaji": "shigoto",
+  "anchor": "A Japanese office worker in a suit smiling at a desk with a laptop and papers"
+ },
+ "key": {
+  "romaji": "kagi",
+  "anchor": "A single brass house key on a small keyring resting on a wooden table"
+ },
+ "knee": {
+  "romaji": "hiza",
+  "anchor": "A Japanese child in shorts sitting and pointing to their bent knee"
+ },
+ "laptop": {
+  "romaji": "nooto pasokon",
+  "anchor": "An open silver laptop computer with a softly glowing blank screen on a wooden desk"
+ },
+ "library": {
+  "romaji": "toshokan",
+  "anchor": "The quiet interior of a Japanese library with tall shelves of books and a reading desk"
+ },
+ "loose": {
+  "romaji": "yurui",
+  "anchor": "A Japanese child wearing a very loose oversized sweater hanging off the shoulders"
+ },
+ "male": {
+  "romaji": "otoko",
+  "anchor": "A friendly Japanese man standing and smiling in casual clothes"
+ },
+ "march": {
+  "romaji": "sangatsu",
+  "anchor": "A Hinamatsuri display of Japanese dolls with peach blossoms, marking March"
+ },
+ "may": {
+  "romaji": "gogatsu",
+  "anchor": "Colorful carp-shaped koinobori streamers flying against a bright blue May sky"
+ },
+ "meter": {
+  "romaji": "meetoru",
+  "anchor": "A tall bamboo measuring stick held upright beside a small child to show one meter"
+ },
+ "monday": {
+  "romaji": "getsuyoubi",
+  "anchor": "A bright crescent moon shining over a quiet Japanese town at night"
+ },
+ "mother": {
+  "romaji": "okaasan",
+  "anchor": "A kind Japanese mother smiling and holding her young child"
+ },
+ "movie": {
+  "romaji": "eiga",
+  "anchor": "A cozy movie theater with a big glowing blank screen and rows of red seats"
+ },
+ "nature": {
+  "romaji": "shizen",
+  "anchor": "A serene Japanese landscape with a waterfall, green moss, and forested mountains"
+ },
+ "network": {
+  "romaji": "nettowaaku",
+  "anchor": "A glowing web of connected dots and lines spreading across a dark background"
+ },
+ "nine": {
+  "romaji": "kyuu / ku",
+  "anchor": "Exactly nine round dango dumplings on skewers, arranged neatly"
+ },
+ "north": {
+  "romaji": "kita",
+  "anchor": "A snowy northern Japanese mountain scene with a wooden arrow pointing toward the horizon"
+ },
+ "number": {
+  "romaji": "bangou",
+  "anchor": "A wooden Japanese soroban abacus with rows of colorful beads on a desk"
+ },
+ "one": {
+  "romaji": "ichi",
+  "anchor": "Exactly one round red umeboshi plum on a small white plate"
+ },
+ "pain": {
+  "romaji": "itami",
+  "anchor": "A Japanese child holding their arm with a small frown, a red spot showing where it hurts"
+ },
+ "pattern": {
+  "romaji": "pataan",
+  "anchor": "A cloth with a repeating Japanese seigaiha blue-and-white wave pattern"
+ },
+ "person": {
+  "romaji": "hito",
+  "anchor": "A single friendly Japanese person standing and smiling on a city street"
+ },
+ "plane": {
+  "romaji": "hikouki",
+  "anchor": "A white passenger airplane flying across a bright blue sky with clouds"
+ },
+ "pocket": {
+  "romaji": "poketto",
+  "anchor": "A close view of a child's shirt pocket with a small handkerchief peeking out"
+ },
+ "poor": {
+  "romaji": "hinkon (na)",
+  "anchor": "A single empty rice bowl on a bare wooden table in a humble tatami room"
+ },
+ "priest": {
+  "romaji": "sou",
+  "anchor": "A calm Japanese Buddhist monk in robes standing before a temple, hands pressed together"
+ },
+ "radio": {
+  "romaji": "rajio",
+  "anchor": "A small retro Japanese transistor radio with an antenna on a shelf"
+ },
+ "reporter": {
+  "romaji": "kisha",
+  "anchor": "A Japanese news reporter holding a microphone, standing and speaking"
+ },
+ "ring": {
+  "romaji": "yubiwa",
+  "anchor": "A shiny gold ring with a small sparkling gem resting on a cushion"
+ },
+ "sad": {
+  "romaji": "kanashii",
+  "anchor": "A Japanese child with teary eyes and a downturned mouth, looking sad"
+ },
+ "school": {
+  "romaji": "gakkou",
+  "anchor": "A Japanese elementary school building with a clock tower and children walking in"
+ },
+ "season": {
+  "romaji": "kisetsu",
+  "anchor": "One tree shown across four seasons: pink sakura, green leaves, red autumn, and snow"
+ },
+ "seven": {
+  "romaji": "shichi / nana",
+  "anchor": "Exactly seven colorful origami paper cranes lined up in a row"
+ },
+ "ship": {
+  "romaji": "fune",
+  "anchor": "A big passenger ferry ship sailing across blue ocean waves"
+ },
+ "side": {
+  "romaji": "katawara",
+  "anchor": "A calico cat sitting right beside a child's side on a tatami floor"
+ },
+ "little-sister": {
+  "romaji": "imouto",
+  "anchor": "A cheerful young Japanese girl, a little sister, smiling in a school uniform"
+ },
+ "skin": {
+  "romaji": "hifu",
+  "anchor": "A close gentle view of a Japanese child's smooth healthy cheek and arm"
+ },
+ "small": {
+  "romaji": "chiisai",
+  "anchor": "A tiny kitten sitting next to a large pumpkin, looking very small"
+ },
+ "soil": {
+  "romaji": "dojou",
+  "anchor": "Rich dark garden soil in a wooden planter with a small green sprout"
+ },
+ "sound": {
+  "romaji": "oto",
+  "anchor": "A Japanese glass furin wind chime ringing, with soft motion lines showing sound"
+ },
+ "spoon": {
+  "romaji": "supuun",
+  "anchor": "A shiny metal spoon resting on a napkin beside a bowl"
+ },
+ "star": {
+  "romaji": "hoshi",
+  "anchor": "A single bright golden five-pointed star twinkling in a deep blue night sky"
+ },
+ "strong": {
+  "romaji": "tsuyoi",
+  "anchor": "A strong Japanese sumo wrestler flexing, looking powerful and cheerful"
+ },
+ "summer": {
+  "romaji": "natsu",
+  "anchor": "A bright Japanese summer scene with a sunflower field, clear blue sky, and a cicada"
+ },
+ "t-shirt": {
+  "romaji": "tiishatsu",
+  "anchor": "A plain bright blue t-shirt laid flat with no markings"
+ },
+ "teacher": {
+  "romaji": "sensei",
+  "anchor": "A friendly Japanese teacher smiling beside a blank blackboard, holding chalk"
+ },
+ "telephone": {
+  "romaji": "denwa",
+  "anchor": "An old-style Japanese telephone with a curly cord on a wooden table"
+ },
+ "they": {
+  "romaji": "ano hitotachi",
+  "anchor": "A group of Japanese people standing together in the distance, seen from behind"
+ },
+ "thousand": {
+  "romaji": "sen",
+  "anchor": "A giant senbazuru garland of a thousand tiny folded paper cranes in rainbow colors"
+ },
+ "time": {
+  "romaji": "jikan",
+  "anchor": "A wooden hourglass with golden sand flowing through, resting on a desk"
+ },
+ "top": {
+  "romaji": "choujou",
+  "anchor": "A tiny hiker standing on the snowy summit at the very top of Mount Fuji"
+ },
+ "transportation": {
+  "romaji": "unyu",
+  "anchor": "A busy Japanese scene with a train, a bus, and a delivery truck moving together"
+ },
+ "twelve": {
+  "romaji": "juuni",
+  "anchor": "Exactly twelve small orange mikan mandarins arranged in rows"
+ },
+ "up": {
+  "romaji": "ue",
+  "anchor": "A cheerful Japanese child pointing up toward the sky with one finger"
+ },
+ "voice": {
+  "romaji": "koe",
+  "anchor": "A Japanese child singing happily with an open mouth and music notes floating up"
+ },
+ "war": {
+  "romaji": "sensou",
+  "anchor": "A pair of small toy soldiers gently toppled over on a blanket, a paper peace crane nearby"
+ },
+ "we": {
+  "romaji": "watashitachi",
+  "anchor": "A group of cheerful Japanese children standing together in a circle, arms around each other"
+ },
+ "weight": {
+  "romaji": "juuryou",
+  "anchor": "A large round black iron dumbbell weight resting on a wooden floor"
+ },
+ "wife": {
+  "romaji": "okusan",
+  "anchor": "A friendly Japanese woman in an apron, a wife, smiling warmly in a kitchen"
+ },
+ "wing": {
+  "romaji": "tsubasa",
+  "anchor": "A single large white feathered bird's wing spread wide against the sky"
+ },
+ "world": {
+  "romaji": "sekai",
+  "anchor": "A bright globe of the Earth showing green continents and blue oceans, no labels"
+ },
+ "you": {
+  "romaji": "anata",
+  "anchor": "A friendly Japanese child smiling and pointing directly forward at the viewer"
+ },
+ "bar": {
+  "romaji": "sakaba",
+  "anchor": "A warm Japanese izakaya with glowing red paper lanterns and a wooden counter at dusk"
+ },
+ "to-build": {
+  "romaji": "tateru",
+  "anchor": "A Japanese child stacking wooden blocks to build a tall tower"
+ },
+ "to-carry": {
+  "romaji": "motsu",
+  "anchor": "A Japanese child carrying a stack of books in both arms"
+ },
+ "to-cook": {
+  "romaji": "ryouri",
+  "anchor": "A Japanese child in an apron happily stirring a pot on the stove"
+ },
+ "to-cry": {
+  "romaji": "naku",
+  "anchor": "A Japanese child crying with big tears rolling down their cheeks"
+ },
+ "to-die": {
+  "romaji": "shinu",
+  "anchor": "A single wilting flower drooping gently in a small vase"
+ },
+ "to-drink": {
+  "romaji": "nomu",
+  "anchor": "A Japanese child happily drinking a glass of water, tilting the cup"
+ },
+ "energy": {
+  "romaji": "enerugii",
+  "anchor": "A Japanese child jumping with joyful energy, arms raised, radiating sparkles"
+ },
+ "to-fall-tumble": {
+  "romaji": "tenraku",
+  "anchor": "A Japanese child playfully tumbling over on a soft grassy hill, arms flailing"
+ },
+ "to-fight": {
+  "romaji": "sentou",
+  "anchor": "Two Japanese children playfully sparring in cheerful karate poses on a mat"
+ },
+ "to-follow": {
+  "romaji": "shitagau",
+  "anchor": "A row of fluffy ducklings following their mother in a neat line by a pond"
+ },
+ "glass": {
+  "romaji": "garasu",
+  "anchor": "A clear empty drinking glass on a table catching the light"
+ },
+ "he": {
+  "romaji": "kare",
+  "anchor": "A cheerful Japanese boy standing alone and waving, in casual clothes"
+ },
+ "instrument": {
+  "romaji": "gakki",
+  "anchor": "A traditional Japanese koto string instrument resting on a tatami mat"
+ },
+ "to-laugh": {
+  "romaji": "warau",
+  "anchor": "A Japanese child laughing joyfully with head tilted back and eyes shut"
+ },
+ "letter": {
+  "romaji": "tegami",
+  "anchor": "A sealed white envelope with a folded blank letter, resting on a wooden desk"
+ },
+ "long-distance": {
+  "romaji": "nagai",
+  "anchor": "A very long winding path stretching far into the distance across green hills"
+ },
+ "to-marry": {
+  "romaji": "kekkon",
+  "anchor": "A Japanese couple in traditional white wedding kimono standing together happily"
+ },
+ "night": {
+  "romaji": "yoru",
+  "anchor": "A quiet Japanese town at night under a starry sky with glowing lanterns"
+ },
+ "old": {
+  "romaji": "oi",
+  "anchor": "A kind elderly Japanese person with white hair and a gentle wrinkled smile"
+ },
+ "to-pass": {
+  "romaji": "ukaru",
+  "anchor": "A Japanese student cheering with arms raised, celebrating passing a test"
+ },
+ "player": {
+  "romaji": "senshu",
+  "anchor": "A Japanese baseball player in uniform swinging a bat on the field"
+ },
+ "to-pull": {
+  "romaji": "hiku",
+  "anchor": "A Japanese child leaning back and pulling hard on a rope in a tug-of-war"
+ },
+ "right": {
+  "romaji": "migi",
+  "anchor": "A Japanese child pointing to their right with one arm outstretched"
+ },
+ "to-see": {
+  "romaji": "miru",
+  "anchor": "A Japanese child looking through binoculars, eyes wide with wonder"
+ },
+ "to-shake": {
+  "romaji": "yureru",
+  "anchor": "Green bamboo stalks swaying and shaking in a strong breeze"
+ },
+ "autograph": {
+  "romaji": "sain",
+  "anchor": "A smiling player handing a signed blank card to an excited child, pen in hand"
+ },
+ "to-smell": {
+  "romaji": "kagu",
+  "anchor": "A Japanese child leaning in to smell a blooming flower, eyes closed happily"
+ },
+ "spring": {
+  "romaji": "haru",
+  "anchor": "A Japanese spring scene with blooming pink sakura trees and children playing"
+ },
+ "to-swim": {
+  "romaji": "oyogu",
+  "anchor": "A Japanese child swimming happily in a bright blue pool, arms mid-stroke"
+ },
+ "thin": {
+  "romaji": "usui",
+  "anchor": "A single thin slice of daikon radish held up, almost see-through"
+ },
+ "ticket": {
+  "romaji": "kippu",
+  "anchor": "A hand holding a small blank paper train ticket at a Japanese station turnstile"
+ },
+ "to-turn": {
+  "romaji": "mawasu",
+  "anchor": "A Japanese child spinning a colorful koma top on the floor"
+ },
+ "to-wear-from-the-shoulders-down": {
+  "romaji": "kiru",
+  "anchor": "A Japanese child putting on a colorful jacket, sliding both arms into the sleeves"
+ },
+ "to-write": {
+  "romaji": "kaku",
+  "anchor": "A Japanese child at a desk holding a pencil, carefully writing on a blank sheet"
+ }
+}

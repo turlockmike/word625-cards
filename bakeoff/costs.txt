@@ -1,0 +1,13 @@
+start_balance=4.83629550400002
+nano-lite: before=4.83629550400002 after=4.668239254000014
+nano-2: before=4.668239254000014 after=4.022980254000004
+nano: before=4.022980254000004 after=3.5485772540000085
+nano-pro: before=3.5485772540000085 after=2.2099747539999726
+openai/gpt-5-image-mini: before=2.2099747539999726 after=1.8237057540000023
+end_balance=1.8237057540000023
+# NOTE (Alfred): per-model boundaries taken as consecutive block-start balances,
+# because the credits endpoint posts usage with a small lag — raw before/after
+# within a block under-counted nano-pro by ~$0.27 and nano-2's fetch failed once.
+# Sum of deltas = start-end = $3.01 exactly, so nothing is lost, only re-attributed.
+# nano-pro includes one retried image (dog, transient DNS) — 11 images not 10.
+round2-jp: before=11.646238254000025 after=11.544259253999996
