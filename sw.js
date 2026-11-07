@@ -1,5 +1,5 @@
 /* Offline-first service worker. Cache-first for the app shell so it works with no network. */
-const CACHE='word625-v1';
+const CACHE='word625-v2';
 // Precache the app shell + the image manifest. Images and (deck-gated) data/words.json are
 // cached on first view by the runtime fetch handler below — offline-first once seen.
 const ASSETS=['./','./index.html','./fsrs.js','./sync.js','./app.js',
